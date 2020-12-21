@@ -69,3 +69,15 @@ TagManager:
   - name: GroundClose
     uniqueID: 4183519289
     locked: 0
+  - name: ForegroundFar
+    uniqueID: 1181417091
+    locked: 0
+  - name: ForegroundMiddle
+    uniqueID: 328617141
+    locked: 0
+  - name: ForegroundClose
+    uniqueID: 3806153537
+    locked: 0
+  - name: Ground
+    uniqueID: 3026960299
+    locked: 0
