@@ -1,0 +1,4463 @@
+fileFormatVersion: 2
+guid: b9e1988da310fbd4ea958a269e29fdeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1709686499563196678
+    second: Ground Far_0
+  - first:
+      213: -3134849744649725672
+    second: Ground Far_1
+  - first:
+      213: 8758308979671807843
+    second: Ground Far_2
+  - first:
+      213: 1302758457511150973
+    second: Ground Far_3
+  - first:
+      213: -344487680379822775
+    second: Ground Far_4
+  - first:
+      213: 5946085568235356135
+    second: Ground Far_5
+  - first:
+      213: -5563539152521565609
+    second: Ground Far_6
+  - first:
+      213: 1989110092884180157
+    second: Ground Far_7
+  - first:
+      213: 9022806367162385066
+    second: Ground Far_8
+  - first:
+      213: 2478241868922896631
+    second: Ground Far_9
+  - first:
+      213: 7109355277591085629
+    second: Ground Far_10
+  - first:
+      213: 7186112068030495131
+    second: Ground Far_11
+  - first:
+      213: -8131986977171960792
+    second: Ground Far_12
+  - first:
+      213: 4906633058224733482
+    second: Ground Far_13
+  - first:
+      213: 2932505066086205158
+    second: Ground Far_14
+  - first:
+      213: -6542903052207103016
+    second: Ground Far_15
+  - first:
+      213: -6488979425670343722
+    second: Ground Far_16
+  - first:
+      213: 3667171438016782138
+    second: Ground Far_17
+  - first:
+      213: -978687698570700524
+    second: Ground Far_18
+  - first:
+      213: 5016426358710266510
+    second: Ground Far_19
+  - first:
+      213: 7373819826785214269
+    second: Ground Far_20
+  - first:
+      213: 3472041646754562676
+    second: Ground Far_21
+  - first:
+      213: -2748525149027944633
+    second: Ground Far_22
+  - first:
+      213: 463596516744688117
+    second: Ground Far_23
+  - first:
+      213: -8696047657848581065
+    second: Ground Far_24
+  - first:
+      213: -6859500757912973442
+    second: Ground Far_25
+  - first:
+      213: -894123045402061889
+    second: Ground Far_26
+  - first:
+      213: 5500186268995228825
+    second: Ground Far_27
+  - first:
+      213: -8952346932248146570
+    second: Ground Far_28
+  - first:
+      213: 5640771255510640003
+    second: Ground Far_29
+  - first:
+      213: -673621959423693090
+    second: Ground Far_30
+  - first:
+      213: 303732205798231071
+    second: Ground Far_31
+  - first:
+      213: -157548423824028821
+    second: Ground Far_32
+  - first:
+      213: 3482690283685259784
+    second: Ground Far_33
+  - first:
+      213: 4652436280527504574
+    second: Ground Far_34
+  - first:
+      213: 7607591088505737107
+    second: Ground Far_35
+  - first:
+      213: 1664625393530165343
+    second: Ground Far_36
+  - first:
+      213: -1396842802997957008
+    second: Ground Far_37
+  - first:
+      213: -8940777566327833902
+    second: Ground Far_38
+  - first:
+      213: -5028629706411361328
+    second: Ground Far_39
+  - first:
+      213: 6402402610988474316
+    second: Ground Far_40
+  - first:
+      213: 8379802016521412017
+    second: Ground Far_41
+  - first:
+      213: 5895915021882078681
+    second: Ground Far_42
+  - first:
+      213: 199705465108498731
+    second: Ground Far_43
+  - first:
+      213: 774699994230843768
+    second: Ground Far_44
+  - first:
+      213: 8801433037231794078
+    second: Ground Far_45
+  - first:
+      213: -5654715799270864137
+    second: Ground Far_46
+  - first:
+      213: 850642721773268254
+    second: Ground Far_47
+  - first:
+      213: -4422525782656716470
+    second: Ground Far_48
+  - first:
+      213: 7042182652759565662
+    second: Ground Far_49
+  - first:
+      213: 3059172856520119303
+    second: Ground Far_50
+  - first:
+      213: -5544827828011318585
+    second: Ground Far_51
+  - first:
+      213: -1813036417569547683
+    second: Ground Far_52
+  - first:
+      213: -5008203366025025726
+    second: Ground Far_53
+  - first:
+      213: -2208758853107699997
+    second: Ground Far_54
+  - first:
+      213: -8253032114368923394
+    second: Ground Far_55
+  - first:
+      213: -3355283182614213670
+    second: Ground Far_56
+  - first:
+      213: -601688770042013346
+    second: Ground Far_57
+  - first:
+      213: -2698575070852498904
+    second: Ground Far_58
+  - first:
+      213: 1820376357391917108
+    second: Ground Far_59
+  - first:
+      213: -1957875479889253392
+    second: Ground Far_60
+  - first:
+      213: 3342623051117782313
+    second: Ground Far_61
+  - first:
+      213: 8548988627467032000
+    second: Ground Far_62
+  - first:
+      213: 1862702218399595499
+    second: Ground Far_63
+  - first:
+      213: -5063386662967655129
+    second: Ground Far_64
+  - first:
+      213: 2805496348166099047
+    second: Ground Far_65
+  - first:
+      213: 5213609268336307711
+    second: Ground Far_66
+  - first:
+      213: 232575252243664955
+    second: Ground Far_67
+  - first:
+      213: 1025388757607905644
+    second: Ground Far_68
+  - first:
+      213: -5187318700344738303
+    second: Ground Far_69
+  - first:
+      213: -6748190575757239827
+    second: Ground Far_70
+  - first:
+      213: 3781013312408712690
+    second: Ground Far_71
+  - first:
+      213: 5096482892477402847
+    second: Ground Far_72
+  - first:
+      213: 7950612197849668820
+    second: Ground Far_73
+  - first:
+      213: 800202600760880262
+    second: Ground Far_74
+  - first:
+      213: 6566981960078211421
+    second: Ground Far_75
+  - first:
+      213: -7427888170264922631
+    second: Ground Far_76
+  - first:
+      213: 3095858973383350155
+    second: Ground Far_77
+  - first:
+      213: -4369390667667199565
+    second: Ground Far_78
+  - first:
+      213: 8610079717308434131
+    second: Ground Far_79
+  - first:
+      213: 6298630358315968311
+    second: Ground Far_80
+  - first:
+      213: -2473976468976215170
+    second: Ground Far_81
+  - first:
+      213: -3701125825346646272
+    second: Ground Far_82
+  - first:
+      213: -3486359177519290380
+    second: Ground Far_83
+  - first:
+      213: 2110766764559346990
+    second: Ground Far_84
+  - first:
+      213: -783337068821448808
+    second: Ground Far_85
+  - first:
+      213: 9127785722321973701
+    second: Ground Far_86
+  - first:
+      213: 3544280013056153129
+    second: Ground Far_87
+  - first:
+      213: -1535297272552911193
+    second: Ground Far_88
+  - first:
+      213: -4280941517638019259
+    second: Ground Far_89
+  - first:
+      213: 8383434713997476958
+    second: Ground Far_90
+  - first:
+      213: 210357648327365732
+    second: Ground Far_91
+  - first:
+      213: -6788558075029665686
+    second: Ground Far_92
+  - first:
+      213: 8359593831933909920
+    second: Ground Far_93
+  - first:
+      213: 475256472785960353
+    second: Ground Far_94
+  - first:
+      213: 4076546824283658164
+    second: Ground Far_95
+  - first:
+      213: 523682609443169086
+    second: Ground Far_96
+  - first:
+      213: 4085024986480647905
+    second: Ground Far_97
+  - first:
+      213: -6796897267590011514
+    second: Ground Far_98
+  - first:
+      213: 3606985838456679042
+    second: Ground Far_99
+  - first:
+      213: 2755462740051493698
+    second: Ground Far_100
+  - first:
+      213: -4518339665254168245
+    second: Ground Far_101
+  - first:
+      213: 3674368621053277307
+    second: Ground Far_102
+  - first:
+      213: 8193537311318275208
+    second: Ground Far_103
+  - first:
+      213: -9110398602995890506
+    second: Ground Far_104
+  - first:
+      213: 8440662503127013563
+    second: Ground Far_105
+  - first:
+      213: -8142411763381911028
+    second: Ground Far_106
+  - first:
+      213: 742355109004705589
+    second: Ground Far_107
+  - first:
+      213: -2149791740862620399
+    second: Ground Far_108
+  - first:
+      213: -1905296162737379412
+    second: Ground Far_109
+  - first:
+      213: 95309101879173846
+    second: Ground Far_110
+  - first:
+      213: -9114300874572820342
+    second: Ground Far_111
+  - first:
+      213: 578700728260727788
+    second: Ground Far_112
+  - first:
+      213: 2598306175098180787
+    second: Ground Far_113
+  - first:
+      213: 7615738507224385595
+    second: Ground Far_114
+  - first:
+      213: -2961278767999138183
+    second: Ground Far_115
+  - first:
+      213: -2859945508011920717
+    second: Ground Far_116
+  - first:
+      213: 4605852332304152341
+    second: Ground Far_117
+  - first:
+      213: 5630524517188168919
+    second: Ground Far_118
+  - first:
+      213: 5429242045868587313
+    second: Ground Far_119
+  - first:
+      213: -3124279903504268441
+    second: Ground Far_120
+  - first:
+      213: -6285930162031199067
+    second: Ground Far_121
+  - first:
+      213: -1799310571258140250
+    second: Ground Far_122
+  - first:
+      213: -4773959364722251749
+    second: Ground Far_123
+  - first:
+      213: -2611821838635213287
+    second: Ground Far_124
+  - first:
+      213: -7489752328919781922
+    second: Ground Far_125
+  - first:
+      213: -2235282286828419643
+    second: Ground Far_126
+  - first:
+      213: 5249331727885782318
+    second: Ground Far_127
+  - first:
+      213: 2216823197090086377
+    second: Ground Far_128
+  - first:
+      213: -3704816344745648684
+    second: Ground Far_129
+  - first:
+      213: -243173764313458577
+    second: Ground Far_130
+  - first:
+      213: -6113483657737558479
+    second: Ground Far_131
+  - first:
+      213: -4464373814240698473
+    second: Ground Far_132
+  - first:
+      213: 472724805572079927
+    second: Ground Far_133
+  - first:
+      213: 2969172316519078877
+    second: Ground Far_134
+  - first:
+      213: -3148075346363614620
+    second: Ground Far_135
+  - first:
+      213: -5650554027971496630
+    second: Ground Far_136
+  - first:
+      213: -668681769492694380
+    second: Ground Far_137
+  - first:
+      213: 2424170453867139063
+    second: Ground Far_138
+  - first:
+      213: 8697161387672244119
+    second: Ground Far_139
+  - first:
+      213: 7445740444952356395
+    second: Ground Far_140
+  - first:
+      213: 5207891954324085219
+    second: Ground Far_141
+  - first:
+      213: 4966212591426065306
+    second: Ground Far_142
+  - first:
+      213: -658940311008609671
+    second: Ground Far_143
+  - first:
+      213: -3581546342782305561
+    second: Ground Far_144
+  - first:
+      213: -2161676862126981032
+    second: Ground Far_145
+  - first:
+      213: -1234751985069551084
+    second: Ground Far_146
+  - first:
+      213: 2972407092942568586
+    second: Ground Far_147
+  - first:
+      213: -3365007039480206526
+    second: Ground Far_148
+  - first:
+      213: 9025074940308232594
+    second: Ground Far_149
+  - first:
+      213: 7846928647567953904
+    second: Ground Far_150
+  - first:
+      213: 6184738642365231809
+    second: Ground Far_151
+  - first:
+      213: 4245931259668376180
+    second: Ground Far_152
+  - first:
+      213: -2640126369858591542
+    second: Ground Far_153
+  - first:
+      213: 3294518894464910109
+    second: Ground Far_154
+  - first:
+      213: -4218551020582168038
+    second: Ground Far_155
+  - first:
+      213: 8328798754230789860
+    second: Ground Far_156
+  - first:
+      213: -8661594311900090737
+    second: Ground Far_157
+  - first:
+      213: -8139236580371807088
+    second: Ground Far_158
+  - first:
+      213: 6273754087376814340
+    second: Ground Far_159
+  - first:
+      213: 2729968625916485761
+    second: Ground Far_160
+  - first:
+      213: -4946987416340593972
+    second: Ground Far_161
+  - first:
+      213: -2560270390264200705
+    second: Ground Far_162
+  - first:
+      213: 3328703284094129006
+    second: Ground Far_163
+  - first:
+      213: -1368499105338175772
+    second: Ground Far_164
+  - first:
+      213: 7905651009267491411
+    second: Ground Far_165
+  - first:
+      213: 6585301592253659547
+    second: Ground Far_166
+  - first:
+      213: 4207382183649829149
+    second: Ground Far_167
+  - first:
+      213: -2801750227909228666
+    second: Ground Far_168
+  - first:
+      213: 6009362972261885576
+    second: Ground Far_169
+  - first:
+      213: 7958773348307193460
+    second: Ground Far_170
+  - first:
+      213: 2897183137030539307
+    second: Ground Far_171
+  - first:
+      213: -4175429384536821230
+    second: Ground Far_172
+  - first:
+      213: -2626964309236356762
+    second: Ground Far_173
+  - first:
+      213: -4665980692454313228
+    second: Ground Far_174
+  - first:
+      213: 4306737823655284507
+    second: Ground Far_175
+  - first:
+      213: -6603562541081231016
+    second: Ground Far_176
+  - first:
+      213: 8528246289695896873
+    second: Ground Far_177
+  - first:
+      213: -2431769761072655037
+    second: Ground Far_178
+  - first:
+      213: -6898648724381033623
+    second: Ground Far_179
+  - first:
+      213: -5513204824448343365
+    second: Ground Far_180
+  - first:
+      213: 3893030231129143525
+    second: Ground Far_181
+  - first:
+      213: 1799151054884063300
+    second: Ground Far_182
+  - first:
+      213: 4165425506744597594
+    second: Ground Far_183
+  - first:
+      213: -3242898723394907059
+    second: Ground Far_184
+  - first:
+      213: -8285788353458134971
+    second: Ground Far_185
+  - first:
+      213: 8999559997864339884
+    second: Ground Far_186
+  - first:
+      213: 5721287437966108311
+    second: Ground Far_187
+  - first:
+      213: -2736638489270303470
+    second: Ground Far_188
+  - first:
+      213: 7024133715668496125
+    second: Ground Far_189
+  - first:
+      213: 489108409474768295
+    second: Ground Far_190
+  - first:
+      213: -1817322815860805210
+    second: Ground Far_191
+  - first:
+      213: 694225546592031426
+    second: Ground Far_192
+  - first:
+      213: 7339479671976647233
+    second: Ground Far_193
+  - first:
+      213: 8207954851634693654
+    second: Ground Far_194
+  - first:
+      213: 3472160240999387145
+    second: Ground Far_195
+  - first:
+      213: 367903797266162225
+    second: Ground Far_196
+  - first:
+      213: -4287756543351255197
+    second: Ground Far_197
+  - first:
+      213: 308464648829227623
+    second: Ground Far_198
+  - first:
+      213: -6353112423140270434
+    second: Ground Far_199
+  - first:
+      213: -369390948154751355
+    second: Ground Far_200
+  - first:
+      213: -6517043434527965619
+    second: Ground Far_201
+  - first:
+      213: -894471838050967572
+    second: Ground Far_202
+  - first:
+      213: -3026842197469462979
+    second: Ground Far_203
+  - first:
+      213: -1654269964317697453
+    second: Ground Far_204
+  - first:
+      213: 1135088237070211756
+    second: Ground Far_205
+  - first:
+      213: -7621462971291587807
+    second: Ground Far_206
+  - first:
+      213: 1653526146015596946
+    second: Ground Far_207
+  - first:
+      213: -2363735820895141017
+    second: Ground Far_208
+  - first:
+      213: -4284218742560238535
+    second: Ground Far_209
+  - first:
+      213: -8001009793493587110
+    second: Ground Far_210
+  - first:
+      213: -513225973970423435
+    second: Ground Far_211
+  - first:
+      213: -244877803191730624
+    second: Ground Far_212
+  - first:
+      213: -6310819892353172625
+    second: Ground Far_213
+  - first:
+      213: 2901028729584333069
+    second: Ground Far_214
+  - first:
+      213: 4366064787599803452
+    second: Ground Far_215
+  - first:
+      213: -1617247625415559051
+    second: Ground Far_216
+  - first:
+      213: -4052265053170263165
+    second: Ground Far_217
+  - first:
+      213: -3940913210601251311
+    second: Ground Far_218
+  - first:
+      213: -1482916218541951050
+    second: Ground Far_219
+  - first:
+      213: 4951911028672712873
+    second: Ground Far_220
+  - first:
+      213: -2867757176704403709
+    second: Ground Far_221
+  - first:
+      213: -5447052944577956248
+    second: Ground Far_222
+  - first:
+      213: -3891115615717511088
+    second: Ground Far_223
+  - first:
+      213: -8062914406229119643
+    second: Ground Far_224
+  - first:
+      213: 3972730196158113553
+    second: Ground Far_225
+  - first:
+      213: -5240983688298264130
+    second: Ground Far_226
+  - first:
+      213: 3690556258675499456
+    second: Ground Far_227
+  - first:
+      213: -956981612567182028
+    second: Ground Far_228
+  - first:
+      213: -8038481906837458891
+    second: Ground Far_229
+  - first:
+      213: 237879190536231908
+    second: Ground Far_230
+  - first:
+      213: 4444019288123657256
+    second: Ground Far_231
+  - first:
+      213: 4114258880830777311
+    second: Ground Far_232
+  - first:
+      213: 2499072522220220103
+    second: Ground Far_233
+  - first:
+      213: 5838787966133816478
+    second: Ground Far_234
+  - first:
+      213: -4667124576360633697
+    second: Ground Far_235
+  - first:
+      213: -2731967278963525936
+    second: Ground Far_236
+  - first:
+      213: 2201579965141962361
+    second: Ground Far_237
+  - first:
+      213: -6026345345984434646
+    second: Ground Far_238
+  - first:
+      213: -1849579444722600003
+    second: Ground Far_239
+  - first:
+      213: 1479063543871768309
+    second: Ground Far_240
+  - first:
+      213: -5811628855036305269
+    second: Ground Far_241
+  - first:
+      213: -5504428262057888262
+    second: Ground Far_242
+  - first:
+      213: -7247857662976717077
+    second: Ground Far_243
+  - first:
+      213: 8171846695455854802
+    second: Ground Far_244
+  - first:
+      213: -213084653943512103
+    second: Ground Far_245
+  - first:
+      213: 2364061078395611260
+    second: Ground Far_246
+  - first:
+      213: -5749252179547630387
+    second: Ground Far_247
+  - first:
+      213: -6063571495980551846
+    second: Ground Far_248
+  - first:
+      213: -5873977132198724141
+    second: Ground Far_249
+  - first:
+      213: -346676958367870984
+    second: Ground Far_250
+  - first:
+      213: 415979988778792778
+    second: Ground Far_251
+  - first:
+      213: 7926283963146487678
+    second: Ground Far_252
+  - first:
+      213: 6775900375374956754
+    second: Ground Far_253
+  - first:
+      213: 8348556417111351801
+    second: Ground Far_254
+  - first:
+      213: 6176015636570909679
+    second: Ground Far_255
+  - first:
+      213: 183288821724273128
+    second: Ground Far_256
+  - first:
+      213: -7801969222890444551
+    second: Ground Far_257
+  - first:
+      213: -3412393641263988276
+    second: Ground Far_258
+  - first:
+      213: 4689223237933795415
+    second: Ground Far_259
+  - first:
+      213: -2924972819615719574
+    second: Ground Far_260
+  - first:
+      213: 9004221347952093523
+    second: Ground Far_261
+  - first:
+      213: -1380273494185612211
+    second: Ground Far_262
+  - first:
+      213: -1636851048274256392
+    second: Ground Far_263
+  - first:
+      213: 2320888663243098911
+    second: Ground Far_264
+  - first:
+      213: 4944335255597823375
+    second: Ground Far_265
+  - first:
+      213: -3807603292084778943
+    second: Ground Far_266
+  - first:
+      213: 2353038699689540842
+    second: Ground Far_267
+  - first:
+      213: 3077589507960692275
+    second: Ground Far_268
+  - first:
+      213: -1611566374289324959
+    second: Ground Far_269
+  - first:
+      213: -7944424326783507356
+    second: Ground Far_270
+  - first:
+      213: 4801462721554941923
+    second: Ground Far_271
+  - first:
+      213: 6968154305227748836
+    second: Ground Far_272
+  - first:
+      213: 5742444347704785156
+    second: Ground Far_273
+  - first:
+      213: 4919432977032245809
+    second: Ground Far_274
+  - first:
+      213: -6316870427077948103
+    second: Ground Far_275
+  - first:
+      213: 9084586501224962248
+    second: Ground Far_276
+  - first:
+      213: 153452185820735797
+    second: Ground Far_277
+  - first:
+      213: -6201171280009015795
+    second: Ground Far_278
+  - first:
+      213: -8744079724687266639
+    second: Ground Far_279
+  - first:
+      213: -2553626322258761215
+    second: Ground Far_280
+  - first:
+      213: -1754500507057878631
+    second: Ground Far_281
+  - first:
+      213: -7865142477013508115
+    second: Ground Far_282
+  - first:
+      213: -2213560097585900009
+    second: Ground Far_283
+  - first:
+      213: 237360376298437656
+    second: Ground Far_284
+  - first:
+      213: -6194555963445995439
+    second: Ground Far_285
+  - first:
+      213: -622134148864926304
+    second: Ground Far_286
+  - first:
+      213: -5787255477465300322
+    second: Ground Far_287
+  - first:
+      213: 5849385096519681976
+    second: Ground Far_288
+  - first:
+      213: 1261624466474252586
+    second: Ground Far_289
+  - first:
+      213: 2196556400435399558
+    second: Ground Far_290
+  - first:
+      213: 4517737962393197033
+    second: Ground Far_291
+  - first:
+      213: 5619943482555248195
+    second: Ground Far_292
+  - first:
+      213: 4525972572054568816
+    second: Ground Far_293
+  - first:
+      213: -7745122483867192885
+    second: Ground Far_294
+  - first:
+      213: 4470065210316698157
+    second: Ground Far_295
+  - first:
+      213: 4528249792951025075
+    second: Ground Far_296
+  - first:
+      213: 8225863463847120831
+    second: Ground Far_297
+  - first:
+      213: -7217711422361680167
+    second: Ground Far_298
+  - first:
+      213: 8564094452738975268
+    second: Ground Far_299
+  - first:
+      213: -6895743103283020204
+    second: Ground Far_300
+  - first:
+      213: 637143590987574174
+    second: Ground Far_301
+  - first:
+      213: 8327633075081187998
+    second: Ground Far_302
+  - first:
+      213: 3616400698738655576
+    second: Ground Far_303
+  - first:
+      213: 1735666238000146293
+    second: Ground Far_304
+  - first:
+      213: -8574597192179931385
+    second: Ground Far_305
+  - first:
+      213: 195943757992063780
+    second: Ground Far_306
+  - first:
+      213: -5363352049334795756
+    second: Ground Far_307
+  - first:
+      213: -553738612731108516
+    second: Ground Far_308
+  - first:
+      213: 6026113448342381667
+    second: Ground Far_309
+  - first:
+      213: 1208488722396318771
+    second: Ground Far_310
+  - first:
+      213: 5564531996450288483
+    second: Ground Far_311
+  - first:
+      213: -7977865114680875958
+    second: Ground Far_312
+  - first:
+      213: 1315025037073871724
+    second: Ground Far_313
+  - first:
+      213: 3437765203827638312
+    second: Ground Far_314
+  - first:
+      213: 8610642649503519273
+    second: Ground Far_315
+  - first:
+      213: 8813466373215608406
+    second: Ground Far_316
+  - first:
+      213: -3227764214301021281
+    second: Ground Far_317
+  - first:
+      213: 1012652380415391573
+    second: Ground Far_318
+  - first:
+      213: 9147942685035254598
+    second: Ground Far_319
+  - first:
+      213: 6669320710013866120
+    second: Ground Far_320
+  - first:
+      213: -7495383379631217390
+    second: Ground Far_321
+  - first:
+      213: 798836400301582671
+    second: Ground Far_322
+  - first:
+      213: -4194220183930720654
+    second: Ground Far_323
+  - first:
+      213: 1231167212284942223
+    second: Ground Far_324
+  - first:
+      213: 5558145477095282460
+    second: Ground Far_325
+  - first:
+      213: -4997809885838301500
+    second: Ground Far_326
+  - first:
+      213: -1261246836865516278
+    second: Ground Far_327
+  - first:
+      213: 5487977713147696075
+    second: Ground Far_328
+  - first:
+      213: 7392425233500426139
+    second: Ground Far_329
+  - first:
+      213: -4460814828464991393
+    second: Ground Far_330
+  - first:
+      213: 7337698041611585804
+    second: Ground Far_331
+  - first:
+      213: -7386450499161626063
+    second: Ground Far_332
+  - first:
+      213: -1352389957887497998
+    second: Ground Far_333
+  - first:
+      213: -2312339276714294467
+    second: Ground Far_334
+  - first:
+      213: 1401380628601561375
+    second: Ground Far_335
+  - first:
+      213: 3585033012407279876
+    second: Ground Far_336
+  - first:
+      213: -3071028601775850138
+    second: Ground Far_337
+  - first:
+      213: 9140199641422536823
+    second: Ground Far_338
+  - first:
+      213: -6693325953840671783
+    second: Ground Far_339
+  - first:
+      213: -4837954834145009412
+    second: Ground Far_340
+  - first:
+      213: 3987446605243856517
+    second: Ground Far_341
+  - first:
+      213: -8460935354248842876
+    second: Ground Far_342
+  - first:
+      213: -8853051633845452825
+    second: Ground Far_343
+  - first:
+      213: -1420648001433440013
+    second: Ground Far_344
+  - first:
+      213: -2858042520450335637
+    second: Ground Far_345
+  - first:
+      213: 3472696072276829174
+    second: Ground Far_346
+  - first:
+      213: -5429954423264177291
+    second: Ground Far_347
+  - first:
+      213: 645342628796942341
+    second: Ground Far_348
+  - first:
+      213: 6931908387426653532
+    second: Ground Far_349
+  - first:
+      213: -7063111440358273866
+    second: Ground Far_350
+  - first:
+      213: 1036302432836584
+    second: Ground Far_351
+  - first:
+      213: -4789930551917086469
+    second: Ground Far_352
+  - first:
+      213: 5237583420256713568
+    second: Ground Far_353
+  - first:
+      213: 6303990066698719320
+    second: Ground Far_354
+  - first:
+      213: 8077556576625989702
+    second: Ground Far_355
+  - first:
+      213: 2006439723385926267
+    second: Ground Far_356
+  - first:
+      213: -1314593508192654380
+    second: Ground Far_357
+  - first:
+      213: -68480992975718056
+    second: Ground Far_358
+  - first:
+      213: -4305434327749890060
+    second: Ground Far_359
+  - first:
+      213: 5622289797204928244
+    second: Ground Far_360
+  - first:
+      213: -1590838800235914179
+    second: Ground Far_361
+  - first:
+      213: 485133536720543024
+    second: Ground Far_362
+  - first:
+      213: 6899745666436991666
+    second: Ground Far_363
+  - first:
+      213: 1724673242151944550
+    second: Ground Far_364
+  - first:
+      213: 6543824415037477199
+    second: Ground Far_365
+  - first:
+      213: -1153082857048305824
+    second: Ground Far_366
+  - first:
+      213: 7521296298253642787
+    second: Ground Far_367
+  - first:
+      213: -3618499861206447892
+    second: Ground Far_368
+  - first:
+      213: -504579432975378633
+    second: Ground Far_369
+  - first:
+      213: -4110795450064056713
+    second: Ground Far_370
+  - first:
+      213: -8945122549717336910
+    second: Ground Far_371
+  - first:
+      213: 1305687026064364263
+    second: Ground Far_372
+  - first:
+      213: -2432589815610400166
+    second: Ground Far_373
+  - first:
+      213: 8989434560708560628
+    second: Ground Far_374
+  - first:
+      213: -2235328078675942361
+    second: Ground Far_375
+  - first:
+      213: -370433526443455321
+    second: Ground Far_376
+  - first:
+      213: 1217628823990548187
+    second: Ground Far_377
+  - first:
+      213: -1731087406377234306
+    second: Ground Far_378
+  - first:
+      213: 1911774512140813232
+    second: Ground Far_379
+  - first:
+      213: -5599837015463216527
+    second: Ground Far_380
+  - first:
+      213: -6422318752325324591
+    second: Ground Far_381
+  - first:
+      213: 2602783389492234526
+    second: Ground Far_382
+  - first:
+      213: -1569963330046364487
+    second: Ground Far_383
+  - first:
+      213: 2571612053646749739
+    second: Ground Far_384
+  - first:
+      213: -1062367501197211910
+    second: Ground Far_385
+  - first:
+      213: -7501311893417212737
+    second: Ground Far_386
+  - first:
+      213: -8334598314879275624
+    second: Ground Far_387
+  - first:
+      213: -2887823001193960280
+    second: Ground Far_388
+  - first:
+      213: 8649138632536007691
+    second: Ground Far_389
+  - first:
+      213: -3749479997271224250
+    second: Ground Far_390
+  - first:
+      213: -5119433799600819847
+    second: Ground Far_391
+  - first:
+      213: -2013148716592197485
+    second: Ground Far_392
+  - first:
+      213: 4246493422365939133
+    second: Ground Far_393
+  - first:
+      213: -5697068403664162490
+    second: Ground Far_394
+  - first:
+      213: 7920910548433698819
+    second: Ground Far_395
+  - first:
+      213: 1803919723866846424
+    second: Ground Far_396
+  - first:
+      213: 8085119976117101590
+    second: Ground Far_397
+  - first:
+      213: -2408289974357522046
+    second: Ground Far_398
+  - first:
+      213: -7192892421140731609
+    second: Ground Far_399
+  - first:
+      213: 3141368777877352440
+    second: Ground Far_400
+  - first:
+      213: -9213733666144932312
+    second: Ground Far_401
+  - first:
+      213: 8191572673236106352
+    second: Ground Far_402
+  - first:
+      213: -612500674483289704
+    second: Ground Far_403
+  - first:
+      213: -7613216349668965492
+    second: Ground Far_404
+  - first:
+      213: 1020946251790701287
+    second: Ground Far_405
+  - first:
+      213: -6040383710690391086
+    second: Ground Far_406
+  - first:
+      213: 4954960620491004542
+    second: Ground Far_407
+  - first:
+      213: 9040238651306898919
+    second: Ground Far_408
+  - first:
+      213: 4038036528706428706
+    second: Ground Far_409
+  - first:
+      213: 5069499249653619383
+    second: Ground Far_410
+  - first:
+      213: 1299521606013562905
+    second: Ground Far_411
+  - first:
+      213: -3254650176743108
+    second: Ground Far_412
+  - first:
+      213: -9187514212376012772
+    second: Ground Far_413
+  - first:
+      213: 5465558256395185044
+    second: Ground Far_414
+  - first:
+      213: -8049184294859637102
+    second: Ground Far_415
+  - first:
+      213: 8881715634366149499
+    second: Ground Far_416
+  - first:
+      213: -670149565367390140
+    second: Ground Far_417
+  - first:
+      213: 8915836663551903086
+    second: Ground Far_418
+  - first:
+      213: 5598546784589371820
+    second: Ground Far_419
+  - first:
+      213: 8603540238743008053
+    second: Ground Far_420
+  - first:
+      213: 8044987997349543939
+    second: Ground Far_421
+  - first:
+      213: -8571222932964573385
+    second: Ground Far_422
+  - first:
+      213: 851484916609451577
+    second: Ground Far_423
+  - first:
+      213: 213053848852572667
+    second: Ground Far_424
+  - first:
+      213: -3772359834002837723
+    second: Ground Far_425
+  - first:
+      213: -8624448783258784889
+    second: Ground Far_426
+  - first:
+      213: -1323963856885752583
+    second: Ground Far_427
+  - first:
+      213: 2616499906103972800
+    second: Ground Far_428
+  - first:
+      213: -3146827805281896259
+    second: Ground Far_429
+  - first:
+      213: -7182404598232207624
+    second: Ground Far_430
+  - first:
+      213: -1420281300785683560
+    second: Ground Far_431
+  - first:
+      213: 1293134843366573825
+    second: Ground Far_432
+  - first:
+      213: -6638567790791548666
+    second: Ground Far_433
+  - first:
+      213: 1690295640530075949
+    second: Ground Far_434
+  - first:
+      213: 4324378744376516375
+    second: Ground Far_435
+  - first:
+      213: 260993920115112531
+    second: Ground Far_436
+  - first:
+      213: -5291854608276298106
+    second: Ground Far_437
+  - first:
+      213: -4861616442474584024
+    second: Ground Far_438
+  - first:
+      213: -2425562629278696646
+    second: Ground Far_439
+  - first:
+      213: 2923587945234854008
+    second: Ground Far_440
+  - first:
+      213: 8627627949254014838
+    second: Ground Far_441
+  - first:
+      213: 6803254505651471151
+    second: Ground Far_442
+  - first:
+      213: 2925492901859467380
+    second: Ground Far_443
+  - first:
+      213: 1278322825375926831
+    second: Ground Far_444
+  - first:
+      213: -7283173549228589043
+    second: Ground Far_445
+  - first:
+      213: 624852405126251348
+    second: Ground Far_446
+  - first:
+      213: -5797856076620446190
+    second: Ground Far_447
+  - first:
+      213: 6074390281936800637
+    second: Ground Far_448
+  - first:
+      213: -2548524186091641128
+    second: Ground Far_449
+  - first:
+      213: -5016372409209812792
+    second: Ground Far_450
+  - first:
+      213: 8038369709069254889
+    second: Ground Far_451
+  - first:
+      213: 5908283851921163253
+    second: Ground Far_452
+  - first:
+      213: 3414222252503120031
+    second: Ground Far_453
+  - first:
+      213: -7036542786023131887
+    second: Ground Far_454
+  - first:
+      213: 4974757367868964088
+    second: Ground Far_455
+  - first:
+      213: 7867645474478830947
+    second: Ground Far_456
+  - first:
+      213: 7007342892288566083
+    second: Ground Far_457
+  - first:
+      213: -2836962575813524699
+    second: Ground Far_458
+  - first:
+      213: -4230024733357408168
+    second: Ground Far_459
+  - first:
+      213: -2323634423664577950
+    second: Ground Far_460
+  - first:
+      213: 7464519186606357620
+    second: Ground Far_461
+  - first:
+      213: -3615484281019736093
+    second: Ground Far_462
+  - first:
+      213: 2766583261624373155
+    second: Ground Far_463
+  - first:
+      213: 2388487791353250771
+    second: Ground Far_464
+  - first:
+      213: 8830410241249769485
+    second: Ground Far_465
+  - first:
+      213: -3853805055958155890
+    second: Ground Far_466
+  - first:
+      213: -6966079058487423078
+    second: Ground Far_467
+  - first:
+      213: -4220717849290612084
+    second: Ground Far_468
+  - first:
+      213: -8699128421936878141
+    second: Ground Far_469
+  - first:
+      213: 8812415711762767025
+    second: Ground Far_470
+  - first:
+      213: 3462612623965868594
+    second: Ground Far_471
+  - first:
+      213: -7968098818335560611
+    second: Ground Far_472
+  - first:
+      213: 9000705250961134339
+    second: Ground Far_473
+  - first:
+      213: 8919947727627169799
+    second: Ground Far_474
+  - first:
+      213: 4225186179317385068
+    second: Ground Far_475
+  - first:
+      213: -333578432630352313
+    second: Ground Far_476
+  - first:
+      213: 3463771435214796766
+    second: Ground Far_477
+  - first:
+      213: 6730476316263913444
+    second: Ground Far_478
+  - first:
+      213: 5712288960669059780
+    second: Ground Far_479
+  - first:
+      213: 6462253774850133749
+    second: Ground Far_480
+  - first:
+      213: -681588252557971370
+    second: Ground Far_481
+  - first:
+      213: -2311815338302983740
+    second: Ground Far_482
+  - first:
+      213: 2490037610414395193
+    second: Ground Far_483
+  - first:
+      213: 4027553624148648975
+    second: Ground Far_484
+  - first:
+      213: -377795022582535623
+    second: Ground Far_485
+  - first:
+      213: 9088629630636795756
+    second: Ground Far_486
+  - first:
+      213: 6771540117588045878
+    second: Ground Far_487
+  - first:
+      213: -450694188327163849
+    second: Ground Far_488
+  - first:
+      213: -692026241665243144
+    second: Ground Far_489
+  - first:
+      213: -5269734190234420684
+    second: Ground Far_490
+  - first:
+      213: 4052863269839820397
+    second: Ground Far_491
+  - first:
+      213: -6330183204893063549
+    second: Ground Far_492
+  - first:
+      213: 7795479727514452078
+    second: Ground Far_493
+  - first:
+      213: -4792974320661078680
+    second: Ground Far_494
+  - first:
+      213: -9049622849220088792
+    second: Ground Far_495
+  - first:
+      213: 5164242652839644007
+    second: Ground Far_496
+  - first:
+      213: 2009088640129085238
+    second: Ground Far_497
+  - first:
+      213: -1350744014721227026
+    second: Ground Far_498
+  - first:
+      213: 2682426700736849771
+    second: Ground Far_499
+  - first:
+      213: -2764781678109461837
+    second: Ground Far_500
+  - first:
+      213: -3727175883118255353
+    second: Ground Far_501
+  - first:
+      213: 281961000215737307
+    second: Ground Far_502
+  - first:
+      213: 8649241448813172322
+    second: Ground Far_503
+  - first:
+      213: -6281159433816417312
+    second: Ground Far_504
+  - first:
+      213: 1781009293494241392
+    second: Ground Far_505
+  - first:
+      213: 1545218619857870738
+    second: Ground Far_506
+  - first:
+      213: 3791170721252649655
+    second: Ground Far_507
+  - first:
+      213: -5584098568396726805
+    second: Ground Far_508
+  - first:
+      213: -5834250656662690195
+    second: Ground Far_509
+  - first:
+      213: -2420809782644544463
+    second: Ground Far_510
+  - first:
+      213: -6750647032655861518
+    second: Ground Far_511
+  - first:
+      213: 4904038243218528882
+    second: Ground Far_512
+  - first:
+      213: 3030029012662474109
+    second: Ground Far_513
+  - first:
+      213: -7571306493055343749
+    second: Ground Far_514
+  - first:
+      213: -5502540680466608712
+    second: Ground Far_515
+  - first:
+      213: 1868370038514076723
+    second: Ground Far_516
+  - first:
+      213: -4675142268872682802
+    second: Ground Far_517
+  - first:
+      213: 5332372925964188659
+    second: Ground Far_518
+  - first:
+      213: -4851008601889027080
+    second: Ground Far_519
+  - first:
+      213: 6839402667094464477
+    second: Ground Far_520
+  - first:
+      213: 5792312294712898908
+    second: Ground Far_521
+  - first:
+      213: -968181688424309208
+    second: Ground Far_522
+  - first:
+      213: 8996485785710270368
+    second: Ground Far_523
+  - first:
+      213: 625665136326169651
+    second: Ground Far_524
+  - first:
+      213: -6285771748919575249
+    second: Ground Far_525
+  - first:
+      213: 7646033438256293722
+    second: Ground Far_526
+  - first:
+      213: 2169114356484607133
+    second: Ground Far_527
+  - first:
+      213: -489832973293094615
+    second: Ground Far_528
+  - first:
+      213: 8534637309661285375
+    second: Ground Far_529
+  - first:
+      213: -4341701150173712746
+    second: Ground Far_530
+  - first:
+      213: -1519081386831160462
+    second: Ground Far_531
+  - first:
+      213: 3564046834100829038
+    second: Ground Far_532
+  - first:
+      213: -1592779982175055200
+    second: Ground Far_533
+  - first:
+      213: 8722008480391026429
+    second: Ground Far_534
+  - first:
+      213: -8129157572912598407
+    second: Ground Far_535
+  - first:
+      213: 798586874438102188
+    second: Ground Far_536
+  - first:
+      213: 3681066096853123301
+    second: Ground Far_537
+  - first:
+      213: 8655095775358306615
+    second: Ground Far_538
+  - first:
+      213: -3562536373618810195
+    second: Ground Far_539
+  - first:
+      213: 825084407812737397
+    second: Ground Far_540
+  - first:
+      213: 3630908208499064435
+    second: Ground Far_541
+  - first:
+      213: 908009583651809160
+    second: Ground Far_542
+  - first:
+      213: -5571193786316112176
+    second: Ground Far_543
+  - first:
+      213: -8853257341957745759
+    second: Ground Far_544
+  - first:
+      213: 1876800281431904898
+    second: Ground Far_545
+  - first:
+      213: 5373923106407897451
+    second: Ground Far_546
+  - first:
+      213: 3136414302444052332
+    second: Ground Far_547
+  - first:
+      213: 7399617040094664066
+    second: Ground Far_548
+  - first:
+      213: -8743100634581610678
+    second: Ground Far_549
+  - first:
+      213: -1241584789736684905
+    second: Ground Far_550
+  - first:
+      213: 8942764066832657850
+    second: Ground Far_551
+  - first:
+      213: -6940968194107879940
+    second: Ground Far_552
+  - first:
+      213: 3715135337741237886
+    second: Ground Far_553
+  - first:
+      213: -5154079860786946457
+    second: Ground Far_554
+  - first:
+      213: -1142597886392868044
+    second: Ground Far_555
+  - first:
+      213: 7732381245269415794
+    second: Ground Far_556
+  - first:
+      213: -4286389367456528075
+    second: Ground Far_557
+  - first:
+      213: 5109595236840312935
+    second: Ground Far_558
+  - first:
+      213: 6165478633703044891
+    second: Ground Far_559
+  - first:
+      213: -6573870759718855908
+    second: Ground Far_560
+  - first:
+      213: 4638149169620985979
+    second: Ground Far_561
+  - first:
+      213: -7911518762089981515
+    second: Ground Far_562
+  - first:
+      213: -3136605985507599816
+    second: Ground Far_563
+  - first:
+      213: -440675907440568834
+    second: Ground Far_564
+  - first:
+      213: 193959542446338337
+    second: Ground Far_565
+  - first:
+      213: -3835725682336288280
+    second: Ground Far_566
+  - first:
+      213: 8332865512423262971
+    second: Ground Far_567
+  - first:
+      213: -824348719562700665
+    second: Ground Far_568
+  - first:
+      213: 7662915326644327137
+    second: Ground Far_569
+  - first:
+      213: -8998698612931299553
+    second: Ground Far_570
+  - first:
+      213: 7718476594470192809
+    second: Ground Far_571
+  - first:
+      213: 1468909900492218820
+    second: Ground Far_572
+  - first:
+      213: -8691509584776690732
+    second: Ground Far_573
+  - first:
+      213: 2935115160342435765
+    second: Ground Far_574
+  - first:
+      213: -827964154793968310
+    second: Ground Far_575
+  - first:
+      213: 7683977052782651060
+    second: Ground Far_576
+  - first:
+      213: -6491403773692211524
+    second: Ground Far_577
+  - first:
+      213: -1697032865173222875
+    second: Ground Far_578
+  - first:
+      213: 5142796952712709502
+    second: Ground Far_579
+  - first:
+      213: -3722201743271962183
+    second: Ground Far_580
+  - first:
+      213: -8057116654759505506
+    second: Ground Far_581
+  - first:
+      213: 4281449696804931961
+    second: Ground Far_582
+  - first:
+      213: -1830870090353637235
+    second: Ground Far_583
+  - first:
+      213: -6571223612557369294
+    second: Ground Far_584
+  - first:
+      213: 8226061866250573811
+    second: Ground Far_585
+  - first:
+      213: -477090998039355092
+    second: Ground Far_586
+  - first:
+      213: 3441784237989419205
+    second: Ground Far_587
+  - first:
+      213: -6180038317497015544
+    second: Ground Far_588
+  - first:
+      213: 2367660679304699706
+    second: Ground Far_589
+  - first:
+      213: 1800697749353786282
+    second: Ground Far_590
+  - first:
+      213: -9061841067222108862
+    second: Ground Far_591
+  - first:
+      213: 6072173156288735578
+    second: Ground Far_592
+  - first:
+      213: -4949787619926045870
+    second: Ground Far_593
+  - first:
+      213: 3346152869819759591
+    second: Ground Far_594
+  - first:
+      213: -4548548529985525127
+    second: Ground Far_595
+  - first:
+      213: 4441082079341553722
+    second: Ground Far_596
+  - first:
+      213: 1514199204146590423
+    second: Ground Far_597
+  - first:
+      213: 6476362605235515240
+    second: Ground Far_598
+  - first:
+      213: 6859826145312005930
+    second: Ground Far_599
+  - first:
+      213: -57413519633608805
+    second: Ground Far_600
+  - first:
+      213: 6777496277941987659
+    second: Ground Far_601
+  - first:
+      213: 1204310242284234131
+    second: Ground Far_602
+  - first:
+      213: 1195508258924327872
+    second: Ground Far_603
+  - first:
+      213: 12162558374715315
+    second: Ground Far_604
+  - first:
+      213: -483730420782972095
+    second: Ground Far_605
+  - first:
+      213: -324829335963505450
+    second: Ground Far_606
+  - first:
+      213: 8014081556821325430
+    second: Ground Far_607
+  - first:
+      213: 203276563413037748
+    second: Ground Far_608
+  - first:
+      213: -1772972721866298511
+    second: Ground Far_609
+  - first:
+      213: 5527020087401827932
+    second: Ground Far_610
+  - first:
+      213: -6592226632336991647
+    second: Ground Far_611
+  - first:
+      213: 3200956830077613342
+    second: Ground Far_612
+  - first:
+      213: -5206282011020910075
+    second: Ground Far_613
+  - first:
+      213: 5461192172611208816
+    second: Ground Far_614
+  - first:
+      213: -162038612011212806
+    second: Ground Far_615
+  - first:
+      213: -6739509573553950034
+    second: Ground Far_616
+  - first:
+      213: 539441750814970770
+    second: Ground Far_617
+  - first:
+      213: 4766179479509907840
+    second: Ground Far_618
+  - first:
+      213: 187947884706318590
+    second: Ground Far_619
+  - first:
+      213: -3807803963504817653
+    second: Ground Far_620
+  - first:
+      213: 2710568213587337979
+    second: Ground Far_621
+  - first:
+      213: -5687541722032812740
+    second: Ground Far_622
+  - first:
+      213: -4622355744320183465
+    second: Ground Far_623
+  - first:
+      213: -8525617946722878469
+    second: Ground Far_624
+  - first:
+      213: -8479439713257314803
+    second: Ground Far_625
+  - first:
+      213: 1763344324402146360
+    second: Ground Far_626
+  - first:
+      213: 8504877824362340843
+    second: Ground Far_627
+  - first:
+      213: -5389225573768790984
+    second: Ground Far_628
+  - first:
+      213: 7932674033674889949
+    second: Ground Far_629
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground Far_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbbf52cce7b63ab0800000000000000
+      internalID: -5028629706411361328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5009d047e9d850800000000000000
+      internalID: 6402402610988474316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5cd239890b4470800000000000000
+      internalID: 8379802016521412017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5bb29797f72d150800000000000000
+      internalID: 5895915021882078681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b290f7bff0f75c200800000000000000
+      internalID: 199705465108498731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87960ab4a8940ca00800000000000000
+      internalID: 774699994230843768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a69227b8f42a70800000000000000
+      internalID: 8801433037231794078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7facba6c0f96681b0800000000000000
+      internalID: -5654715799270864137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d211e6c071ecb00800000000000000
+      internalID: 850642721773268254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417db27b3800a2c0800000000000000
+      internalID: -4422525782656716470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e625cfcbdab160800000000000000
+      internalID: 7042182652759565662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704166b318d547a20800000000000000
+      internalID: 3059172856520119303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c24faad770dc03b0800000000000000
+      internalID: -5544827828011318585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_52
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9bedebfcc6d6e0800000000000000
+      internalID: -1813036417569547683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a92db2994f7ab0800000000000000
+      internalID: -5008203366025025726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_54
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee240e8689e851e0800000000000000
+      internalID: -2208758853107699997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_55
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83627b407577d80800000000000000
+      internalID: -8253032114368923394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_56
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0073f8b3af61d0800000000000000
+      internalID: -3355283182614213670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59dd44604f56a7f0800000000000000
+      internalID: -601688770042013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_58
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82abc1e454cbc8ad0800000000000000
+      internalID: -2698575070852498904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_59
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306ddbf6a6434910800000000000000
+      internalID: 1820376357391917108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_60
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe0c2df9a34d4e0800000000000000
+      internalID: -1957875479889253392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_61
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92568eb74f1636e20800000000000000
+      internalID: 3342623051117782313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_62
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d609bcdb14a670800000000000000
+      internalID: 8548988627467032000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_63
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3a027cc5a9d910800000000000000
+      internalID: 1862702218399595499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_64
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cc5138ac3bb9b0800000000000000
+      internalID: -5063386662967655129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_65
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760981380102fe620800000000000000
+      internalID: 2805496348166099047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_66
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdaed4b1067a5840800000000000000
+      internalID: 5213609268336307711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_67
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d78da5f54a3300800000000000000
+      internalID: 232575252243664955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_68
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f5ed64a9ea3e00800000000000000
+      internalID: 1025388757607905644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_69
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef5392021f208b0800000000000000
+      internalID: -5187318700344738303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_70
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d95fbc6c9952a0800000000000000
+      internalID: -6748190575757239827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_71
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f421339bd87430800000000000000
+      internalID: 3781013312408712690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_72
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde88f930385ab640800000000000000
+      internalID: 5096482892477402847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_73
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc97b77baf365e60800000000000000
+      internalID: 7950612197849668820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_74
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c22b69604ea1b00800000000000000
+      internalID: 800202600760880262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_75
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593cd0ac4b922b50800000000000000
+      internalID: 6566981960078211421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_76
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f578045017dae890800000000000000
+      internalID: -7427888170264922631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_77
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87583f6553b6fa20800000000000000
+      internalID: 3095858973383350155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92ac8765ecc53c0800000000000000
+      internalID: -4369390667667199565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d607fd72e52d7770800000000000000
+      internalID: 8610079717308434131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372ae670fa396750800000000000000
+      internalID: 6298630358315968311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b5ff7528baaadd0800000000000000
+      internalID: -2473976468976215170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4037dba5f2acc0800000000000000
+      internalID: -3701125825346646272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72a80bcc6fd9fc0800000000000000
+      internalID: -3486359177519290380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da2456033fa4d10800000000000000
+      internalID: 2110766764559346990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897708116170125f0800000000000000
+      internalID: -783337068821448808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_86
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c132ecd0c86cae70800000000000000
+      internalID: 9127785722321973701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9269abab4efcf2130800000000000000
+      internalID: 3544280013056153129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8bd4d34781bae0800000000000000
+      internalID: -1535297272552911193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d6f00f5a0794c0800000000000000
+      internalID: -4280941517638019259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548f7d7471f75470800000000000000
+      internalID: 8383434713997476958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_91
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464d658aa275be200800000000000000
+      internalID: 210357648327365732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_92
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684fb8e5623ac1a0800000000000000
+      internalID: -6788558075029665686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_93
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab97f29c4e330470800000000000000
+      internalID: 8359593831933909920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_94
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbc957e33789600800000000000000
+      internalID: 475256472785960353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_95
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b79cabfcbdc29830800000000000000
+      internalID: 4076546824283658164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_96
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e8e60f8e744700800000000000000
+      internalID: 523682609443169086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_97
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee16c1f49ce0b830800000000000000
+      internalID: 4085024986480647905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_98
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685697652f19ca1a0800000000000000
+      internalID: -6796897267590011514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_99
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a231b62869e0230800000000000000
+      internalID: 3606985838456679042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_100
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243089453ce5d3620800000000000000
+      internalID: 2755462740051493698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_101
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c7fd7302ab41c0800000000000000
+      internalID: -4518339665254168245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_102
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f8bf0bcafdf230800000000000000
+      internalID: 3674368621053277307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_103
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f80ff5ca45b170800000000000000
+      internalID: 8193537311318275208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_104
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b607325dbc519180800000000000000
+      internalID: -9110398602995890506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_105
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb858d773d1432570800000000000000
+      internalID: 8440662503127013563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_106
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02c8ac34a7500f80800000000000000
+      internalID: -8142411763381911028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_107
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ffb69d9006d4a00800000000000000
+      internalID: 742355109004705589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_108
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d90d04dc76a22e0800000000000000
+      internalID: -2149791740862620399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_109
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7af141c370f85e0800000000000000
+      internalID: -1905296162737379412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_110
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ae598f1b925100800000000000000
+      internalID: 95309101879173846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_111
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a801e0be4af738180800000000000000
+      internalID: -9114300874572820342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_112
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce39d3b0f35f70800800000000000000
+      internalID: 578700728260727788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_113
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45e6823b90f0420800000000000000
+      internalID: 2598306175098180787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_114
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388f5982d980b960800000000000000
+      internalID: 7615738507224385595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_115
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976418866ac67e6d0800000000000000
+      internalID: -2961278767999138183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_116
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 165
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b9fd86be6f48d0800000000000000
+      internalID: -2859945508011920717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b4ea1b464bef30800000000000000
+      internalID: 4605852332304152341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce0227734a32e40800000000000000
+      internalID: 5630524517188168919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139bc9710ea885b40800000000000000
+      internalID: 5429242045868587313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7638cbc1bf354a4d0800000000000000
+      internalID: -3124279903504268441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac773962d3e3c8a0800000000000000
+      internalID: -6285930162031199067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9ad8f81909707e0800000000000000
+      internalID: -1799310571258140250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18a495504d7fbdb0800000000000000
+      internalID: -4773959364722251749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5a8330e1f0cbd0800000000000000
+      internalID: -2611821838635213287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_125
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde41370fd0f0890800000000000000
+      internalID: -7489752328919781922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_126
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58ed86a9eaaf0e0800000000000000
+      internalID: -2235282286828419643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_127
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc1d4f46f59d840800000000000000
+      internalID: 5249331727885782318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_128
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7668d3fcb3ce10800000000000000
+      internalID: 2216823197090086377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_129
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dddf55d929d59cc0800000000000000
+      internalID: -3704816344745648684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_130
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d66fefb210acf0800000000000000
+      internalID: -243173764313458577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_131
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a560010b882ba0800000000000000
+      internalID: -6113483657737558479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_132
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f90a15bab5b02c0800000000000000
+      internalID: -4464373814240698473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_133
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b3a0c4b47f8600800000000000000
+      internalID: 472724805572079927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_134
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1b039d7e943920800000000000000
+      internalID: 2969172316519078877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_135
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46af4d5d62acf44d0800000000000000
+      internalID: -3148075346363614620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_136
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453b9aac033591b0800000000000000
+      internalID: -5650554027971496630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_137
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abb95397d58b6f0800000000000000
+      internalID: -668681769492694380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_138
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8fb91f2264a120800000000000000
+      internalID: 2424170453867139063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_139
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f827ad33682b870800000000000000
+      internalID: 8697161387672244119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_140
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e4274c75945760800000000000000
+      internalID: 7445740444952356395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_141
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e91a1ec326264840800000000000000
+      internalID: 5207891954324085219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_142
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d50f2a088be440800000000000000
+      internalID: 4966212591426065306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_143
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a75224749fad6f0800000000000000
+      internalID: -658940311008609671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_144
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7cdbb39acb4ec0800000000000000
+      internalID: -3581546342782305561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_145
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8508db1d85e2002e0800000000000000
+      internalID: -2161676862126981032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_146
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41298309c974ddee0800000000000000
+      internalID: -1234751985069551084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_147
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c71b6a08c104920800000000000000
+      internalID: 2972407092942568586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_148
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be7191de71d41d0800000000000000
+      internalID: -3365007039480206526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_149
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2991a5067d18f3d70800000000000000
+      internalID: 9025074940308232594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_150
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcf18b704e5ec60800000000000000
+      internalID: 7846928647567953904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_151
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2bfcee60b94d550800000000000000
+      internalID: 6184738642365231809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_152
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa2491cf39cea30800000000000000
+      internalID: 4245931259668376180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_153
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ef6afd036c5bd0800000000000000
+      internalID: -2640126369858591542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_154
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c46aba7b78bd20800000000000000
+      internalID: 3294518894464910109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground Far_155
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 37
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a96579232b475c0800000000000000
+      internalID: -4218551020582168038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

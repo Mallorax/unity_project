@@ -1,0 +1,3980 @@
+fileFormatVersion: 2
+guid: 23d89018f27b18d469d38ec57d8eca56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3493473263965414080
+    second: Water Large_0
+  - first:
+      213: 4206073394082617197
+    second: Water Large_1
+  - first:
+      213: -5284941568078154320
+    second: Water Large_2
+  - first:
+      213: -2677517042913621859
+    second: Water Large_3
+  - first:
+      213: 3635607914247375690
+    second: Water Large_4
+  - first:
+      213: -2791962550259122272
+    second: Water Large_5
+  - first:
+      213: -2893043545154210527
+    second: Water Large_6
+  - first:
+      213: 7148351841607053668
+    second: Water Large_7
+  - first:
+      213: 821503672957821532
+    second: Water Large_8
+  - first:
+      213: 6204287674431843786
+    second: Water Large_9
+  - first:
+      213: -1574265379496831157
+    second: Water Large_10
+  - first:
+      213: 6810286531089283575
+    second: Water Large_11
+  - first:
+      213: 6554533034894037293
+    second: Water Large_12
+  - first:
+      213: 1782957702977797113
+    second: Water Large_13
+  - first:
+      213: -3016869023549404070
+    second: Water Large_14
+  - first:
+      213: -4835711405691514197
+    second: Water Large_15
+  - first:
+      213: 2756612792263412614
+    second: Water Large_16
+  - first:
+      213: -7090541820305199499
+    second: Water Large_17
+  - first:
+      213: -6497195079097742026
+    second: Water Large_18
+  - first:
+      213: 8367576349527318076
+    second: Water Large_19
+  - first:
+      213: 2707741218130306498
+    second: Water Large_20
+  - first:
+      213: -6247664206310346171
+    second: Water Large_21
+  - first:
+      213: -2296953223238375588
+    second: Water Large_22
+  - first:
+      213: 6247593870592437388
+    second: Water Large_23
+  - first:
+      213: -7217689829381000858
+    second: Water Large_24
+  - first:
+      213: -4179261461320818694
+    second: Water Large_25
+  - first:
+      213: 3031927376357083836
+    second: Water Large_26
+  - first:
+      213: -4403877771493320100
+    second: Water Large_27
+  - first:
+      213: -7203772334627855238
+    second: Water Large_28
+  - first:
+      213: -3055900917453544937
+    second: Water Large_29
+  - first:
+      213: -1622618124735380551
+    second: Water Large_30
+  - first:
+      213: 7115752116722093420
+    second: Water Large_31
+  - first:
+      213: 7380860266690174717
+    second: Water Large_32
+  - first:
+      213: -3253116490997508989
+    second: Water Large_33
+  - first:
+      213: 270156070982541207
+    second: Water Large_34
+  - first:
+      213: -6705840449414045410
+    second: Water Large_35
+  - first:
+      213: 4848775795249805387
+    second: Water Large_36
+  - first:
+      213: -2725384858520828866
+    second: Water Large_37
+  - first:
+      213: 8250544016807963771
+    second: Water Large_38
+  - first:
+      213: -2986645679290857323
+    second: Water Large_39
+  - first:
+      213: -3710943727701796098
+    second: Water Large_40
+  - first:
+      213: 2289437474406809178
+    second: Water Large_41
+  - first:
+      213: -7354955432098361383
+    second: Water Large_42
+  - first:
+      213: -2421811147504726159
+    second: Water Large_43
+  - first:
+      213: 1206769770145679280
+    second: Water Large_44
+  - first:
+      213: 4647251395391668079
+    second: Water Large_45
+  - first:
+      213: -5742867745153119040
+    second: Water Large_46
+  - first:
+      213: -5128800181351765883
+    second: Water Large_47
+  - first:
+      213: 519072632260622951
+    second: Water Large_48
+  - first:
+      213: 6844230678316352595
+    second: Water Large_49
+  - first:
+      213: -9200004909730761205
+    second: Water Large_50
+  - first:
+      213: 7318692151900038644
+    second: Water Large_51
+  - first:
+      213: -1661720728255392360
+    second: Water Large_52
+  - first:
+      213: -4518518685470351586
+    second: Water Large_53
+  - first:
+      213: 8644381331042818593
+    second: Water Large_54
+  - first:
+      213: 4999497453126636124
+    second: Water Large_55
+  - first:
+      213: 2752505128802729942
+    second: Water Large_56
+  - first:
+      213: -8491630266583809453
+    second: Water Large_57
+  - first:
+      213: -615405938402290118
+    second: Water Large_58
+  - first:
+      213: 3096179769833085033
+    second: Water Large_59
+  - first:
+      213: -2592697761032875488
+    second: Water Large_60
+  - first:
+      213: 327164644548582292
+    second: Water Large_61
+  - first:
+      213: 2724179391364437908
+    second: Water Large_62
+  - first:
+      213: -1061058994446198171
+    second: Water Large_63
+  - first:
+      213: -8100407789450862991
+    second: Water Large_64
+  - first:
+      213: -8642874736136814098
+    second: Water Large_65
+  - first:
+      213: -3534739150027023963
+    second: Water Large_66
+  - first:
+      213: -8310243738635994829
+    second: Water Large_67
+  - first:
+      213: 4400553466491182302
+    second: Water Large_68
+  - first:
+      213: -2266277180408416525
+    second: Water Large_69
+  - first:
+      213: 2263846407620426654
+    second: Water Large_70
+  - first:
+      213: 3809417427802726121
+    second: Water Large_71
+  - first:
+      213: -7561496211454465946
+    second: Water Large_72
+  - first:
+      213: 3520997991514857036
+    second: Water Large_73
+  - first:
+      213: 1671096178510694483
+    second: Water Large_74
+  - first:
+      213: -5670021977684896408
+    second: Water Large_75
+  - first:
+      213: 7068605186103764830
+    second: Water Large_76
+  - first:
+      213: -4039307835481503593
+    second: Water Large_77
+  - first:
+      213: -8012637003306302823
+    second: Water Large_78
+  - first:
+      213: -5897799555270733420
+    second: Water Large_79
+  - first:
+      213: -5363189797491547913
+    second: Water Large_80
+  - first:
+      213: -4457164762919660577
+    second: Water Large_81
+  - first:
+      213: 4107344223399175863
+    second: Water Large_82
+  - first:
+      213: 2104727570303178723
+    second: Water Large_83
+  - first:
+      213: -5350529267474420216
+    second: Water Large_84
+  - first:
+      213: 6514141191503045927
+    second: Water Large_85
+  - first:
+      213: 2539930476637449956
+    second: Water Large_86
+  - first:
+      213: 3666832596941483290
+    second: Water Large_87
+  - first:
+      213: 8178060153790056207
+    second: Water Large_88
+  - first:
+      213: 5340643695561134439
+    second: Water Large_89
+  - first:
+      213: 3636563820488336144
+    second: Water Large_90
+  - first:
+      213: -2489428902410548758
+    second: Water Large_91
+  - first:
+      213: -7874504885881753223
+    second: Water Large_92
+  - first:
+      213: 1486557540130748769
+    second: Water Large_93
+  - first:
+      213: -8510331994748088211
+    second: Water Large_94
+  - first:
+      213: 2587153021357377579
+    second: Water Large_95
+  - first:
+      213: 5208981861923180736
+    second: Water Large_96
+  - first:
+      213: -6515857081076379574
+    second: Water Large_97
+  - first:
+      213: 495368107639244544
+    second: Water Large_98
+  - first:
+      213: 2160985728294865328
+    second: Water Large_99
+  - first:
+      213: 6499512278612125620
+    second: Water Large_100
+  - first:
+      213: -8563418139953472926
+    second: Water Large_101
+  - first:
+      213: 1148608012120589636
+    second: Water Large_102
+  - first:
+      213: 4207920593893919487
+    second: Water Large_103
+  - first:
+      213: -198740365684243693
+    second: Water Large_104
+  - first:
+      213: -5072774377816228222
+    second: Water Large_105
+  - first:
+      213: -6995168502906899601
+    second: Water Large_106
+  - first:
+      213: 3608935941400913839
+    second: Water Large_107
+  - first:
+      213: -800962827977435002
+    second: Water Large_108
+  - first:
+      213: 7862861098056485615
+    second: Water Large_109
+  - first:
+      213: 8406381375519092596
+    second: Water Large_110
+  - first:
+      213: -8371722216897454785
+    second: Water Large_111
+  - first:
+      213: 6169958051317268488
+    second: Water Large_112
+  - first:
+      213: -155672664202161710
+    second: Water Large_113
+  - first:
+      213: -8888365618547492668
+    second: Water Large_114
+  - first:
+      213: 991373654519316049
+    second: Water Large_115
+  - first:
+      213: 939795078107416033
+    second: Water Large_116
+  - first:
+      213: 4868936821176704492
+    second: Water Large_117
+  - first:
+      213: -5660016973551100823
+    second: Water Large_118
+  - first:
+      213: -2024076827244230644
+    second: Water Large_119
+  - first:
+      213: 5139855310061705488
+    second: Water Large_120
+  - first:
+      213: -6662180753430212746
+    second: Water Large_121
+  - first:
+      213: -4145489290717182445
+    second: Water Large_122
+  - first:
+      213: 6568740550792683738
+    second: Water Large_123
+  - first:
+      213: 4271964905340552357
+    second: Water Large_124
+  - first:
+      213: 106717271063916139
+    second: Water Large_125
+  - first:
+      213: -3540085053555245711
+    second: Water Large_126
+  - first:
+      213: 304741090502325286
+    second: Water Large_127
+  - first:
+      213: -3055795344381362803
+    second: Water Large_128
+  - first:
+      213: -9125942412019999853
+    second: Water Large_129
+  - first:
+      213: -2059872028571774596
+    second: Water Large_130
+  - first:
+      213: -1101375845177023603
+    second: Water Large_131
+  - first:
+      213: 7946776569673676186
+    second: Water Large_132
+  - first:
+      213: -44155738649942435
+    second: Water Large_133
+  - first:
+      213: 3241783902996834770
+    second: Water Large_134
+  - first:
+      213: -575917500607726009
+    second: Water Large_135
+  - first:
+      213: 3206262207658942149
+    second: Water Large_136
+  - first:
+      213: 3734033290245575614
+    second: Water Large_137
+  - first:
+      213: 1083890769561625955
+    second: Water Large_138
+  - first:
+      213: -4759897681276208245
+    second: Water Large_139
+  - first:
+      213: -996504157296147528
+    second: Water Large_140
+  - first:
+      213: 7107660447074791590
+    second: Water Large_141
+  - first:
+      213: 2694030036963731575
+    second: Water Large_142
+  - first:
+      213: 687029437801653145
+    second: Water Large_143
+  - first:
+      213: 6745722103175314442
+    second: Water Large_144
+  - first:
+      213: 789090985195622589
+    second: Water Large_145
+  - first:
+      213: -8794751585004173826
+    second: Water Large_146
+  - first:
+      213: 9222672526568117314
+    second: Water Large_147
+  - first:
+      213: -5354354324349743615
+    second: Water Large_148
+  - first:
+      213: -9188714768736557817
+    second: Water Large_149
+  - first:
+      213: 6022210588898645380
+    second: Water Large_150
+  - first:
+      213: 292042442587867515
+    second: Water Large_151
+  - first:
+      213: 4427813168297621743
+    second: Water Large_152
+  - first:
+      213: 9090182305589643239
+    second: Water Large_153
+  - first:
+      213: 777616107616192225
+    second: Water Large_154
+  - first:
+      213: 8338037255455878410
+    second: Water Large_155
+  - first:
+      213: -3932739177904054941
+    second: Water Large_156
+  - first:
+      213: 7247971182217026968
+    second: Water Large_157
+  - first:
+      213: 7571466382782488880
+    second: Water Large_158
+  - first:
+      213: 398741611025112791
+    second: Water Large_159
+  - first:
+      213: -5254371254629875867
+    second: Water Large_160
+  - first:
+      213: 1016813370457724790
+    second: Water Large_161
+  - first:
+      213: 1504658447467313750
+    second: Water Large_162
+  - first:
+      213: -7263077891639717619
+    second: Water Large_163
+  - first:
+      213: -4449080986754270776
+    second: Water Large_164
+  - first:
+      213: 3353063283428297715
+    second: Water Large_165
+  - first:
+      213: 2710586928925836677
+    second: Water Large_166
+  - first:
+      213: -4019128406376241736
+    second: Water Large_167
+  - first:
+      213: 5269746144280888875
+    second: Water Large_168
+  - first:
+      213: -7386158074114031562
+    second: Water Large_169
+  - first:
+      213: 818160945276154519
+    second: Water Large_170
+  - first:
+      213: -2816408506879040820
+    second: Water Large_171
+  - first:
+      213: -9183488724802138948
+    second: Water Large_172
+  - first:
+      213: -3066001718627516527
+    second: Water Large_173
+  - first:
+      213: -2261583256193025060
+    second: Water Large_174
+  - first:
+      213: -4636743787274049691
+    second: Water Large_175
+  - first:
+      213: -3142026121155539840
+    second: Water Large_176
+  - first:
+      213: 1690969505747604904
+    second: Water Large_177
+  - first:
+      213: -6282953462535814314
+    second: Water Large_178
+  - first:
+      213: 6351105914720941120
+    second: Water Large_179
+  - first:
+      213: 8188278825954293932
+    second: Water Large_180
+  - first:
+      213: 2036684313364189539
+    second: Water Large_181
+  - first:
+      213: 5921306227185926931
+    second: Water Large_182
+  - first:
+      213: 4537613439964235910
+    second: Water Large_183
+  - first:
+      213: 6053339629950715273
+    second: Water Large_184
+  - first:
+      213: 6749708469496010270
+    second: Water Large_185
+  - first:
+      213: -4656986548414280991
+    second: Water Large_186
+  - first:
+      213: -492037035756692663
+    second: Water Large_187
+  - first:
+      213: 2387790467573388073
+    second: Water Large_188
+  - first:
+      213: 1057575848300200312
+    second: Water Large_189
+  - first:
+      213: -3745357021443132255
+    second: Water Large_190
+  - first:
+      213: 2870335902041965842
+    second: Water Large_191
+  - first:
+      213: 8328225506940239536
+    second: Water Large_192
+  - first:
+      213: 5362793455966939229
+    second: Water Large_193
+  - first:
+      213: -5911153503065486881
+    second: Water Large_194
+  - first:
+      213: -2509244619692587382
+    second: Water Large_195
+  - first:
+      213: -7816651099834418971
+    second: Water Large_196
+  - first:
+      213: -9076414730127404534
+    second: Water Large_197
+  - first:
+      213: 4118809921993165975
+    second: Water Large_198
+  - first:
+      213: -7981667045610251969
+    second: Water Large_199
+  - first:
+      213: 898579829893787932
+    second: Water Large_200
+  - first:
+      213: -1992844853416523833
+    second: Water Large_201
+  - first:
+      213: -5868468372815468540
+    second: Water Large_202
+  - first:
+      213: 5327266071719788912
+    second: Water Large_203
+  - first:
+      213: -6325872084661698493
+    second: Water Large_204
+  - first:
+      213: -6777567956382665766
+    second: Water Large_205
+  - first:
+      213: -7215791115413218296
+    second: Water Large_206
+  - first:
+      213: -5327087735350507437
+    second: Water Large_207
+  - first:
+      213: 8836745462199626585
+    second: Water Large_208
+  - first:
+      213: -6243122154709682141
+    second: Water Large_209
+  - first:
+      213: -6735288530784528919
+    second: Water Large_210
+  - first:
+      213: -4743787874031146185
+    second: Water Large_211
+  - first:
+      213: 3367025670529179911
+    second: Water Large_212
+  - first:
+      213: 2622233716210519170
+    second: Water Large_213
+  - first:
+      213: -9029766099231889403
+    second: Water Large_214
+  - first:
+      213: 5042905185588074438
+    second: Water Large_215
+  - first:
+      213: 4724373732190365865
+    second: Water Large_216
+  - first:
+      213: 5887708804959760474
+    second: Water Large_217
+  - first:
+      213: -1434003981537940832
+    second: Water Large_218
+  - first:
+      213: -430787840377510703
+    second: Water Large_219
+  - first:
+      213: -7239862826883544998
+    second: Water Large_220
+  - first:
+      213: 426626841472751460
+    second: Water Large_221
+  - first:
+      213: 115348611724550762
+    second: Water Large_222
+  - first:
+      213: 5774831783321312880
+    second: Water Large_223
+  - first:
+      213: -7430789756718641879
+    second: Water Large_224
+  - first:
+      213: 1378685175818615449
+    second: Water Large_225
+  - first:
+      213: 1921876528111840099
+    second: Water Large_226
+  - first:
+      213: 336014157787441731
+    second: Water Large_227
+  - first:
+      213: 9223020929521721608
+    second: Water Large_228
+  - first:
+      213: 4406129460959319495
+    second: Water Large_229
+  - first:
+      213: 7039520164529832535
+    second: Water Large_230
+  - first:
+      213: -948058945769064315
+    second: Water Large_231
+  - first:
+      213: -2535215938995141590
+    second: Water Large_232
+  - first:
+      213: 876986825140988585
+    second: Water Large_233
+  - first:
+      213: 5685610353792984109
+    second: Water Large_234
+  - first:
+      213: -4216565247579087127
+    second: Water Large_235
+  - first:
+      213: -2830245803015997112
+    second: Water Large_236
+  - first:
+      213: -8652981124554546714
+    second: Water Large_237
+  - first:
+      213: -290791720688867402
+    second: Water Large_238
+  - first:
+      213: -8965550684431926562
+    second: Water Large_239
+  - first:
+      213: 6325694529313728038
+    second: Water Large_240
+  - first:
+      213: -6714938316825831896
+    second: Water Large_241
+  - first:
+      213: 6119975084203608476
+    second: Water Large_242
+  - first:
+      213: -5890548158565844681
+    second: Water Large_243
+  - first:
+      213: 9070737650039721490
+    second: Water Large_244
+  - first:
+      213: -8392169483047395715
+    second: Water Large_245
+  - first:
+      213: 3325639763513780331
+    second: Water Large_246
+  - first:
+      213: 683584535837158719
+    second: Water Large_247
+  - first:
+      213: -8154746028035775225
+    second: Water Large_248
+  - first:
+      213: 6957685512267309240
+    second: Water Large_249
+  - first:
+      213: 3130660141497208471
+    second: Water Large_250
+  - first:
+      213: 5895711607949991892
+    second: Water Large_251
+  - first:
+      213: -1132296485835462161
+    second: Water Large_252
+  - first:
+      213: 5200594231793123372
+    second: Water Large_253
+  - first:
+      213: -5995991387839970731
+    second: Water Large_254
+  - first:
+      213: -3954687198943045625
+    second: Water Large_255
+  - first:
+      213: -1673350709761467841
+    second: Water Large_256
+  - first:
+      213: -3308395067605871473
+    second: Water Large_257
+  - first:
+      213: 60210806794728658
+    second: Water Large_258
+  - first:
+      213: 2716834181806926355
+    second: Water Large_259
+  - first:
+      213: -678133288652300211
+    second: Water Large_260
+  - first:
+      213: -9019411950382389438
+    second: Water Large_261
+  - first:
+      213: -7114754481337893802
+    second: Water Large_262
+  - first:
+      213: -4669075202648993569
+    second: Water Large_263
+  - first:
+      213: -9170375488053530180
+    second: Water Large_264
+  - first:
+      213: -7316380969444843348
+    second: Water Large_265
+  - first:
+      213: 5351245476063159879
+    second: Water Large_266
+  - first:
+      213: 6339345402824197207
+    second: Water Large_267
+  - first:
+      213: -3831861560951284675
+    second: Water Large_268
+  - first:
+      213: 8691040689442727498
+    second: Water Large_269
+  - first:
+      213: 1200199468749363641
+    second: Water Large_270
+  - first:
+      213: 626016900164505619
+    second: Water Large_271
+  - first:
+      213: 4005141604456370108
+    second: Water Large_272
+  - first:
+      213: 5882547654095451513
+    second: Water Large_273
+  - first:
+      213: 7226794003673284094
+    second: Water Large_274
+  - first:
+      213: 871586156470963880
+    second: Water Large_275
+  - first:
+      213: 7781855795658249795
+    second: Water Large_276
+  - first:
+      213: 6540617113037619728
+    second: Water Large_277
+  - first:
+      213: -6355429401216447226
+    second: Water Large_278
+  - first:
+      213: -3626089500820080258
+    second: Water Large_279
+  - first:
+      213: -8843700496316592580
+    second: Water Large_280
+  - first:
+      213: 1466351272906918108
+    second: Water Large_281
+  - first:
+      213: 5821315267915681473
+    second: Water Large_282
+  - first:
+      213: -6795185484292197845
+    second: Water Large_283
+  - first:
+      213: 7492580440528378603
+    second: Water Large_284
+  - first:
+      213: 3444356781407301172
+    second: Water Large_285
+  - first:
+      213: -5256909875311617291
+    second: Water Large_286
+  - first:
+      213: -1454006785202220641
+    second: Water Large_287
+  - first:
+      213: -6822896416780766113
+    second: Water Large_288
+  - first:
+      213: 5374347315572925455
+    second: Water Large_289
+  - first:
+      213: -8012607443803044790
+    second: Water Large_290
+  - first:
+      213: 389261225877471858
+    second: Water Large_291
+  - first:
+      213: 4559755127175369970
+    second: Water Large_292
+  - first:
+      213: 4059784058081050200
+    second: Water Large_293
+  - first:
+      213: -5390289663818204872
+    second: Water Large_294
+  - first:
+      213: 2941849714854851159
+    second: Water Large_295
+  - first:
+      213: 8719039322350308511
+    second: Water Large_296
+  - first:
+      213: -506563390840534297
+    second: Water Large_297
+  - first:
+      213: 5123623676502365551
+    second: Water Large_298
+  - first:
+      213: -30365411284669186
+    second: Water Large_299
+  - first:
+      213: -5404825510630558659
+    second: Water Large_300
+  - first:
+      213: -4561409678001364178
+    second: Water Large_301
+  - first:
+      213: 7430367986478162634
+    second: Water Large_302
+  - first:
+      213: 2466038016804671118
+    second: Water Large_303
+  - first:
+      213: -4906481300451864603
+    second: Water Large_304
+  - first:
+      213: -8824303801197231238
+    second: Water Large_305
+  - first:
+      213: 3135793880576518635
+    second: Water Large_306
+  - first:
+      213: -906947534038578411
+    second: Water Large_307
+  - first:
+      213: 6809590869158904475
+    second: Water Large_308
+  - first:
+      213: -935076076219498817
+    second: Water Large_309
+  - first:
+      213: 3607550016476509347
+    second: Water Large_310
+  - first:
+      213: -5386902201029279180
+    second: Water Large_311
+  - first:
+      213: 3896377468187488314
+    second: Water Large_312
+  - first:
+      213: 5345425172054448980
+    second: Water Large_313
+  - first:
+      213: -1557412502556005036
+    second: Water Large_314
+  - first:
+      213: -7630988778073812313
+    second: Water Large_315
+  - first:
+      213: -3864999295248937061
+    second: Water Large_316
+  - first:
+      213: 5808089485116460466
+    second: Water Large_317
+  - first:
+      213: 2950669926798592189
+    second: Water Large_318
+  - first:
+      213: 6121240194660635648
+    second: Water Large_319
+  - first:
+      213: -3228206656955053895
+    second: Water Large_320
+  - first:
+      213: -1175210982140640639
+    second: Water Large_321
+  - first:
+      213: -7237709961875118194
+    second: Water Large_322
+  - first:
+      213: -2058844691791192205
+    second: Water Large_323
+  - first:
+      213: -5965562853721482532
+    second: Water Large_324
+  - first:
+      213: -2025770363344551805
+    second: Water Large_325
+  - first:
+      213: -1331562078555664573
+    second: Water Large_326
+  - first:
+      213: -1786906802571349924
+    second: Water Large_327
+  - first:
+      213: -6993909575554350266
+    second: Water Large_328
+  - first:
+      213: 4941464554266173857
+    second: Water Large_329
+  - first:
+      213: 8526589629829284316
+    second: Water Large_330
+  - first:
+      213: -8620809168178245090
+    second: Water Large_331
+  - first:
+      213: -8759576784782793548
+    second: Water Large_332
+  - first:
+      213: 7079310593781422677
+    second: Water Large_333
+  - first:
+      213: -5739618279220458164
+    second: Water Large_334
+  - first:
+      213: 534098448127369522
+    second: Water Large_335
+  - first:
+      213: -8765376358205373678
+    second: Water Large_336
+  - first:
+      213: 4619522867921749148
+    second: Water Large_337
+  - first:
+      213: -3706830783525734845
+    second: Water Large_338
+  - first:
+      213: 6583155538974309315
+    second: Water Large_339
+  - first:
+      213: 1807165985684107122
+    second: Water Large_340
+  - first:
+      213: 5623475301581274018
+    second: Water Large_341
+  - first:
+      213: 885395857055322208
+    second: Water Large_342
+  - first:
+      213: -2382308872803068552
+    second: Water Large_343
+  - first:
+      213: -4592955771156963678
+    second: Water Large_344
+  - first:
+      213: 567586559369024938
+    second: Water Large_345
+  - first:
+      213: -6636523814237763214
+    second: Water Large_346
+  - first:
+      213: -6681566529092177236
+    second: Water Large_347
+  - first:
+      213: 3753903528373883764
+    second: Water Large_348
+  - first:
+      213: -4941528636573215459
+    second: Water Large_349
+  - first:
+      213: -2370216581833018523
+    second: Water Large_350
+  - first:
+      213: -4524924356401400561
+    second: Water Large_351
+  - first:
+      213: -586890565851120475
+    second: Water Large_352
+  - first:
+      213: 1110746775805497749
+    second: Water Large_353
+  - first:
+      213: 8293862448355487819
+    second: Water Large_354
+  - first:
+      213: 2213845032340601486
+    second: Water Large_355
+  - first:
+      213: -5873531853622771629
+    second: Water Large_356
+  - first:
+      213: -2213711779570386842
+    second: Water Large_357
+  - first:
+      213: 6954906935296967303
+    second: Water Large_358
+  - first:
+      213: -6386217795853104148
+    second: Water Large_359
+  - first:
+      213: -3191633389359005536
+    second: Water Large_360
+  - first:
+      213: 9020587689154370787
+    second: Water Large_361
+  - first:
+      213: 4893863255096294799
+    second: Water Large_362
+  - first:
+      213: 5700067486403222230
+    second: Water Large_363
+  - first:
+      213: 8612728181536586823
+    second: Water Large_364
+  - first:
+      213: 4613301393754517469
+    second: Water Large_365
+  - first:
+      213: 8987800183705616866
+    second: Water Large_366
+  - first:
+      213: 6131191585344959541
+    second: Water Large_367
+  - first:
+      213: 8535216143770437421
+    second: Water Large_368
+  - first:
+      213: -3087832391156168915
+    second: Water Large_369
+  - first:
+      213: -3320988890836915645
+    second: Water Large_370
+  - first:
+      213: -1362487969537894271
+    second: Water Large_371
+  - first:
+      213: 1708432200575255513
+    second: Water Large_372
+  - first:
+      213: 3046086773625569439
+    second: Water Large_373
+  - first:
+      213: -217675035490790864
+    second: Water Large_374
+  - first:
+      213: 7238299261108172682
+    second: Water Large_375
+  - first:
+      213: 8488490122116802560
+    second: Water Large_376
+  - first:
+      213: 4278424659042641977
+    second: Water Large_377
+  - first:
+      213: 900899331598787782
+    second: Water Large_378
+  - first:
+      213: 4775250442105462904
+    second: Water Large_379
+  - first:
+      213: 5859359309828347362
+    second: Water Large_380
+  - first:
+      213: -3961182892458854532
+    second: Water Large_381
+  - first:
+      213: 3649396541610133879
+    second: Water Large_382
+  - first:
+      213: 2734258759230933283
+    second: Water Large_383
+  - first:
+      213: 7553976591432531333
+    second: Water Large_384
+  - first:
+      213: 9007659923531037162
+    second: Water Large_385
+  - first:
+      213: 6685908871555087602
+    second: Water Large_386
+  - first:
+      213: -2163572828033603245
+    second: Water Large_387
+  - first:
+      213: -4362515970796528373
+    second: Water Large_388
+  - first:
+      213: 7602244901524557121
+    second: Water Large_389
+  - first:
+      213: -2963832414639542517
+    second: Water Large_390
+  - first:
+      213: -8020112971254170281
+    second: Water Large_391
+  - first:
+      213: -6596447338897982458
+    second: Water Large_392
+  - first:
+      213: -7103607026982627153
+    second: Water Large_393
+  - first:
+      213: -5455809188287103578
+    second: Water Large_394
+  - first:
+      213: -6546493983696141347
+    second: Water Large_395
+  - first:
+      213: 7398706028279618360
+    second: Water Large_396
+  - first:
+      213: 2047425163603861424
+    second: Water Large_397
+  - first:
+      213: 278147279532923196
+    second: Water Large_398
+  - first:
+      213: 8952802511601260495
+    second: Water Large_399
+  - first:
+      213: -1539207655770789253
+    second: Water Large_400
+  - first:
+      213: 2350545215490187242
+    second: Water Large_401
+  - first:
+      213: 8081424457537943138
+    second: Water Large_402
+  - first:
+      213: 643910091913240167
+    second: Water Large_403
+  - first:
+      213: 206530838699120233
+    second: Water Large_404
+  - first:
+      213: -2641619471753023257
+    second: Water Large_405
+  - first:
+      213: -5608729209968226393
+    second: Water Large_406
+  - first:
+      213: 727442002812592476
+    second: Water Large_407
+  - first:
+      213: 8772334799416245042
+    second: Water Large_408
+  - first:
+      213: -6411355350473235939
+    second: Water Large_409
+  - first:
+      213: 6392289296242350568
+    second: Water Large_410
+  - first:
+      213: 1935849197970233896
+    second: Water Large_411
+  - first:
+      213: -7186434664725404784
+    second: Water Large_412
+  - first:
+      213: 8658175089319553701
+    second: Water Large_413
+  - first:
+      213: -7929818050564213619
+    second: Water Large_414
+  - first:
+      213: -521041686600244845
+    second: Water Large_415
+  - first:
+      213: -5582602483109602547
+    second: Water Large_416
+  - first:
+      213: 848361159423634143
+    second: Water Large_417
+  - first:
+      213: 6672876156252093981
+    second: Water Large_418
+  - first:
+      213: 4982214325588962700
+    second: Water Large_419
+  - first:
+      213: 4523215191748740641
+    second: Water Large_420
+  - first:
+      213: -2755387707845848892
+    second: Water Large_421
+  - first:
+      213: 8915609830337417614
+    second: Water Large_422
+  - first:
+      213: -2169317030579403761
+    second: Water Large_423
+  - first:
+      213: -6629624367176116675
+    second: Water Large_424
+  - first:
+      213: 3370229646593600442
+    second: Water Large_425
+  - first:
+      213: -6600055732765722592
+    second: Water Large_426
+  - first:
+      213: -4105207438764029055
+    second: Water Large_427
+  - first:
+      213: 2177082751904097910
+    second: Water Large_428
+  - first:
+      213: -2705853495674216947
+    second: Water Large_429
+  - first:
+      213: -7745714661082274334
+    second: Water Large_430
+  - first:
+      213: 2436548660780385027
+    second: Water Large_431
+  - first:
+      213: -59604344270766391
+    second: Water Large_432
+  - first:
+      213: 7632035705227234598
+    second: Water Large_433
+  - first:
+      213: -9215204977982395225
+    second: Water Large_434
+  - first:
+      213: 6981877263816934818
+    second: Water Large_435
+  - first:
+      213: -4573876463397330596
+    second: Water Large_436
+  - first:
+      213: 2876946096716332939
+    second: Water Large_437
+  - first:
+      213: -1609800345541061909
+    second: Water Large_438
+  - first:
+      213: 7445063403294381453
+    second: Water Large_439
+  - first:
+      213: -180633047735548783
+    second: Water Large_440
+  - first:
+      213: -370840272676897584
+    second: Water Large_441
+  - first:
+      213: 290789066523154577
+    second: Water Large_442
+  - first:
+      213: -7641738388484798643
+    second: Water Large_443
+  - first:
+      213: -1624524043112948239
+    second: Water Large_444
+  - first:
+      213: -1419801371377588440
+    second: Water Large_445
+  - first:
+      213: -7830562059607742954
+    second: Water Large_446
+  - first:
+      213: 6786810028150553752
+    second: Water Large_447
+  - first:
+      213: -8523341230182338919
+    second: Water Large_448
+  - first:
+      213: 8986213999514285503
+    second: Water Large_449
+  - first:
+      213: 1641135241289234715
+    second: Water Large_450
+  - first:
+      213: 670379881666276372
+    second: Water Large_451
+  - first:
+      213: 6203860177207934674
+    second: Water Large_452
+  - first:
+      213: 8409280861300721754
+    second: Water Large_453
+  - first:
+      213: -7080995799446280086
+    second: Water Large_454
+  - first:
+      213: 7806757035863177143
+    second: Water Large_455
+  - first:
+      213: -1688757052072926523
+    second: Water Large_456
+  - first:
+      213: 8440613758670887870
+    second: Water Large_457
+  - first:
+      213: -6002382003825366814
+    second: Water Large_458
+  - first:
+      213: 1378623954296771799
+    second: Water Large_459
+  - first:
+      213: -2449686181456378366
+    second: Water Large_460
+  - first:
+      213: -1315129350976271337
+    second: Water Large_461
+  - first:
+      213: 684480597036961672
+    second: Water Large_462
+  - first:
+      213: 5726080239332028313
+    second: Water Large_463
+  - first:
+      213: 825180063895828817
+    second: Water Large_464
+  - first:
+      213: 29748717159514726
+    second: Water Large_465
+  - first:
+      213: -4977524697565900136
+    second: Water Large_466
+  - first:
+      213: -1401249604991556577
+    second: Water Large_467
+  - first:
+      213: -500942771885488109
+    second: Water Large_468
+  - first:
+      213: 966029846721374436
+    second: Water Large_469
+  - first:
+      213: -2467571860555666761
+    second: Water Large_470
+  - first:
+      213: 387886384770024647
+    second: Water Large_471
+  - first:
+      213: -9168286270839996600
+    second: Water Large_472
+  - first:
+      213: -1827277301139579936
+    second: Water Large_473
+  - first:
+      213: 8597470491562246978
+    second: Water Large_474
+  - first:
+      213: 2701663847939647939
+    second: Water Large_475
+  - first:
+      213: 3090861915440049754
+    second: Water Large_476
+  - first:
+      213: -7441438000662101493
+    second: Water Large_477
+  - first:
+      213: 8617071238285060794
+    second: Water Large_478
+  - first:
+      213: 1368386479066767924
+    second: Water Large_479
+  - first:
+      213: -6416959558780579174
+    second: Water Large_480
+  - first:
+      213: -395275039215275692
+    second: Water Large_481
+  - first:
+      213: -5699040199559678319
+    second: Water Large_482
+  - first:
+      213: 780224201438703891
+    second: Water Large_483
+  - first:
+      213: -4352464637297084107
+    second: Water Large_484
+  - first:
+      213: 2680176467349091755
+    second: Water Large_485
+  - first:
+      213: 7339523039681349921
+    second: Water Large_486
+  - first:
+      213: -8186279602503266412
+    second: Water Large_487
+  - first:
+      213: -3658426129364843562
+    second: Water Large_488
+  - first:
+      213: 4016538130758151547
+    second: Water Large_489
+  - first:
+      213: 6739127186977842302
+    second: Water Large_490
+  - first:
+      213: -6555745377813043080
+    second: Water Large_491
+  - first:
+      213: 2821641081315676030
+    second: Water Large_492
+  - first:
+      213: -4590186521178534523
+    second: Water Large_493
+  - first:
+      213: -2901412778449861774
+    second: Water Large_494
+  - first:
+      213: 2769705023283794662
+    second: Water Large_495
+  - first:
+      213: 672884179496027022
+    second: Water Large_496
+  - first:
+      213: 3940059652981355297
+    second: Water Large_497
+  - first:
+      213: 5046122944220313571
+    second: Water Large_498
+  - first:
+      213: 4012182539515428680
+    second: Water Large_499
+  - first:
+      213: 3830969605383594948
+    second: Water Large_500
+  - first:
+      213: 6862699858872321463
+    second: Water Large_501
+  - first:
+      213: 5703944828163707142
+    second: Water Large_502
+  - first:
+      213: -6357050518342763646
+    second: Water Large_503
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Large_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d540d5390b48fc0800000000000000
+      internalID: -3493473263965414080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6714899779fe5a30800000000000000
+      internalID: 4206073394082617197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5710805ad18a6b0800000000000000
+      internalID: -5284941568078154320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9844118f6c87dad0800000000000000
+      internalID: -2677517042913621859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b405fb226447230800000000000000
+      internalID: 3635607914247375690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7c9d5ad4f049d0800000000000000
+      internalID: -2791962550259122272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b8534938d9d7d0800000000000000
+      internalID: -2893043545154210527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617f78502c043360800000000000000
+      internalID: 7148351841607053668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526450fc31966b00800000000000000
+      internalID: 821503672957821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd28d6a4ce0a1650800000000000000
+      internalID: 6204287674431843786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4755e86af5172ae0800000000000000
+      internalID: -1574265379496831157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93430848ff28e50800000000000000
+      internalID: 6810286531089283575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d211c6d511166fa50800000000000000
+      internalID: 6554533034894037293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb98795965eb810800000000000000
+      internalID: 1782957702977797113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c457d6b9de126d0800000000000000
+      internalID: -3016869023549404070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d373e81a14ecb0800000000000000
+      internalID: -4835711405691514197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b882abab4714620800000000000000
+      internalID: 2756612792263412614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_17
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e28af18c5599d90800000000000000
+      internalID: -7090541820305199499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_18
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d86f9cf7355d5a0800000000000000
+      internalID: -6497195079097742026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_19
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e19884b5a9f1470800000000000000
+      internalID: 8367576349527318076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5275aaa44d39520800000000000000
+      internalID: 2707741218130306498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_21
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542f2f28186db49a0800000000000000
+      internalID: -6247664206310346171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_22
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57203796359f10e0800000000000000
+      internalID: -2296953223238375588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_23
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce19d2689e3b650800000000000000
+      internalID: 6247593870592437388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_24
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661bbc4575d95db90800000000000000
+      internalID: -7217689829381000858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_25
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff1e76f7d74006c0800000000000000
+      internalID: -4179261461320818694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_26
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacb8c82e1931a20800000000000000
+      internalID: 3031927376357083836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_27
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 1022
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ad6e3ef7842e2c0800000000000000
+      internalID: -4403877771493320100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7468b79a3f070c90800000000000000
+      internalID: -7203772334627855238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71224627e424795d0800000000000000
+      internalID: -3055900917453544937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3890d996d4b79e0800000000000000
+      internalID: -1622618124735380551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d44fa69da30c260800000000000000
+      internalID: 7115752116722093420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfedcdc9e451e6660800000000000000
+      internalID: 7380860266690174717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d02589cb9ad2d0800000000000000
+      internalID: -3253116490997508989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f54d4e389cfb300800000000000000
+      internalID: 270156070982541207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_35
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ea3ce3a110f2a0800000000000000
+      internalID: -6705840449414045410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48706755ef4a4340800000000000000
+      internalID: 4848775795249805387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_37
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3443af29ec7d2ad0800000000000000
+      internalID: -2725384858520828866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c209de112df7270800000000000000
+      internalID: 8250544016807963771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_39
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598c9ef149d4d86d0800000000000000
+      internalID: -2986645679290857323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaded05754108cc0800000000000000
+      internalID: -3710943727701796098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_41
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e3c75c047b5cf10800000000000000
+      internalID: 2289437474406809178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_42
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df82f2b003fde990800000000000000
+      internalID: -7354955432098361383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_43
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f46e7b79ff36ed0800000000000000
+      internalID: -2421811147504726159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_44
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7863356be4fb010800000000000000
+      internalID: 1206769770145679280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_45
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f324c958a5e7040800000000000000
+      internalID: 4647251395391668079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_46
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc891a763c3d40b0800000000000000
+      internalID: -5742867745153119040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_47
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a19a9867d2d8b0800000000000000
+      internalID: -5128800181351765883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_48
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a75821fcd143700800000000000000
+      internalID: 519072632260622951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_49
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35480e52a879bfe50800000000000000
+      internalID: 6844230678316352595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_50
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06f5af3744035080800000000000000
+      internalID: -9200004909730761205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_51
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e07e6cb7319560800000000000000
+      internalID: 7318692151900038644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_52
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951f644dc160f8e0800000000000000
+      internalID: -1661720728255392360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_53
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1399123ffa41c0800000000000000
+      internalID: -4518518685470351586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_54
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a53db450307f770800000000000000
+      internalID: 8644381331042818593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_55
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 766
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525515f178c16540800000000000000
+      internalID: 4999497453126636124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3abcc4dcd23620800000000000000
+      internalID: 2752505128802729942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352015c534ba72a80800000000000000
+      internalID: -8491630266583809453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369dd04f83a577f0800000000000000
+      internalID: -615405938402290118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d6ada817d7fa20800000000000000
+      internalID: 3096179769833085033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0225faf7f13e40cd0800000000000000
+      internalID: -2592697761032875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b9265c2825a8400800000000000000
+      internalID: 327164644548582292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49797be19ba3ec520800000000000000
+      internalID: 2724179391364437908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1d4e577c5641f0800000000000000
+      internalID: -1061058994446198171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e59f58802959f80800000000000000
+      internalID: -8100407789450862991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_65
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10e5a28375e0880800000000000000
+      internalID: -8642874736136814098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_66
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a919fc887512fec0800000000000000
+      internalID: -3534739150027023963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_67
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ffa969551cac80800000000000000
+      internalID: -8310243738635994829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_68
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc12590018e11d30800000000000000
+      internalID: 4400553466491182302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_69
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6be2369e09c80e0800000000000000
+      internalID: -2266277180408416525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_70
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b7248305cca6f10800000000000000
+      internalID: 2263846407620426654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_71
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1d59a7f4cdd430800000000000000
+      internalID: 3809417427802726121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_72
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686bc9124b201790800000000000000
+      internalID: -7561496211454465946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_73
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5b1ba4091dd030800000000000000
+      internalID: 3520997991514857036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_74
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35884a9de1de03710800000000000000
+      internalID: 1671096178510694483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_75
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8651f676d090051b0800000000000000
+      internalID: -5670021977684896408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_76
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e23737fab81260800000000000000
+      internalID: 7068605186103764830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_77
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7984cafbcee71f7c0800000000000000
+      internalID: -4039307835481503593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_78
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99207c729156dc090800000000000000
+      internalID: -8012637003306302823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_79
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49191a76d8ec62ea0800000000000000
+      internalID: -5897799555270733420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_80
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f064896b4f1295b0800000000000000
+      internalID: -5363189797491547913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_81
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd319c06348f422c0800000000000000
+      internalID: -4457164762919660577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_82
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e5fd3fc7300930800000000000000
+      internalID: 4107344223399175863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_83
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 510
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e754e8e29e753d10800000000000000
+      internalID: 2104727570303178723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2bd3caf91fb5b0800000000000000
+      internalID: -5350529267474420216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725674876e0e66a50800000000000000
+      internalID: 6514141191503045927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eee926bf45af3320800000000000000
+      internalID: 2539930476637449956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2587b1d433e230800000000000000
+      internalID: 3666832596941483290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ce62716e4e7170800000000000000
+      internalID: 8178060153790056207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d9d92527cd1a40800000000000000
+      internalID: 5340643695561134439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ae33078ba77230800000000000000
+      internalID: 3636563820488336144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_91
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98a325a95c37dd0800000000000000
+      internalID: -2489428902410548758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_92
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b0f6f68328b290800000000000000
+      internalID: -7874504885881753223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_93
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169fba5e43051a410800000000000000
+      internalID: 1486557540130748769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_94
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601664f32a35e980800000000000000
+      internalID: -8510331994748088211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_95
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c59137f967e320800000000000000
+      internalID: 2587153021357377579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_96
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05261b7650a4840800000000000000
+      internalID: 5208981861923180736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_97
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a409a3bd1860395a0800000000000000
+      internalID: -6515857081076379574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_98
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00705e85ba6efd600800000000000000
+      internalID: 495368107639244544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_99
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b944bb021d5dfd10800000000000000
+      internalID: 2160985728294865328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_100
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b727f34bf7e23a50800000000000000
+      internalID: 6499512278612125620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_101
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26adfe89290a82980800000000000000
+      internalID: -8563418139953472926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_102
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458d94c6eca0ff00800000000000000
+      internalID: 1148608012120589636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_103
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa09125c79856a30800000000000000
+      internalID: 4207920593893919487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_104
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130cdcb0beed3df0800000000000000
+      internalID: -198740365684243693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_105
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7f808492e999b0800000000000000
+      internalID: -5072774377816228222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_106
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63bb300f4b2cee90800000000000000
+      internalID: -6995168502906899601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_107
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa767542e14851230800000000000000
+      internalID: 3608935941400913839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_108
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688dc183d8862e4f0800000000000000
+      internalID: -800962827977435002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_109
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea05eb628e7e1d60800000000000000
+      internalID: 7862861098056485615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_110
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6646725779a470800000000000000
+      internalID: 8406381375519092596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Large_111
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 254
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd49fbffaa1db80800000000000000
+      internalID: -8371722216897454785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7997 @@
+fileFormatVersion: 2
+guid: f412c872af1fe354da52cdd679ef805e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8387274413962656196
+    second: Clouds Day_1_0
+  - first:
+      213: -8030531721667964308
+    second: Clouds Day_1_1
+  - first:
+      213: 6897958829704426381
+    second: Clouds Day_1_2
+  - first:
+      213: -962489494394275210
+    second: Clouds Day_1_3
+  - first:
+      213: 7473917777465918441
+    second: Clouds Day_1_4
+  - first:
+      213: 6983426404444672223
+    second: Clouds Day_1_5
+  - first:
+      213: 6602951353236395977
+    second: Clouds Day_1_6
+  - first:
+      213: 8081448483275969587
+    second: Clouds Day_1_7
+  - first:
+      213: -8522547916941550553
+    second: Clouds Day_1_8
+  - first:
+      213: -1229828591845286351
+    second: Clouds Day_1_9
+  - first:
+      213: -4583900545128425109
+    second: Clouds Day_1_10
+  - first:
+      213: -8006669120239306974
+    second: Clouds Day_1_11
+  - first:
+      213: -2925165164459832664
+    second: Clouds Day_1_12
+  - first:
+      213: 1117183101249436026
+    second: Clouds Day_1_13
+  - first:
+      213: -6983534699657983101
+    second: Clouds Day_1_14
+  - first:
+      213: -2361045990607435374
+    second: Clouds Day_1_15
+  - first:
+      213: 6394597499983656500
+    second: Clouds Day_1_16
+  - first:
+      213: -5873711269551290593
+    second: Clouds Day_1_17
+  - first:
+      213: 506478125125849969
+    second: Clouds Day_1_18
+  - first:
+      213: -1396011931237758527
+    second: Clouds Day_1_19
+  - first:
+      213: -6467952588647967986
+    second: Clouds Day_1_20
+  - first:
+      213: 9001451191119920858
+    second: Clouds Day_1_21
+  - first:
+      213: -6580709179228146528
+    second: Clouds Day_1_22
+  - first:
+      213: -1975114646779847523
+    second: Clouds Day_1_23
+  - first:
+      213: 5094283776772345041
+    second: Clouds Day_1_24
+  - first:
+      213: 3640810182731142956
+    second: Clouds Day_1_25
+  - first:
+      213: 5372200419749504013
+    second: Clouds Day_1_26
+  - first:
+      213: -2156225895731103045
+    second: Clouds Day_1_27
+  - first:
+      213: -4313079539314636327
+    second: Clouds Day_1_28
+  - first:
+      213: -4533089396881054858
+    second: Clouds Day_1_29
+  - first:
+      213: -2603205090326896352
+    second: Clouds Day_1_30
+  - first:
+      213: -6447738812091028957
+    second: Clouds Day_1_31
+  - first:
+      213: 7495625590500461695
+    second: Clouds Day_1_32
+  - first:
+      213: 6777838990835080381
+    second: Clouds Day_1_33
+  - first:
+      213: 8310296755201908704
+    second: Clouds Day_1_34
+  - first:
+      213: -3850269783962310770
+    second: Clouds Day_1_35
+  - first:
+      213: 1178004981005765291
+    second: Clouds Day_1_36
+  - first:
+      213: 1916507094106390712
+    second: Clouds Day_1_37
+  - first:
+      213: 7316490729630685174
+    second: Clouds Day_1_38
+  - first:
+      213: -8070719379757370568
+    second: Clouds Day_1_39
+  - first:
+      213: 4424558411933073750
+    second: Clouds Day_1_40
+  - first:
+      213: -6158314294786038596
+    second: Clouds Day_1_41
+  - first:
+      213: -5573158153300762556
+    second: Clouds Day_1_42
+  - first:
+      213: 48523634466958547
+    second: Clouds Day_1_43
+  - first:
+      213: 2436043400155978271
+    second: Clouds Day_1_44
+  - first:
+      213: -5184487388445324905
+    second: Clouds Day_1_45
+  - first:
+      213: 6885692564187158560
+    second: Clouds Day_1_46
+  - first:
+      213: 2512504190256930583
+    second: Clouds Day_1_47
+  - first:
+      213: -9016351407907543984
+    second: Clouds Day_1_48
+  - first:
+      213: -6412682164480016337
+    second: Clouds Day_1_49
+  - first:
+      213: 3032556542669323875
+    second: Clouds Day_1_50
+  - first:
+      213: 7359940607084164489
+    second: Clouds Day_1_51
+  - first:
+      213: 7696848683487443055
+    second: Clouds Day_1_52
+  - first:
+      213: 9048621160072411998
+    second: Clouds Day_1_53
+  - first:
+      213: 1616122759553389336
+    second: Clouds Day_1_54
+  - first:
+      213: -6205187985296611705
+    second: Clouds Day_1_55
+  - first:
+      213: 1066823785118739411
+    second: Clouds Day_1_56
+  - first:
+      213: 868693795883498108
+    second: Clouds Day_1_57
+  - first:
+      213: 7179586605965166514
+    second: Clouds Day_1_58
+  - first:
+      213: -2909105498333956919
+    second: Clouds Day_1_59
+  - first:
+      213: 2296451962145142453
+    second: Clouds Day_1_60
+  - first:
+      213: 8564186670335171264
+    second: Clouds Day_1_61
+  - first:
+      213: 6166070381469451775
+    second: Clouds Day_1_62
+  - first:
+      213: -1128012383079591474
+    second: Clouds Day_1_63
+  - first:
+      213: -8414598055391682476
+    second: Clouds Day_1_64
+  - first:
+      213: 3793307505193167956
+    second: Clouds Day_1_65
+  - first:
+      213: 2222549164536131901
+    second: Clouds Day_1_66
+  - first:
+      213: 5663669810488976115
+    second: Clouds Day_1_67
+  - first:
+      213: -1500069386863855795
+    second: Clouds Day_1_68
+  - first:
+      213: 22735396601660356
+    second: Clouds Day_1_69
+  - first:
+      213: -3303518951559247093
+    second: Clouds Day_1_70
+  - first:
+      213: -1410793908767554464
+    second: Clouds Day_1_71
+  - first:
+      213: 5555459680474067985
+    second: Clouds Day_1_72
+  - first:
+      213: 6395932378785677683
+    second: Clouds Day_1_73
+  - first:
+      213: 5544321343314654535
+    second: Clouds Day_1_74
+  - first:
+      213: 3291945928884229161
+    second: Clouds Day_1_75
+  - first:
+      213: -7632741953186306977
+    second: Clouds Day_1_76
+  - first:
+      213: 2793700320018653706
+    second: Clouds Day_1_77
+  - first:
+      213: -268794085480117050
+    second: Clouds Day_1_78
+  - first:
+      213: -8375614351713137037
+    second: Clouds Day_1_79
+  - first:
+      213: 1601441377875655640
+    second: Clouds Day_1_80
+  - first:
+      213: 2077706348468906700
+    second: Clouds Day_1_81
+  - first:
+      213: 187003608164977051
+    second: Clouds Day_1_82
+  - first:
+      213: -6304180332670719334
+    second: Clouds Day_1_83
+  - first:
+      213: 6543098729089908740
+    second: Clouds Day_1_84
+  - first:
+      213: 341453063312312731
+    second: Clouds Day_1_85
+  - first:
+      213: 8871102941193155593
+    second: Clouds Day_1_86
+  - first:
+      213: -7957845453029180192
+    second: Clouds Day_1_87
+  - first:
+      213: -161796114520704733
+    second: Clouds Day_1_88
+  - first:
+      213: -2264539783618439524
+    second: Clouds Day_1_89
+  - first:
+      213: 2575142536866378635
+    second: Clouds Day_1_90
+  - first:
+      213: 5816882699097943185
+    second: Clouds Day_1_91
+  - first:
+      213: 3381858683570139961
+    second: Clouds Day_1_92
+  - first:
+      213: -6541648959547326365
+    second: Clouds Day_1_93
+  - first:
+      213: -4749513216715009801
+    second: Clouds Day_1_94
+  - first:
+      213: -1756253697928279249
+    second: Clouds Day_1_95
+  - first:
+      213: 2366454683859539601
+    second: Clouds Day_1_96
+  - first:
+      213: -3677537283347385741
+    second: Clouds Day_1_97
+  - first:
+      213: -4382750930912924388
+    second: Clouds Day_1_98
+  - first:
+      213: 7500052809433407247
+    second: Clouds Day_1_99
+  - first:
+      213: -1106236702707924466
+    second: Clouds Day_1_100
+  - first:
+      213: -8459533637666476312
+    second: Clouds Day_1_101
+  - first:
+      213: -7390663028008657934
+    second: Clouds Day_1_102
+  - first:
+      213: 8225618481590237755
+    second: Clouds Day_1_103
+  - first:
+      213: 8648603538148580336
+    second: Clouds Day_1_104
+  - first:
+      213: -8032241888565198856
+    second: Clouds Day_1_105
+  - first:
+      213: -212581642460255239
+    second: Clouds Day_1_106
+  - first:
+      213: -6609927560152312443
+    second: Clouds Day_1_107
+  - first:
+      213: -1705364426917509397
+    second: Clouds Day_1_108
+  - first:
+      213: -7359796808933290732
+    second: Clouds Day_1_109
+  - first:
+      213: -8342589959047229442
+    second: Clouds Day_1_110
+  - first:
+      213: -3211277165528160137
+    second: Clouds Day_1_111
+  - first:
+      213: 2258698721872583267
+    second: Clouds Day_1_112
+  - first:
+      213: 501964744807725923
+    second: Clouds Day_1_113
+  - first:
+      213: 1603263013162969123
+    second: Clouds Day_1_114
+  - first:
+      213: -3021239736394334262
+    second: Clouds Day_1_115
+  - first:
+      213: 7701136489634181695
+    second: Clouds Day_1_116
+  - first:
+      213: -7406987266832310395
+    second: Clouds Day_1_117
+  - first:
+      213: 8741484340139115797
+    second: Clouds Day_1_118
+  - first:
+      213: -7737371742696496041
+    second: Clouds Day_1_119
+  - first:
+      213: 6455600029197192340
+    second: Clouds Day_1_120
+  - first:
+      213: -3929919034782694040
+    second: Clouds Day_1_121
+  - first:
+      213: -7307565114119001973
+    second: Clouds Day_1_122
+  - first:
+      213: 5735528122783420877
+    second: Clouds Day_1_123
+  - first:
+      213: -6292753920282371046
+    second: Clouds Day_1_124
+  - first:
+      213: -223530960853111146
+    second: Clouds Day_1_125
+  - first:
+      213: -6103741217559408041
+    second: Clouds Day_1_126
+  - first:
+      213: 4393276387685254733
+    second: Clouds Day_1_127
+  - first:
+      213: 2621590628723614402
+    second: Clouds Day_1_128
+  - first:
+      213: -2540827360594779529
+    second: Clouds Day_1_129
+  - first:
+      213: 733500071891312332
+    second: Clouds Day_1_130
+  - first:
+      213: 7880993594746596745
+    second: Clouds Day_1_131
+  - first:
+      213: -8900243206461351966
+    second: Clouds Day_1_132
+  - first:
+      213: 1490654264505713763
+    second: Clouds Day_1_133
+  - first:
+      213: 2217043873112709136
+    second: Clouds Day_1_134
+  - first:
+      213: 2098746332119091153
+    second: Clouds Day_1_135
+  - first:
+      213: -3879912140919792914
+    second: Clouds Day_1_136
+  - first:
+      213: 3490597711842003627
+    second: Clouds Day_1_137
+  - first:
+      213: 8861924474557683395
+    second: Clouds Day_1_138
+  - first:
+      213: 3784296172567462443
+    second: Clouds Day_1_139
+  - first:
+      213: 9202797637463694729
+    second: Clouds Day_1_140
+  - first:
+      213: 9139728819842188021
+    second: Clouds Day_1_141
+  - first:
+      213: 521187375427541080
+    second: Clouds Day_1_142
+  - first:
+      213: 8189178820631274436
+    second: Clouds Day_1_143
+  - first:
+      213: -6358904601109521543
+    second: Clouds Day_1_144
+  - first:
+      213: 6756823503673021252
+    second: Clouds Day_1_145
+  - first:
+      213: 6166218991643571802
+    second: Clouds Day_1_146
+  - first:
+      213: 7717874590532050205
+    second: Clouds Day_1_147
+  - first:
+      213: 3626863781807284219
+    second: Clouds Day_1_148
+  - first:
+      213: 805324198632095986
+    second: Clouds Day_1_149
+  - first:
+      213: -5434203737897690786
+    second: Clouds Day_1_150
+  - first:
+      213: -4681250094067410979
+    second: Clouds Day_1_151
+  - first:
+      213: 5570553334070153368
+    second: Clouds Day_1_152
+  - first:
+      213: -2050940539488954115
+    second: Clouds Day_1_153
+  - first:
+      213: -5372626986552382975
+    second: Clouds Day_1_154
+  - first:
+      213: -1413107661496493636
+    second: Clouds Day_1_155
+  - first:
+      213: 533878689192926999
+    second: Clouds Day_1_156
+  - first:
+      213: -7509273656881674177
+    second: Clouds Day_1_157
+  - first:
+      213: -6518228327295468464
+    second: Clouds Day_1_158
+  - first:
+      213: 8566099013379858339
+    second: Clouds Day_1_159
+  - first:
+      213: 751612961726056601
+    second: Clouds Day_1_160
+  - first:
+      213: -3828558526874941970
+    second: Clouds Day_1_161
+  - first:
+      213: 3346224958826905538
+    second: Clouds Day_1_162
+  - first:
+      213: -1736120726133795438
+    second: Clouds Day_1_163
+  - first:
+      213: 5845932602179951007
+    second: Clouds Day_1_164
+  - first:
+      213: 4512669270976809973
+    second: Clouds Day_1_165
+  - first:
+      213: -3902372318291020927
+    second: Clouds Day_1_166
+  - first:
+      213: -2445693859900387877
+    second: Clouds Day_1_167
+  - first:
+      213: -6343349484103824207
+    second: Clouds Day_1_168
+  - first:
+      213: -7541502000217341524
+    second: Clouds Day_1_169
+  - first:
+      213: -4720737362834742257
+    second: Clouds Day_1_170
+  - first:
+      213: -4904257266762522481
+    second: Clouds Day_1_171
+  - first:
+      213: 6721415445203697053
+    second: Clouds Day_1_172
+  - first:
+      213: 5844763601338467735
+    second: Clouds Day_1_173
+  - first:
+      213: -1903241852162938586
+    second: Clouds Day_1_174
+  - first:
+      213: 1099732046672287383
+    second: Clouds Day_1_175
+  - first:
+      213: -1221185460222028125
+    second: Clouds Day_1_176
+  - first:
+      213: 6555256395313053992
+    second: Clouds Day_1_177
+  - first:
+      213: -5641547492951344773
+    second: Clouds Day_1_178
+  - first:
+      213: -959390577763966954
+    second: Clouds Day_1_179
+  - first:
+      213: 7069508052214390367
+    second: Clouds Day_1_180
+  - first:
+      213: -2325555134172632406
+    second: Clouds Day_1_181
+  - first:
+      213: -7408324400081198607
+    second: Clouds Day_1_182
+  - first:
+      213: 3280148584171512953
+    second: Clouds Day_1_183
+  - first:
+      213: -9198477007273700874
+    second: Clouds Day_1_184
+  - first:
+      213: 171843410934178119
+    second: Clouds Day_1_185
+  - first:
+      213: 6396205014346106321
+    second: Clouds Day_1_186
+  - first:
+      213: 8363029901811695736
+    second: Clouds Day_1_187
+  - first:
+      213: -5265520999438986239
+    second: Clouds Day_1_188
+  - first:
+      213: 3558113177041518114
+    second: Clouds Day_1_189
+  - first:
+      213: 6841958669495253002
+    second: Clouds Day_1_190
+  - first:
+      213: 1395069792632998869
+    second: Clouds Day_1_191
+  - first:
+      213: 4618830688658789841
+    second: Clouds Day_1_192
+  - first:
+      213: -3275492385365182529
+    second: Clouds Day_1_193
+  - first:
+      213: 8587734309776182798
+    second: Clouds Day_1_194
+  - first:
+      213: -4338167138953469138
+    second: Clouds Day_1_195
+  - first:
+      213: -7030952057860898065
+    second: Clouds Day_1_196
+  - first:
+      213: -8720422631823705808
+    second: Clouds Day_1_197
+  - first:
+      213: -3322554305426778980
+    second: Clouds Day_1_198
+  - first:
+      213: 4191833600103174537
+    second: Clouds Day_1_199
+  - first:
+      213: 8897886198562583333
+    second: Clouds Day_1_200
+  - first:
+      213: 2659501161991372341
+    second: Clouds Day_1_201
+  - first:
+      213: 3402379942831375869
+    second: Clouds Day_1_202
+  - first:
+      213: -9073041728009241124
+    second: Clouds Day_1_203
+  - first:
+      213: -1621717539316426317
+    second: Clouds Day_1_204
+  - first:
+      213: 1448391911059881086
+    second: Clouds Day_1_205
+  - first:
+      213: -806452363852560803
+    second: Clouds Day_1_206
+  - first:
+      213: -3010014143460605740
+    second: Clouds Day_1_207
+  - first:
+      213: 3412377011954048586
+    second: Clouds Day_1_208
+  - first:
+      213: -6139278692549213633
+    second: Clouds Day_1_209
+  - first:
+      213: 1923578076103874844
+    second: Clouds Day_1_210
+  - first:
+      213: 1987050905768527273
+    second: Clouds Day_1_211
+  - first:
+      213: 7294466592349163939
+    second: Clouds Day_1_212
+  - first:
+      213: -7689332042460192998
+    second: Clouds Day_1_213
+  - first:
+      213: -2300116475321751534
+    second: Clouds Day_1_214
+  - first:
+      213: -2900797941063061663
+    second: Clouds Day_1_215
+  - first:
+      213: 4752469027279719181
+    second: Clouds Day_1_216
+  - first:
+      213: -7834093995717996350
+    second: Clouds Day_1_217
+  - first:
+      213: -2632785094727555659
+    second: Clouds Day_1_218
+  - first:
+      213: 3684135685886229158
+    second: Clouds Day_1_219
+  - first:
+      213: -3274289891335588878
+    second: Clouds Day_1_220
+  - first:
+      213: 8503961842569111710
+    second: Clouds Day_1_221
+  - first:
+      213: 6881469367968302890
+    second: Clouds Day_1_222
+  - first:
+      213: -7947483820692874666
+    second: Clouds Day_1_223
+  - first:
+      213: -2904157632102862682
+    second: Clouds Day_1_224
+  - first:
+      213: 1908676181409802755
+    second: Clouds Day_1_225
+  - first:
+      213: -8144289207685941990
+    second: Clouds Day_1_226
+  - first:
+      213: 5121529116712877457
+    second: Clouds Day_1_227
+  - first:
+      213: -3249345293860652433
+    second: Clouds Day_1_228
+  - first:
+      213: -2121516138026481625
+    second: Clouds Day_1_229
+  - first:
+      213: 25594817657206784
+    second: Clouds Day_1_230
+  - first:
+      213: -7835576038957025856
+    second: Clouds Day_1_231
+  - first:
+      213: -8567807708376285413
+    second: Clouds Day_1_232
+  - first:
+      213: -7853859508600271949
+    second: Clouds Day_1_233
+  - first:
+      213: -791615299974000292
+    second: Clouds Day_1_234
+  - first:
+      213: 1210652896362897684
+    second: Clouds Day_1_235
+  - first:
+      213: 325979705948935810
+    second: Clouds Day_1_236
+  - first:
+      213: 5951190940418804975
+    second: Clouds Day_1_237
+  - first:
+      213: -8424037315260407915
+    second: Clouds Day_1_238
+  - first:
+      213: -4030717902163850184
+    second: Clouds Day_1_239
+  - first:
+      213: -7020236897788686594
+    second: Clouds Day_1_240
+  - first:
+      213: 4784846641095839099
+    second: Clouds Day_1_241
+  - first:
+      213: 3078816616604201782
+    second: Clouds Day_1_242
+  - first:
+      213: 247246275757586237
+    second: Clouds Day_1_243
+  - first:
+      213: -6007018114651308804
+    second: Clouds Day_1_244
+  - first:
+      213: -6823993752535920891
+    second: Clouds Day_1_245
+  - first:
+      213: 6800594400156767905
+    second: Clouds Day_1_246
+  - first:
+      213: 1210037043033160682
+    second: Clouds Day_1_247
+  - first:
+      213: 3944476656066959632
+    second: Clouds Day_1_248
+  - first:
+      213: 4906332402385842201
+    second: Clouds Day_1_249
+  - first:
+      213: 7372757297862493202
+    second: Clouds Day_1_250
+  - first:
+      213: 3214006411729720964
+    second: Clouds Day_1_251
+  - first:
+      213: -5306323583383129581
+    second: Clouds Day_1_252
+  - first:
+      213: 1928403597516817513
+    second: Clouds Day_1_253
+  - first:
+      213: -864083974834917972
+    second: Clouds Day_1_254
+  - first:
+      213: -2682403070180669527
+    second: Clouds Day_1_255
+  - first:
+      213: -8501919861744636118
+    second: Clouds Day_1_256
+  - first:
+      213: -8621313553026110397
+    second: Clouds Day_1_257
+  - first:
+      213: 1113891168366633055
+    second: Clouds Day_1_258
+  - first:
+      213: -857634814033660466
+    second: Clouds Day_1_259
+  - first:
+      213: -349810335354744301
+    second: Clouds Day_1_260
+  - first:
+      213: 2437606851217698368
+    second: Clouds Day_1_261
+  - first:
+      213: -8438412410933482956
+    second: Clouds Day_1_262
+  - first:
+      213: 5831356227741867424
+    second: Clouds Day_1_263
+  - first:
+      213: 6319974659031619497
+    second: Clouds Day_1_264
+  - first:
+      213: 3584134698207308602
+    second: Clouds Day_1_265
+  - first:
+      213: 519896542446476666
+    second: Clouds Day_1_266
+  - first:
+      213: 8195178341888355614
+    second: Clouds Day_1_267
+  - first:
+      213: -399761980107218575
+    second: Clouds Day_1_268
+  - first:
+      213: -8356564963156538953
+    second: Clouds Day_1_269
+  - first:
+      213: 5506231317067362211
+    second: Clouds Day_1_270
+  - first:
+      213: 372022624121603195
+    second: Clouds Day_1_271
+  - first:
+      213: 478635340362238569
+    second: Clouds Day_1_272
+  - first:
+      213: 8776954796363198704
+    second: Clouds Day_1_273
+  - first:
+      213: -6537669337022963386
+    second: Clouds Day_1_274
+  - first:
+      213: 891372303825639684
+    second: Clouds Day_1_275
+  - first:
+      213: 7321366842989368616
+    second: Clouds Day_1_276
+  - first:
+      213: -3560484916302543892
+    second: Clouds Day_1_277
+  - first:
+      213: -3240163158357986061
+    second: Clouds Day_1_278
+  - first:
+      213: -8262821947766918642
+    second: Clouds Day_1_279
+  - first:
+      213: -15230425575806757
+    second: Clouds Day_1_280
+  - first:
+      213: 2954941908615888231
+    second: Clouds Day_1_281
+  - first:
+      213: 1985249484102033404
+    second: Clouds Day_1_282
+  - first:
+      213: 8514213187652679703
+    second: Clouds Day_1_283
+  - first:
+      213: 3747779540131223931
+    second: Clouds Day_1_284
+  - first:
+      213: 8846903197501580517
+    second: Clouds Day_1_285
+  - first:
+      213: -2830469900055366011
+    second: Clouds Day_1_286
+  - first:
+      213: 9175872554798291207
+    second: Clouds Day_1_287
+  - first:
+      213: 1208364718012841051
+    second: Clouds Day_1_288
+  - first:
+      213: -6888220447853022918
+    second: Clouds Day_1_289
+  - first:
+      213: 2673209943315520194
+    second: Clouds Day_1_290
+  - first:
+      213: -1859916906911778696
+    second: Clouds Day_1_291
+  - first:
+      213: -5639313728973628808
+    second: Clouds Day_1_292
+  - first:
+      213: -6683819265816995861
+    second: Clouds Day_1_293
+  - first:
+      213: -2276288978870999996
+    second: Clouds Day_1_294
+  - first:
+      213: 213310754073294739
+    second: Clouds Day_1_295
+  - first:
+      213: 899940558468230579
+    second: Clouds Day_1_296
+  - first:
+      213: 1880531545637976679
+    second: Clouds Day_1_297
+  - first:
+      213: 4010631903339540487
+    second: Clouds Day_1_298
+  - first:
+      213: -7832159474018464509
+    second: Clouds Day_1_299
+  - first:
+      213: -1958337692615227368
+    second: Clouds Day_1_300
+  - first:
+      213: -1535590603792543821
+    second: Clouds Day_1_301
+  - first:
+      213: 9067755954798337055
+    second: Clouds Day_1_302
+  - first:
+      213: 1646691528002386332
+    second: Clouds Day_1_303
+  - first:
+      213: 3944824511311380796
+    second: Clouds Day_1_304
+  - first:
+      213: 2244096772694058777
+    second: Clouds Day_1_305
+  - first:
+      213: 445278718027060893
+    second: Clouds Day_1_306
+  - first:
+      213: 7467595961308885662
+    second: Clouds Day_1_307
+  - first:
+      213: 2080756449016194425
+    second: Clouds Day_1_308
+  - first:
+      213: 2087639293989678132
+    second: Clouds Day_1_309
+  - first:
+      213: -5711129499682243462
+    second: Clouds Day_1_310
+  - first:
+      213: -9223210439639163230
+    second: Clouds Day_1_311
+  - first:
+      213: -8008297921197962215
+    second: Clouds Day_1_312
+  - first:
+      213: -5596125363045646598
+    second: Clouds Day_1_313
+  - first:
+      213: -7113480063340244728
+    second: Clouds Day_1_314
+  - first:
+      213: -7577109642144582644
+    second: Clouds Day_1_315
+  - first:
+      213: -5072975450662828057
+    second: Clouds Day_1_316
+  - first:
+      213: 2230818849676316995
+    second: Clouds Day_1_317
+  - first:
+      213: 6567545489486322630
+    second: Clouds Day_1_318
+  - first:
+      213: -194490883368057726
+    second: Clouds Day_1_319
+  - first:
+      213: 4816754332069957993
+    second: Clouds Day_1_320
+  - first:
+      213: 5848328126486572644
+    second: Clouds Day_1_321
+  - first:
+      213: -4316386080699736191
+    second: Clouds Day_1_322
+  - first:
+      213: 7428628318154362489
+    second: Clouds Day_1_323
+  - first:
+      213: -8424802342307428429
+    second: Clouds Day_1_324
+  - first:
+      213: -3828311443290168684
+    second: Clouds Day_1_325
+  - first:
+      213: -4537166890337709935
+    second: Clouds Day_1_326
+  - first:
+      213: -4875252002819579296
+    second: Clouds Day_1_327
+  - first:
+      213: 5296818246831388130
+    second: Clouds Day_1_328
+  - first:
+      213: 1128884443203335664
+    second: Clouds Day_1_329
+  - first:
+      213: 4647796594873913259
+    second: Clouds Day_1_330
+  - first:
+      213: -2870399311234468413
+    second: Clouds Day_1_331
+  - first:
+      213: 3047559532907110420
+    second: Clouds Day_1_332
+  - first:
+      213: -8798733015680995291
+    second: Clouds Day_1_333
+  - first:
+      213: -1890424119870898214
+    second: Clouds Day_1_334
+  - first:
+      213: 2831050257412529458
+    second: Clouds Day_1_335
+  - first:
+      213: 1169726782566779637
+    second: Clouds Day_1_336
+  - first:
+      213: -7876265805051821071
+    second: Clouds Day_1_337
+  - first:
+      213: -2339202771841501130
+    second: Clouds Day_1_338
+  - first:
+      213: 7510324914660275891
+    second: Clouds Day_1_339
+  - first:
+      213: 7653894609036155022
+    second: Clouds Day_1_340
+  - first:
+      213: 6173490333478424635
+    second: Clouds Day_1_341
+  - first:
+      213: -7434088531853852241
+    second: Clouds Day_1_342
+  - first:
+      213: -2689826806892936390
+    second: Clouds Day_1_343
+  - first:
+      213: -90168843194583602
+    second: Clouds Day_1_344
+  - first:
+      213: -4057830092911655506
+    second: Clouds Day_1_345
+  - first:
+      213: -7513924979881453619
+    second: Clouds Day_1_346
+  - first:
+      213: 2645218743943707108
+    second: Clouds Day_1_347
+  - first:
+      213: -2375106654788707233
+    second: Clouds Day_1_348
+  - first:
+      213: 6338982431787642302
+    second: Clouds Day_1_349
+  - first:
+      213: 3165794566024242845
+    second: Clouds Day_1_350
+  - first:
+      213: 3445772618264085310
+    second: Clouds Day_1_351
+  - first:
+      213: 8688392558303052788
+    second: Clouds Day_1_352
+  - first:
+      213: 3740055181743319179
+    second: Clouds Day_1_353
+  - first:
+      213: 5278347734531113399
+    second: Clouds Day_1_354
+  - first:
+      213: -3315627326943054229
+    second: Clouds Day_1_355
+  - first:
+      213: -8288892646890453481
+    second: Clouds Day_1_356
+  - first:
+      213: -6334325454394634052
+    second: Clouds Day_1_357
+  - first:
+      213: 9165257517712527165
+    second: Clouds Day_1_358
+  - first:
+      213: -8095103469057836852
+    second: Clouds Day_1_359
+  - first:
+      213: -7220170168963626448
+    second: Clouds Day_1_360
+  - first:
+      213: 6977032217631125527
+    second: Clouds Day_1_361
+  - first:
+      213: -3340854261639528058
+    second: Clouds Day_1_362
+  - first:
+      213: 2398068588276899028
+    second: Clouds Day_1_363
+  - first:
+      213: 3191266105816276141
+    second: Clouds Day_1_364
+  - first:
+      213: 8841667836964829953
+    second: Clouds Day_1_365
+  - first:
+      213: -3716760896341241202
+    second: Clouds Day_1_366
+  - first:
+      213: -8798463579642686385
+    second: Clouds Day_1_367
+  - first:
+      213: -6166238884278938439
+    second: Clouds Day_1_368
+  - first:
+      213: -6325976012001338536
+    second: Clouds Day_1_369
+  - first:
+      213: 8383648192069980294
+    second: Clouds Day_1_370
+  - first:
+      213: 8808557920491828995
+    second: Clouds Day_1_371
+  - first:
+      213: 1268623176936545079
+    second: Clouds Day_1_372
+  - first:
+      213: 1208824912198125300
+    second: Clouds Day_1_373
+  - first:
+      213: 4739129897900628576
+    second: Clouds Day_1_374
+  - first:
+      213: -1130625563706858005
+    second: Clouds Day_1_375
+  - first:
+      213: 5423410631586350866
+    second: Clouds Day_1_376
+  - first:
+      213: 1652499430165649686
+    second: Clouds Day_1_377
+  - first:
+      213: 1366689541011706851
+    second: Clouds Day_1_378
+  - first:
+      213: 4079459436113102181
+    second: Clouds Day_1_379
+  - first:
+      213: -5811685741463122107
+    second: Clouds Day_1_380
+  - first:
+      213: 5897688284072174648
+    second: Clouds Day_1_381
+  - first:
+      213: 8256044162906023843
+    second: Clouds Day_1_382
+  - first:
+      213: -8250350038733875161
+    second: Clouds Day_1_383
+  - first:
+      213: 1800078609968803675
+    second: Clouds Day_1_384
+  - first:
+      213: -5867637478713768385
+    second: Clouds Day_1_385
+  - first:
+      213: -3329882881108784923
+    second: Clouds Day_1_386
+  - first:
+      213: -6946421588439266414
+    second: Clouds Day_1_387
+  - first:
+      213: 6306325463345035200
+    second: Clouds Day_1_388
+  - first:
+      213: -277033754974879700
+    second: Clouds Day_1_389
+  - first:
+      213: -5851274948867040194
+    second: Clouds Day_1_390
+  - first:
+      213: 6723753209903196244
+    second: Clouds Day_1_391
+  - first:
+      213: 7212878964496346681
+    second: Clouds Day_1_392
+  - first:
+      213: -5486664710824334826
+    second: Clouds Day_1_393
+  - first:
+      213: -314123826682902515
+    second: Clouds Day_1_394
+  - first:
+      213: 5986062489397250875
+    second: Clouds Day_1_395
+  - first:
+      213: -3261478300924822261
+    second: Clouds Day_1_396
+  - first:
+      213: -781453164691968826
+    second: Clouds Day_1_397
+  - first:
+      213: 2887360486937145169
+    second: Clouds Day_1_398
+  - first:
+      213: -7800000180949009090
+    second: Clouds Day_1_399
+  - first:
+      213: 7962649219612042485
+    second: Clouds Day_1_400
+  - first:
+      213: 279958508259008744
+    second: Clouds Day_1_401
+  - first:
+      213: 5769577992469517386
+    second: Clouds Day_1_402
+  - first:
+      213: 5459020177466957388
+    second: Clouds Day_1_403
+  - first:
+      213: 1233631134135568251
+    second: Clouds Day_1_404
+  - first:
+      213: 1150407798374560687
+    second: Clouds Day_1_405
+  - first:
+      213: 7903810776492453701
+    second: Clouds Day_1_406
+  - first:
+      213: -2083267719721900825
+    second: Clouds Day_1_407
+  - first:
+      213: -3176344486260283427
+    second: Clouds Day_1_408
+  - first:
+      213: 5790986295447176193
+    second: Clouds Day_1_409
+  - first:
+      213: 5737128016722849340
+    second: Clouds Day_1_410
+  - first:
+      213: -6767175940298243378
+    second: Clouds Day_1_411
+  - first:
+      213: -1724394587628699032
+    second: Clouds Day_1_412
+  - first:
+      213: -6026471004127828420
+    second: Clouds Day_1_413
+  - first:
+      213: -2996647401760130087
+    second: Clouds Day_1_414
+  - first:
+      213: 1530920801226803845
+    second: Clouds Day_1_415
+  - first:
+      213: -2316823864595238756
+    second: Clouds Day_1_416
+  - first:
+      213: 6392901004304763902
+    second: Clouds Day_1_417
+  - first:
+      213: -3061808688008893596
+    second: Clouds Day_1_418
+  - first:
+      213: -683245785940168392
+    second: Clouds Day_1_419
+  - first:
+      213: 4802390217579786117
+    second: Clouds Day_1_420
+  - first:
+      213: 7004563832621210376
+    second: Clouds Day_1_421
+  - first:
+      213: -5626715063845736462
+    second: Clouds Day_1_422
+  - first:
+      213: -5922161651215906040
+    second: Clouds Day_1_423
+  - first:
+      213: 5587464118908750696
+    second: Clouds Day_1_424
+  - first:
+      213: -8473682282057407844
+    second: Clouds Day_1_425
+  - first:
+      213: 5024452318126685504
+    second: Clouds Day_1_426
+  - first:
+      213: 1210947831136046531
+    second: Clouds Day_1_427
+  - first:
+      213: -4718913870100188530
+    second: Clouds Day_1_428
+  - first:
+      213: -8270299639447519725
+    second: Clouds Day_1_429
+  - first:
+      213: -3745090952695980453
+    second: Clouds Day_1_430
+  - first:
+      213: 6775806617854993375
+    second: Clouds Day_1_431
+  - first:
+      213: 714223816417934985
+    second: Clouds Day_1_432
+  - first:
+      213: 4160084722845640117
+    second: Clouds Day_1_433
+  - first:
+      213: -8513620635691308525
+    second: Clouds Day_1_434
+  - first:
+      213: -5146535865588297643
+    second: Clouds Day_1_435
+  - first:
+      213: 9179697103187014111
+    second: Clouds Day_1_436
+  - first:
+      213: 4055913893279265318
+    second: Clouds Day_1_437
+  - first:
+      213: -4103304353822942512
+    second: Clouds Day_1_438
+  - first:
+      213: -1061345330634300744
+    second: Clouds Day_1_439
+  - first:
+      213: -3377281724489961090
+    second: Clouds Day_1_440
+  - first:
+      213: 8852165175174565322
+    second: Clouds Day_1_441
+  - first:
+      213: 2972366201675334715
+    second: Clouds Day_1_442
+  - first:
+      213: -8717268137500791833
+    second: Clouds Day_1_443
+  - first:
+      213: 5833132484820238174
+    second: Clouds Day_1_444
+  - first:
+      213: 1436330780860805458
+    second: Clouds Day_1_445
+  - first:
+      213: 1216008475057740131
+    second: Clouds Day_1_446
+  - first:
+      213: 2065497418319917747
+    second: Clouds Day_1_447
+  - first:
+      213: 1390648489681822874
+    second: Clouds Day_1_448
+  - first:
+      213: 8971240354741986680
+    second: Clouds Day_1_449
+  - first:
+      213: 6677242019306422134
+    second: Clouds Day_1_450
+  - first:
+      213: 5582006728959535790
+    second: Clouds Day_1_451
+  - first:
+      213: -755919486820485706
+    second: Clouds Day_1_452
+  - first:
+      213: 8962182750731314684
+    second: Clouds Day_1_453
+  - first:
+      213: -5709058715941292223
+    second: Clouds Day_1_454
+  - first:
+      213: -264696824555255062
+    second: Clouds Day_1_455
+  - first:
+      213: 2248620295178138356
+    second: Clouds Day_1_456
+  - first:
+      213: 8573907991595873593
+    second: Clouds Day_1_457
+  - first:
+      213: 7898316353540408315
+    second: Clouds Day_1_458
+  - first:
+      213: -2743545399226108963
+    second: Clouds Day_1_459
+  - first:
+      213: 5795995826106760822
+    second: Clouds Day_1_460
+  - first:
+      213: 3136739929046355001
+    second: Clouds Day_1_461
+  - first:
+      213: 5774838339194665812
+    second: Clouds Day_1_462
+  - first:
+      213: 3466872868090006832
+    second: Clouds Day_1_463
+  - first:
+      213: -6548849654678983629
+    second: Clouds Day_1_464
+  - first:
+      213: 2930468074771754753
+    second: Clouds Day_1_465
+  - first:
+      213: -4419164230478171862
+    second: Clouds Day_1_466
+  - first:
+      213: -347445999429441791
+    second: Clouds Day_1_467
+  - first:
+      213: -3166255484802909404
+    second: Clouds Day_1_468
+  - first:
+      213: 8268049326530472590
+    second: Clouds Day_1_469
+  - first:
+      213: 3392526043709541061
+    second: Clouds Day_1_470
+  - first:
+      213: 7192886327210025937
+    second: Clouds Day_1_471
+  - first:
+      213: -4079485156613830922
+    second: Clouds Day_1_472
+  - first:
+      213: -525906261519012942
+    second: Clouds Day_1_473
+  - first:
+      213: -4978740758549835286
+    second: Clouds Day_1_474
+  - first:
+      213: -223488047120607409
+    second: Clouds Day_1_475
+  - first:
+      213: 7206773125285108602
+    second: Clouds Day_1_476
+  - first:
+      213: -3455534520957522498
+    second: Clouds Day_1_477
+  - first:
+      213: -3660078391896166477
+    second: Clouds Day_1_478
+  - first:
+      213: 1144636847924155346
+    second: Clouds Day_1_479
+  - first:
+      213: 3716636932995649849
+    second: Clouds Day_1_480
+  - first:
+      213: -5593669165072228936
+    second: Clouds Day_1_481
+  - first:
+      213: -8501644629911970372
+    second: Clouds Day_1_482
+  - first:
+      213: -3685921804388979785
+    second: Clouds Day_1_483
+  - first:
+      213: -6651862784054657852
+    second: Clouds Day_1_484
+  - first:
+      213: -8664486807646376509
+    second: Clouds Day_1_485
+  - first:
+      213: 8688333202286985227
+    second: Clouds Day_1_486
+  - first:
+      213: 4724830266177153446
+    second: Clouds Day_1_487
+  - first:
+      213: 8126412519148216265
+    second: Clouds Day_1_488
+  - first:
+      213: 5904456804294248940
+    second: Clouds Day_1_489
+  - first:
+      213: -2478450336730405313
+    second: Clouds Day_1_490
+  - first:
+      213: 6831697615887934979
+    second: Clouds Day_1_491
+  - first:
+      213: 8033696329057458012
+    second: Clouds Day_1_492
+  - first:
+      213: -1386366100302551373
+    second: Clouds Day_1_493
+  - first:
+      213: 6214900245282428227
+    second: Clouds Day_1_494
+  - first:
+      213: -7461169904200571186
+    second: Clouds Day_1_495
+  - first:
+      213: -7588975199523135138
+    second: Clouds Day_1_496
+  - first:
+      213: -4974692092329000557
+    second: Clouds Day_1_497
+  - first:
+      213: 6556904970213315760
+    second: Clouds Day_1_498
+  - first:
+      213: -3009253795870160279
+    second: Clouds Day_1_499
+  - first:
+      213: -3584376283143993269
+    second: Clouds Day_1_500
+  - first:
+      213: -4490481636992070572
+    second: Clouds Day_1_501
+  - first:
+      213: -2286874505238489687
+    second: Clouds Day_1_502
+  - first:
+      213: 5461787812330053314
+    second: Clouds Day_1_503
+  - first:
+      213: 4502830944660127951
+    second: Clouds Day_1_504
+  - first:
+      213: 8960817658020133257
+    second: Clouds Day_1_505
+  - first:
+      213: 5991961082757316544
+    second: Clouds Day_1_506
+  - first:
+      213: -3278946563781236809
+    second: Clouds Day_1_507
+  - first:
+      213: 7482460088816623339
+    second: Clouds Day_1_508
+  - first:
+      213: -9102628871989054437
+    second: Clouds Day_1_509
+  - first:
+      213: -7696914920520504961
+    second: Clouds Day_1_510
+  - first:
+      213: -6735642306462267126
+    second: Clouds Day_1_511
+  - first:
+      213: -5667056142793610447
+    second: Clouds Day_1_512
+  - first:
+      213: 1163910608816521309
+    second: Clouds Day_1_513
+  - first:
+      213: 6983945825843106754
+    second: Clouds Day_1_514
+  - first:
+      213: -3533284227685883321
+    second: Clouds Day_1_515
+  - first:
+      213: -255468526128623458
+    second: Clouds Day_1_516
+  - first:
+      213: 1718327453601618556
+    second: Clouds Day_1_517
+  - first:
+      213: 5862248682412450571
+    second: Clouds Day_1_518
+  - first:
+      213: -8026629293841291855
+    second: Clouds Day_1_519
+  - first:
+      213: -2700482988513242923
+    second: Clouds Day_1_520
+  - first:
+      213: -4273504754704259520
+    second: Clouds Day_1_521
+  - first:
+      213: -7640787759858093104
+    second: Clouds Day_1_522
+  - first:
+      213: 4366026139595236247
+    second: Clouds Day_1_523
+  - first:
+      213: -2782329060434617449
+    second: Clouds Day_1_524
+  - first:
+      213: -906415660323508356
+    second: Clouds Day_1_525
+  - first:
+      213: -9015694135130204667
+    second: Clouds Day_1_526
+  - first:
+      213: -7080777938050423751
+    second: Clouds Day_1_527
+  - first:
+      213: 3928313883689119934
+    second: Clouds Day_1_528
+  - first:
+      213: -7096299390800344097
+    second: Clouds Day_1_529
+  - first:
+      213: -5630048856191882005
+    second: Clouds Day_1_530
+  - first:
+      213: -1418424181060187875
+    second: Clouds Day_1_531
+  - first:
+      213: 5544350946062983057
+    second: Clouds Day_1_532
+  - first:
+      213: 1075196109679115220
+    second: Clouds Day_1_533
+  - first:
+      213: 3358539074819644866
+    second: Clouds Day_1_534
+  - first:
+      213: 4049470976912732697
+    second: Clouds Day_1_535
+  - first:
+      213: -2767004447825611915
+    second: Clouds Day_1_536
+  - first:
+      213: -4575805894233382305
+    second: Clouds Day_1_537
+  - first:
+      213: 3961202270805628667
+    second: Clouds Day_1_538
+  - first:
+      213: -3700695191622157363
+    second: Clouds Day_1_539
+  - first:
+      213: 2867546382878302577
+    second: Clouds Day_1_540
+  - first:
+      213: 8253577358771973899
+    second: Clouds Day_1_541
+  - first:
+      213: -1501520265489989836
+    second: Clouds Day_1_542
+  - first:
+      213: 13906351026377007
+    second: Clouds Day_1_543
+  - first:
+      213: 722045876544263662
+    second: Clouds Day_1_544
+  - first:
+      213: -4940132213858810269
+    second: Clouds Day_1_545
+  - first:
+      213: -166759189367660493
+    second: Clouds Day_1_546
+  - first:
+      213: -4506012163771272953
+    second: Clouds Day_1_547
+  - first:
+      213: -562595473673773911
+    second: Clouds Day_1_548
+  - first:
+      213: -6654407746089762631
+    second: Clouds Day_1_549
+  - first:
+      213: -1465472703754412319
+    second: Clouds Day_1_550
+  - first:
+      213: -8949129476309111843
+    second: Clouds Day_1_551
+  - first:
+      213: -5832977346843856978
+    second: Clouds Day_1_552
+  - first:
+      213: -208186138028257666
+    second: Clouds Day_1_553
+  - first:
+      213: 3537465062808928854
+    second: Clouds Day_1_554
+  - first:
+      213: -5608139494610346784
+    second: Clouds Day_1_555
+  - first:
+      213: -21185889874850628
+    second: Clouds Day_1_556
+  - first:
+      213: -6487072710548396793
+    second: Clouds Day_1_557
+  - first:
+      213: -8614727407441610998
+    second: Clouds Day_1_558
+  - first:
+      213: -7717608367410088097
+    second: Clouds Day_1_559
+  - first:
+      213: -8082227069800550160
+    second: Clouds Day_1_560
+  - first:
+      213: 6268757853654494054
+    second: Clouds Day_1_561
+  - first:
+      213: 1693535642097586748
+    second: Clouds Day_1_562
+  - first:
+      213: -1722757455277000915
+    second: Clouds Day_1_563
+  - first:
+      213: -4924685703730920582
+    second: Clouds Day_1_564
+  - first:
+      213: -6955815993887575508
+    second: Clouds Day_1_565
+  - first:
+      213: 5355884593872691187
+    second: Clouds Day_1_566
+  - first:
+      213: -6940927181536419858
+    second: Clouds Day_1_567
+  - first:
+      213: 1317195850808188959
+    second: Clouds Day_1_568
+  - first:
+      213: 7266864747149533836
+    second: Clouds Day_1_569
+  - first:
+      213: 7911892573640920260
+    second: Clouds Day_1_570
+  - first:
+      213: -6590836826528361797
+    second: Clouds Day_1_571
+  - first:
+      213: -836323172354136236
+    second: Clouds Day_1_572
+  - first:
+      213: 5805304170150433555
+    second: Clouds Day_1_573
+  - first:
+      213: -2562748709790038203
+    second: Clouds Day_1_574
+  - first:
+      213: 4267970405017845677
+    second: Clouds Day_1_575
+  - first:
+      213: 6527608248388267844
+    second: Clouds Day_1_576
+  - first:
+      213: 2027130198048706339
+    second: Clouds Day_1_577
+  - first:
+      213: -4620543141549385983
+    second: Clouds Day_1_578
+  - first:
+      213: -7736610553598894527
+    second: Clouds Day_1_579
+  - first:
+      213: -1772589987416481870
+    second: Clouds Day_1_580
+  - first:
+      213: -3839903321688651390
+    second: Clouds Day_1_581
+  - first:
+      213: -6408437597138421832
+    second: Clouds Day_1_582
+  - first:
+      213: 3263063123342773000
+    second: Clouds Day_1_583
+  - first:
+      213: -6686839900073734232
+    second: Clouds Day_1_584
+  - first:
+      213: -2811858995455719773
+    second: Clouds Day_1_585
+  - first:
+      213: 5466122318198746322
+    second: Clouds Day_1_586
+  - first:
+      213: 4787013064472970257
+    second: Clouds Day_1_587
+  - first:
+      213: 747468044321338665
+    second: Clouds Day_1_588
+  - first:
+      213: 2555718436729402484
+    second: Clouds Day_1_589
+  - first:
+      213: 5759946994213303461
+    second: Clouds Day_1_590
+  - first:
+      213: 7610412524830659292
+    second: Clouds Day_1_591
+  - first:
+      213: -2681399642788008220
+    second: Clouds Day_1_592
+  - first:
+      213: -1154658592479545648
+    second: Clouds Day_1_593
+  - first:
+      213: 249224349650856501
+    second: Clouds Day_1_594
+  - first:
+      213: -7246112992754870790
+    second: Clouds Day_1_595
+  - first:
+      213: 3457183521068250027
+    second: Clouds Day_1_596
+  - first:
+      213: -6822439544590012708
+    second: Clouds Day_1_597
+  - first:
+      213: -8029070351981470123
+    second: Clouds Day_1_598
+  - first:
+      213: 8341725061827669196
+    second: Clouds Day_1_599
+  - first:
+      213: 606609725715501285
+    second: Clouds Day_1_600
+  - first:
+      213: 4140760001143591791
+    second: Clouds Day_1_601
+  - first:
+      213: -1883723261827614514
+    second: Clouds Day_1_602
+  - first:
+      213: 5748454889735051326
+    second: Clouds Day_1_603
+  - first:
+      213: -5125286888702730119
+    second: Clouds Day_1_604
+  - first:
+      213: 6735844351695930083
+    second: Clouds Day_1_605
+  - first:
+      213: -9052371298603068417
+    second: Clouds Day_1_606
+  - first:
+      213: -5938250295160925468
+    second: Clouds Day_1_607
+  - first:
+      213: 5398155976826758839
+    second: Clouds Day_1_608
+  - first:
+      213: -8619397927790522714
+    second: Clouds Day_1_609
+  - first:
+      213: 6115626799259910425
+    second: Clouds Day_1_610
+  - first:
+      213: -8095927216211701286
+    second: Clouds Day_1_611
+  - first:
+      213: 5390773391655486795
+    second: Clouds Day_1_612
+  - first:
+      213: -5851334381958572870
+    second: Clouds Day_1_613
+  - first:
+      213: 6661164244950194227
+    second: Clouds Day_1_614
+  - first:
+      213: 4696678322237583042
+    second: Clouds Day_1_615
+  - first:
+      213: -673055939846381733
+    second: Clouds Day_1_616
+  - first:
+      213: 6609115802202818664
+    second: Clouds Day_1_617
+  - first:
+      213: 181923424454139991
+    second: Clouds Day_1_618
+  - first:
+      213: 4408748606540621512
+    second: Clouds Day_1_619
+  - first:
+      213: -8822902498679996761
+    second: Clouds Day_1_620
+  - first:
+      213: 3195677061424988907
+    second: Clouds Day_1_621
+  - first:
+      213: 5123008411971561307
+    second: Clouds Day_1_622
+  - first:
+      213: 5712343811775249904
+    second: Clouds Day_1_623
+  - first:
+      213: -2797705006537467416
+    second: Clouds Day_1_624
+  - first:
+      213: 1306983167387826344
+    second: Clouds Day_1_625
+  - first:
+      213: -6084429339710736757
+    second: Clouds Day_1_626
+  - first:
+      213: -1416510421486879249
+    second: Clouds Day_1_627
+  - first:
+      213: 8370697177214230465
+    second: Clouds Day_1_628
+  - first:
+      213: 8737012115531670165
+    second: Clouds Day_1_629
+  - first:
+      213: -6921415445381793
+    second: Clouds Day_1_630
+  - first:
+      213: 5408000897715865989
+    second: Clouds Day_1_631
+  - first:
+      213: -4282133470254293390
+    second: Clouds Day_1_632
+  - first:
+      213: -4991173384468030249
+    second: Clouds Day_1_633
+  - first:
+      213: -3977621248982817796
+    second: Clouds Day_1_634
+  - first:
+      213: 1487055165990649277
+    second: Clouds Day_1_635
+  - first:
+      213: 3264761074412992915
+    second: Clouds Day_1_636
+  - first:
+      213: 7589319505797170244
+    second: Clouds Day_1_637
+  - first:
+      213: -5427441429302632536
+    second: Clouds Day_1_638
+  - first:
+      213: -1039910759771905875
+    second: Clouds Day_1_639
+  - first:
+      213: 7562755733667187114
+    second: Clouds Day_1_640
+  - first:
+      213: 8086813795161912161
+    second: Clouds Day_1_641
+  - first:
+      213: -2262059428353562039
+    second: Clouds Day_1_642
+  - first:
+      213: 7663619588076012832
+    second: Clouds Day_1_643
+  - first:
+      213: 7538723759161359574
+    second: Clouds Day_1_644
+  - first:
+      213: 3533625364143830297
+    second: Clouds Day_1_645
+  - first:
+      213: 9057860149815000906
+    second: Clouds Day_1_646
+  - first:
+      213: -4816027799504345302
+    second: Clouds Day_1_647
+  - first:
+      213: 7474163635279680010
+    second: Clouds Day_1_648
+  - first:
+      213: 6920785846491642583
+    second: Clouds Day_1_649
+  - first:
+      213: 5489287726371886174
+    second: Clouds Day_1_650
+  - first:
+      213: -2353434588686076444
+    second: Clouds Day_1_651
+  - first:
+      213: -7845079678192524078
+    second: Clouds Day_1_652
+  - first:
+      213: -4339460744483590938
+    second: Clouds Day_1_653
+  - first:
+      213: 4060600424122896862
+    second: Clouds Day_1_654
+  - first:
+      213: 9144036188728205144
+    second: Clouds Day_1_655
+  - first:
+      213: 202029352756685117
+    second: Clouds Day_1_656
+  - first:
+      213: 5485331773441464487
+    second: Clouds Day_1_657
+  - first:
+      213: 5373661253853666371
+    second: Clouds Day_1_658
+  - first:
+      213: 1815777098550007161
+    second: Clouds Day_1_659
+  - first:
+      213: -5258295372606249752
+    second: Clouds Day_1_660
+  - first:
+      213: 7067729259391892086
+    second: Clouds Day_1_661
+  - first:
+      213: -2355622788042540154
+    second: Clouds Day_1_662
+  - first:
+      213: -8912480938240929346
+    second: Clouds Day_1_663
+  - first:
+      213: 3962085874321011973
+    second: Clouds Day_1_664
+  - first:
+      213: 2333017895397551010
+    second: Clouds Day_1_665
+  - first:
+      213: -6744457010093598266
+    second: Clouds Day_1_666
+  - first:
+      213: -5198864672244653522
+    second: Clouds Day_1_667
+  - first:
+      213: -895116945149340541
+    second: Clouds Day_1_668
+  - first:
+      213: 8530028700977551042
+    second: Clouds Day_1_669
+  - first:
+      213: 8986554262118890177
+    second: Clouds Day_1_670
+  - first:
+      213: -5564687717206914665
+    second: Clouds Day_1_671
+  - first:
+      213: -1499398969213355249
+    second: Clouds Day_1_672
+  - first:
+      213: -4020322381293369519
+    second: Clouds Day_1_673
+  - first:
+      213: 8512091780858384218
+    second: Clouds Day_1_674
+  - first:
+      213: -8881946242593118735
+    second: Clouds Day_1_675
+  - first:
+      213: 8846940814283278599
+    second: Clouds Day_1_676
+  - first:
+      213: 2229242835259421255
+    second: Clouds Day_1_677
+  - first:
+      213: 6358568196902543473
+    second: Clouds Day_1_678
+  - first:
+      213: 6583046846491258420
+    second: Clouds Day_1_679
+  - first:
+      213: 7801189974111785025
+    second: Clouds Day_1_680
+  - first:
+      213: 8872265381662084650
+    second: Clouds Day_1_681
+  - first:
+      213: 2435555843725920996
+    second: Clouds Day_1_682
+  - first:
+      213: -5491871624584501965
+    second: Clouds Day_1_683
+  - first:
+      213: 1277653662849455886
+    second: Clouds Day_1_684
+  - first:
+      213: 6703026753996902636
+    second: Clouds Day_1_685
+  - first:
+      213: 5417229893804291618
+    second: Clouds Day_1_686
+  - first:
+      213: -557221248897012777
+    second: Clouds Day_1_687
+  - first:
+      213: -1427239642864803154
+    second: Clouds Day_1_688
+  - first:
+      213: -6590062915431407487
+    second: Clouds Day_1_689
+  - first:
+      213: -6497645684484521643
+    second: Clouds Day_1_690
+  - first:
+      213: -4280609190139582044
+    second: Clouds Day_1_691
+  - first:
+      213: 7965186110672721910
+    second: Clouds Day_1_692
+  - first:
+      213: 6873062645773854972
+    second: Clouds Day_1_693
+  - first:
+      213: -2949827570096374475
+    second: Clouds Day_1_694
+  - first:
+      213: -5754557799562746687
+    second: Clouds Day_1_695
+  - first:
+      213: -4984430614870577389
+    second: Clouds Day_1_696
+  - first:
+      213: -6857445453645883210
+    second: Clouds Day_1_697
+  - first:
+      213: -3778729286809672232
+    second: Clouds Day_1_698
+  - first:
+      213: -8981459620966986897
+    second: Clouds Day_1_699
+  - first:
+      213: -2406112362210011394
+    second: Clouds Day_1_700
+  - first:
+      213: 4437106692680939823
+    second: Clouds Day_1_701
+  - first:
+      213: 6965762276250296154
+    second: Clouds Day_1_702
+  - first:
+      213: 3954618480994159296
+    second: Clouds Day_1_703
+  - first:
+      213: -6169305697566521084
+    second: Clouds Day_1_704
+  - first:
+      213: -1330338782464950123
+    second: Clouds Day_1_705
+  - first:
+      213: 485136221875001922
+    second: Clouds Day_1_706
+  - first:
+      213: -5872260112869965261
+    second: Clouds Day_1_707
+  - first:
+      213: -7499520863571612317
+    second: Clouds Day_1_708
+  - first:
+      213: 1653198010612151785
+    second: Clouds Day_1_709
+  - first:
+      213: -938199979389296642
+    second: Clouds Day_1_710
+  - first:
+      213: -139009198650375664
+    second: Clouds Day_1_711
+  - first:
+      213: 7330131219507478480
+    second: Clouds Day_1_712
+  - first:
+      213: -2237412405389609081
+    second: Clouds Day_1_713
+  - first:
+      213: 2139691877398712469
+    second: Clouds Day_1_714
+  - first:
+      213: 5221363997976668972
+    second: Clouds Day_1_715
+  - first:
+      213: 6122603208082559189
+    second: Clouds Day_1_716
+  - first:
+      213: 8303041399599524314
+    second: Clouds Day_1_717
+  - first:
+      213: 7239536298795158924
+    second: Clouds Day_1_718
+  - first:
+      213: -7035500261229969365
+    second: Clouds Day_1_719
+  - first:
+      213: -3006647395115934245
+    second: Clouds Day_1_720
+  - first:
+      213: 495540955854106054
+    second: Clouds Day_1_721
+  - first:
+      213: 8146878244896199997
+    second: Clouds Day_1_722
+  - first:
+      213: -758780432447712422
+    second: Clouds Day_1_723
+  - first:
+      213: 97946375771134258
+    second: Clouds Day_1_724
+  - first:
+      213: -5866982755420513871
+    second: Clouds Day_1_725
+  - first:
+      213: 6857969183034581061
+    second: Clouds Day_1_726
+  - first:
+      213: 7453091849096420993
+    second: Clouds Day_1_727
+  - first:
+      213: -5669716302330680516
+    second: Clouds Day_1_728
+  - first:
+      213: 530623687613300670
+    second: Clouds Day_1_729
+  - first:
+      213: 5655151867078662864
+    second: Clouds Day_1_730
+  - first:
+      213: -4833238105096952444
+    second: Clouds Day_1_731
+  - first:
+      213: -8968194082421162135
+    second: Clouds Day_1_732
+  - first:
+      213: 5484005314648468164
+    second: Clouds Day_1_733
+  - first:
+      213: -5789653867700416349
+    second: Clouds Day_1_734
+  - first:
+      213: -5353398250714561490
+    second: Clouds Day_1_735
+  - first:
+      213: -3506236415489932434
+    second: Clouds Day_1_736
+  - first:
+      213: 5840420935791507563
+    second: Clouds Day_1_737
+  - first:
+      213: -794515598647520696
+    second: Clouds Day_1_738
+  - first:
+      213: -4959179170103120084
+    second: Clouds Day_1_739
+  - first:
+      213: 5307105256313904514
+    second: Clouds Day_1_740
+  - first:
+      213: -3309015708405660567
+    second: Clouds Day_1_741
+  - first:
+      213: 6479528378899047255
+    second: Clouds Day_1_742
+  - first:
+      213: -5496950815273016679
+    second: Clouds Day_1_743
+  - first:
+      213: -6887676221081220039
+    second: Clouds Day_1_744
+  - first:
+      213: -239400459247418743
+    second: Clouds Day_1_745
+  - first:
+      213: 2731679568525324968
+    second: Clouds Day_1_746
+  - first:
+      213: 6289561865549479179
+    second: Clouds Day_1_747
+  - first:
+      213: 4501702336620917913
+    second: Clouds Day_1_748
+  - first:
+      213: -7742337636810427857
+    second: Clouds Day_1_749
+  - first:
+      213: 3576728933285048925
+    second: Clouds Day_1_750
+  - first:
+      213: 8991827504391546275
+    second: Clouds Day_1_751
+  - first:
+      213: -7472023908345251338
+    second: Clouds Day_1_752
+  - first:
+      213: 7745782152678639153
+    second: Clouds Day_1_753
+  - first:
+      213: 8824183469161820688
+    second: Clouds Day_1_754
+  - first:
+      213: -8107274668115419398
+    second: Clouds Day_1_755
+  - first:
+      213: -984289717376605006
+    second: Clouds Day_1_756
+  - first:
+      213: -3853928286136979409
+    second: Clouds Day_1_757
+  - first:
+      213: 5194707508950439565
+    second: Clouds Day_1_758
+  - first:
+      213: 5433247711682430261
+    second: Clouds Day_1_759
+  - first:
+      213: -3837558783867515209
+    second: Clouds Day_1_760
+  - first:
+      213: 2666260619167709853
+    second: Clouds Day_1_761
+  - first:
+      213: 458043635140458061
+    second: Clouds Day_1_762
+  - first:
+      213: 8721286095642312597
+    second: Clouds Day_1_763
+  - first:
+      213: -5720782023979010916
+    second: Clouds Day_1_764
+  - first:
+      213: -1239349576709623027
+    second: Clouds Day_1_765
+  - first:
+      213: 653171272858807066
+    second: Clouds Day_1_766
+  - first:
+      213: 3638192673112552815
+    second: Clouds Day_1_767
+  - first:
+      213: 6191816672084098256
+    second: Clouds Day_1_768
+  - first:
+      213: -8787820423698144611
+    second: Clouds Day_1_769
+  - first:
+      213: 2523218637749666485
+    second: Clouds Day_1_770
+  - first:
+      213: 1903712053468219229
+    second: Clouds Day_1_771
+  - first:
+      213: -6461140248366257283
+    second: Clouds Day_1_772
+  - first:
+      213: 5276527563641839773
+    second: Clouds Day_1_773
+  - first:
+      213: 7114951727001865058
+    second: Clouds Day_1_774
+  - first:
+      213: -3899044268361825326
+    second: Clouds Day_1_775
+  - first:
+      213: -3126490846883960472
+    second: Clouds Day_1_776
+  - first:
+      213: -3289487794644649032
+    second: Clouds Day_1_777
+  - first:
+      213: -1157727082713011556
+    second: Clouds Day_1_778
+  - first:
+      213: 192471160842837952
+    second: Clouds Day_1_779
+  - first:
+      213: -5886536546864780170
+    second: Clouds Day_1_780
+  - first:
+      213: 423886880606682190
+    second: Clouds Day_1_781
+  - first:
+      213: -1995480437080882916
+    second: Clouds Day_1_782
+  - first:
+      213: -3787011384442807804
+    second: Clouds Day_1_783
+  - first:
+      213: 2004837694953848200
+    second: Clouds Day_1_784
+  - first:
+      213: -8450158961865299915
+    second: Clouds Day_1_785
+  - first:
+      213: -7711533941151295082
+    second: Clouds Day_1_786
+  - first:
+      213: 4756324787724949670
+    second: Clouds Day_1_787
+  - first:
+      213: 8295942867838471658
+    second: Clouds Day_1_788
+  - first:
+      213: 3159693714248388788
+    second: Clouds Day_1_789
+  - first:
+      213: -6115497894402126389
+    second: Clouds Day_1_790
+  - first:
+      213: 6145246379466615348
+    second: Clouds Day_1_791
+  - first:
+      213: 5372216249676548196
+    second: Clouds Day_1_792
+  - first:
+      213: 4311653647318517889
+    second: Clouds Day_1_793
+  - first:
+      213: -1719959635402093437
+    second: Clouds Day_1_794
+  - first:
+      213: -387450491157996644
+    second: Clouds Day_1_795
+  - first:
+      213: 8517534363998721428
+    second: Clouds Day_1_796
+  - first:
+      213: -7201082939561077416
+    second: Clouds Day_1_797
+  - first:
+      213: 5476754349034915587
+    second: Clouds Day_1_798
+  - first:
+      213: -7857133142278774413
+    second: Clouds Day_1_799
+  - first:
+      213: -2380289290735320834
+    second: Clouds Day_1_800
+  - first:
+      213: -5355377882828871492
+    second: Clouds Day_1_801
+  - first:
+      213: -2345174797527541465
+    second: Clouds Day_1_802
+  - first:
+      213: -7981985113733306584
+    second: Clouds Day_1_803
+  - first:
+      213: -8834724979645687162
+    second: Clouds Day_1_804
+  - first:
+      213: -3353817017391319246
+    second: Clouds Day_1_805
+  - first:
+      213: -6948757444033398954
+    second: Clouds Day_1_806
+  - first:
+      213: 6135724517207414671
+    second: Clouds Day_1_807
+  - first:
+      213: -194455893598064043
+    second: Clouds Day_1_808
+  - first:
+      213: -6778329314758915055
+    second: Clouds Day_1_809
+  - first:
+      213: -4919322283032653559
+    second: Clouds Day_1_810
+  - first:
+      213: -7400155087824315569
+    second: Clouds Day_1_811
+  - first:
+      213: 8190742938488502123
+    second: Clouds Day_1_812
+  - first:
+      213: -6226532540376621971
+    second: Clouds Day_1_813
+  - first:
+      213: 5810785755836503352
+    second: Clouds Day_1_814
+  - first:
+      213: -5791504960645537184
+    second: Clouds Day_1_815
+  - first:
+      213: -4725121798417712788
+    second: Clouds Day_1_816
+  - first:
+      213: -6225957000500016746
+    second: Clouds Day_1_817
+  - first:
+      213: -945850517262894286
+    second: Clouds Day_1_818
+  - first:
+      213: 5832599892546136209
+    second: Clouds Day_1_819
+  - first:
+      213: 1069665496449145139
+    second: Clouds Day_1_820
+  - first:
+      213: 4436864749996023047
+    second: Clouds Day_1_821
+  - first:
+      213: 4461617669651138771
+    second: Clouds Day_1_822
+  - first:
+      213: 2859339742156745694
+    second: Clouds Day_1_823
+  - first:
+      213: 7507501154621440296
+    second: Clouds Day_1_824
+  - first:
+      213: -6912014452041823136
+    second: Clouds Day_1_825
+  - first:
+      213: 8542471576174246653
+    second: Clouds Day_1_826
+  - first:
+      213: 5637180241690251755
+    second: Clouds Day_1_827
+  - first:
+      213: -4961978180623116341
+    second: Clouds Day_1_828
+  - first:
+      213: 3527749693854317289
+    second: Clouds Day_1_829
+  - first:
+      213: -2839638108844482946
+    second: Clouds Day_1_830
+  - first:
+      213: -4873373804694816636
+    second: Clouds Day_1_831
+  - first:
+      213: -8119793061716602205
+    second: Clouds Day_1_832
+  - first:
+      213: -3808764858243895007
+    second: Clouds Day_1_833
+  - first:
+      213: -7717241799769433833
+    second: Clouds Day_1_834
+  - first:
+      213: -5663841157694944914
+    second: Clouds Day_1_835
+  - first:
+      213: 4373842326540251844
+    second: Clouds Day_1_836
+  - first:
+      213: 1990204847380930524
+    second: Clouds Day_1_837
+  - first:
+      213: 5306919673454954197
+    second: Clouds Day_1_838
+  - first:
+      213: -3718515658181359015
+    second: Clouds Day_1_839
+  - first:
+      213: 6285277653929715368
+    second: Clouds Day_1_840
+  - first:
+      213: -277815652514053395
+    second: Clouds Day_1_841
+  - first:
+      213: -2755569789291218738
+    second: Clouds Day_1_842
+  - first:
+      213: 5734651649484864266
+    second: Clouds Day_1_843
+  - first:
+      213: 2354093828610347156
+    second: Clouds Day_1_844
+  - first:
+      213: -2842779071363391495
+    second: Clouds Day_1_845
+  - first:
+      213: -8475230088304987955
+    second: Clouds Day_1_846
+  - first:
+      213: 3294140568005245738
+    second: Clouds Day_1_847
+  - first:
+      213: -2484524045973474505
+    second: Clouds Day_1_848
+  - first:
+      213: -1113270097452346390
+    second: Clouds Day_1_849
+  - first:
+      213: 249435914179488057
+    second: Clouds Day_1_850
+  - first:
+      213: -3793792434171225634
+    second: Clouds Day_1_851
+  - first:
+      213: 6604722001604881955
+    second: Clouds Day_1_852
+  - first:
+      213: -2868938727562964220
+    second: Clouds Day_1_853
+  - first:
+      213: 5627090651633842084
+    second: Clouds Day_1_854
+  - first:
+      213: 7111150390297748590
+    second: Clouds Day_1_855
+  - first:
+      213: -6177571954664507799
+    second: Clouds Day_1_856
+  - first:
+      213: 7969475305327652849
+    second: Clouds Day_1_857
+  - first:
+      213: 8151257512660529086
+    second: Clouds Day_1_858
+  - first:
+      213: -744867234452256371
+    second: Clouds Day_1_859
+  - first:
+      213: -3001352733670927939
+    second: Clouds Day_1_860
+  - first:
+      213: 8264150505631973408
+    second: Clouds Day_1_861
+  - first:
+      213: 2302761889927791926
+    second: Clouds Day_1_862
+  - first:
+      213: 1484777658027448839
+    second: Clouds Day_1_863
+  - first:
+      213: 3321937492026890981
+    second: Clouds Day_1_864
+  - first:
+      213: -2188158698462938332
+    second: Clouds Day_1_865
+  - first:
+      213: 207562417352038673
+    second: Clouds Day_1_866
+  - first:
+      213: 3496960269396133415
+    second: Clouds Day_1_867
+  - first:
+      213: 6026225886094100872
+    second: Clouds Day_1_868
+  - first:
+      213: -6535537085313612555
+    second: Clouds Day_1_869
+  - first:
+      213: 5353322562258423334
+    second: Clouds Day_1_870
+  - first:
+      213: 2488225812148093760
+    second: Clouds Day_1_871
+  - first:
+      213: -4627024017109591016
+    second: Clouds Day_1_872
+  - first:
+      213: -4392816011246211617
+    second: Clouds Day_1_873
+  - first:
+      213: -6768295591486679759
+    second: Clouds Day_1_874
+  - first:
+      213: 5904431688884505361
+    second: Clouds Day_1_875
+  - first:
+      213: -6467811913116757442
+    second: Clouds Day_1_876
+  - first:
+      213: 2556624209166132506
+    second: Clouds Day_1_877
+  - first:
+      213: -8376948490220149617
+    second: Clouds Day_1_878
+  - first:
+      213: -1978290075421622383
+    second: Clouds Day_1_879
+  - first:
+      213: 4368136640118076425
+    second: Clouds Day_1_880
+  - first:
+      213: -6840534781431292075
+    second: Clouds Day_1_881
+  - first:
+      213: 5957539464726536379
+    second: Clouds Day_1_882
+  - first:
+      213: 1074159989208863875
+    second: Clouds Day_1_883
+  - first:
+      213: 4318073334848900581
+    second: Clouds Day_1_884
+  - first:
+      213: -8384519508752762334
+    second: Clouds Day_1_885
+  - first:
+      213: -4279779325165627279
+    second: Clouds Day_1_886
+  - first:
+      213: 6315477794857720359
+    second: Clouds Day_1_887
+  - first:
+      213: 5954849982265764198
+    second: Clouds Day_1_888
+  - first:
+      213: -8041918442610556663
+    second: Clouds Day_1_889
+  - first:
+      213: -4500214131399669966
+    second: Clouds Day_1_890
+  - first:
+      213: -8832446159894842487
+    second: Clouds Day_1_891
+  - first:
+      213: -8929491838938755549
+    second: Clouds Day_1_892
+  - first:
+      213: -9052375744857698414
+    second: Clouds Day_1_893
+  - first:
+      213: 7307765636685322164
+    second: Clouds Day_1_894
+  - first:
+      213: -2922387029611017094
+    second: Clouds Day_1_895
+  - first:
+      213: -6411760714445576134
+    second: Clouds Day_1_896
+  - first:
+      213: 697212058307079463
+    second: Clouds Day_1_897
+  - first:
+      213: 719562460880048538
+    second: Clouds Day_1_898
+  - first:
+      213: -7509479206453491523
+    second: Clouds Day_1_899
+  - first:
+      213: 4509318876856690139
+    second: Clouds Day_1_900
+  - first:
+      213: -7895180297206068617
+    second: Clouds Day_1_901
+  - first:
+      213: 6856072852637850202
+    second: Clouds Day_1_902
+  - first:
+      213: 4646571804560410038
+    second: Clouds Day_1_903
+  - first:
+      213: 3885897860580098468
+    second: Clouds Day_1_904
+  - first:
+      213: 6122566082765752243
+    second: Clouds Day_1_905
+  - first:
+      213: 169183098389754264
+    second: Clouds Day_1_906
+  - first:
+      213: -5101690812660407670
+    second: Clouds Day_1_907
+  - first:
+      213: -2963837738671107682
+    second: Clouds Day_1_908
+  - first:
+      213: 2080989602647769904
+    second: Clouds Day_1_909
+  - first:
+      213: -6306372595612123161
+    second: Clouds Day_1_910
+  - first:
+      213: 1148043768675512051
+    second: Clouds Day_1_911
+  - first:
+      213: -389730205063678808
+    second: Clouds Day_1_912
+  - first:
+      213: 2654166393553593529
+    second: Clouds Day_1_913
+  - first:
+      213: -1106798778328746269
+    second: Clouds Day_1_914
+  - first:
+      213: -195633795655107855
+    second: Clouds Day_1_915
+  - first:
+      213: -5932987356114883366
+    second: Clouds Day_1_916
+  - first:
+      213: 5977716399465018335
+    second: Clouds Day_1_917
+  - first:
+      213: -4483858501819661547
+    second: Clouds Day_1_918
+  - first:
+      213: -5132767121213765224
+    second: Clouds Day_1_919
+  - first:
+      213: -4507769966190565024
+    second: Clouds Day_1_920
+  - first:
+      213: 7831123043118284672
+    second: Clouds Day_1_921
+  - first:
+      213: -3736477581215210464
+    second: Clouds Day_1_922
+  - first:
+      213: -4176057285690372089
+    second: Clouds Day_1_923
+  - first:
+      213: 1735841843188502842
+    second: Clouds Day_1_924
+  - first:
+      213: 8069171454645181362
+    second: Clouds Day_1_925
+  - first:
+      213: 5209752605787014642
+    second: Clouds Day_1_926
+  - first:
+      213: 9031077722625465672
+    second: Clouds Day_1_927
+  - first:
+      213: -7143296702394042395
+    second: Clouds Day_1_928
+  - first:
+      213: 8828434089959776509
+    second: Clouds Day_1_929
+  - first:
+      213: 3516710749283550460
+    second: Clouds Day_1_930
+  - first:
+      213: -8908882375592754410
+    second: Clouds Day_1_931
+  - first:
+      213: -6760236973041974396
+    second: Clouds Day_1_932
+  - first:
+      213: -5209660377812630506
+    second: Clouds Day_1_933
+  - first:
+      213: 5806645988577832394
+    second: Clouds Day_1_934
+  - first:
+      213: -4898824160437120818
+    second: Clouds Day_1_935
+  - first:
+      213: -2205591141591945505
+    second: Clouds Day_1_936
+  - first:
+      213: -6907824974085380611
+    second: Clouds Day_1_937
+  - first:
+      213: 3503394547208360144
+    second: Clouds Day_1_938
+  - first:
+      213: 5110760132517576345
+    second: Clouds Day_1_939
+  - first:
+      213: 8962738717408479539
+    second: Clouds Day_1_940
+  - first:
+      213: 5354029160160635165
+    second: Clouds Day_1_941
+  - first:
+      213: -2143452670545009583
+    second: Clouds Day_1_942
+  - first:
+      213: -750071644994089155
+    second: Clouds Day_1_943
+  - first:
+      213: 3368394982836852730
+    second: Clouds Day_1_944
+  - first:
+      213: -5451922560126986217
+    second: Clouds Day_1_945
+  - first:
+      213: 9016011027963228795
+    second: Clouds Day_1_946
+  - first:
+      213: -97681437445774152
+    second: Clouds Day_1_947
+  - first:
+      213: -4919259326954882265
+    second: Clouds Day_1_948
+  - first:
+      213: 1109848504105966116
+    second: Clouds Day_1_949
+  - first:
+      213: -6909876694593199956
+    second: Clouds Day_1_950
+  - first:
+      213: 5105349770989851474
+    second: Clouds Day_1_951
+  - first:
+      213: 9062042263672803893
+    second: Clouds Day_1_952
+  - first:
+      213: 7278517043236955399
+    second: Clouds Day_1_953
+  - first:
+      213: 2789639886380840544
+    second: Clouds Day_1_954
+  - first:
+      213: -2197646712437430898
+    second: Clouds Day_1_955
+  - first:
+      213: 1807971846488063687
+    second: Clouds Day_1_956
+  - first:
+      213: -6877562876942167104
+    second: Clouds Day_1_957
+  - first:
+      213: 6196722390434450572
+    second: Clouds Day_1_958
+  - first:
+      213: 3500157366006277922
+    second: Clouds Day_1_959
+  - first:
+      213: 1797382964955546849
+    second: Clouds Day_1_960
+  - first:
+      213: -5216181586924231427
+    second: Clouds Day_1_961
+  - first:
+      213: 8208412324811486335
+    second: Clouds Day_1_962
+  - first:
+      213: -5907821306239111979
+    second: Clouds Day_1_963
+  - first:
+      213: -3011921393251095847
+    second: Clouds Day_1_964
+  - first:
+      213: 6486978461520599337
+    second: Clouds Day_1_965
+  - first:
+      213: -1467363628502795061
+    second: Clouds Day_1_966
+  - first:
+      213: 5128434288698853375
+    second: Clouds Day_1_967
+  - first:
+      213: -2627264685526779633
+    second: Clouds Day_1_968
+  - first:
+      213: -235354224764871015
+    second: Clouds Day_1_969
+  - first:
+      213: -5501805748203914394
+    second: Clouds Day_1_970
+  - first:
+      213: -5496393586107350924
+    second: Clouds Day_1_971
+  - first:
+      213: 2180918040858965457
+    second: Clouds Day_1_972
+  - first:
+      213: -2796149636146765029
+    second: Clouds Day_1_973
+  - first:
+      213: -1275906099912870093
+    second: Clouds Day_1_974
+  - first:
+      213: 4814336838894290773
+    second: Clouds Day_1_975
+  - first:
+      213: -5504737036047160997
+    second: Clouds Day_1_976
+  - first:
+      213: 5995250093212778760
+    second: Clouds Day_1_977
+  - first:
+      213: -7469914627370204178
+    second: Clouds Day_1_978
+  - first:
+      213: -550987137579169932
+    second: Clouds Day_1_979
+  - first:
+      213: -3015113195621612120
+    second: Clouds Day_1_980
+  - first:
+      213: -3780418241938311699
+    second: Clouds Day_1_981
+  - first:
+      213: 1839331892379536244
+    second: Clouds Day_1_982
+  - first:
+      213: 7636851908409796813
+    second: Clouds Day_1_983
+  - first:
+      213: 131642849136649019
+    second: Clouds Day_1_984
+  - first:
+      213: 3050244631011330618
+    second: Clouds Day_1_985
+  - first:
+      213: 4076560925289395008
+    second: Clouds Day_1_986
+  - first:
+      213: 2458240300014249947
+    second: Clouds Day_1_987
+  - first:
+      213: -2044307267755783499
+    second: Clouds Day_1_988
+  - first:
+      213: 5707389190683987080
+    second: Clouds Day_1_989
+  - first:
+      213: 186833437675397265
+    second: Clouds Day_1_990
+  - first:
+      213: 5258457960946417616
+    second: Clouds Day_1_991
+  - first:
+      213: 7573278667019745926
+    second: Clouds Day_1_992
+  - first:
+      213: 6002930166827067836
+    second: Clouds Day_1_993
+  - first:
+      213: -5591769899214140784
+    second: Clouds Day_1_994
+  - first:
+      213: -7253291790342926703
+    second: Clouds Day_1_995
+  - first:
+      213: 4054105462051979632
+    second: Clouds Day_1_996
+  - first:
+      213: -3252676663957336881
+    second: Clouds Day_1_997
+  - first:
+      213: 5886028441796137588
+    second: Clouds Day_1_998
+  - first:
+      213: -7630380851206315705
+    second: Clouds Day_1_999
+  - first:
+      213: 8638779772654542943
+    second: Clouds Day_1_1000
+  - first:
+      213: 692591488307659229
+    second: Clouds Day_1_1001
+  - first:
+      213: 8892208488688917975
+    second: Clouds Day_1_1002
+  - first:
+      213: -8143069655961396029
+    second: Clouds Day_1_1003
+  - first:
+      213: 344402078918808388
+    second: Clouds Day_1_1004
+  - first:
+      213: 5028498277794803420
+    second: Clouds Day_1_1005
+  - first:
+      213: 6966771812040471955
+    second: Clouds Day_1_1006
+  - first:
+      213: 1142052991561702491
+    second: Clouds Day_1_1007
+  - first:
+      213: 5101568076137025577
+    second: Clouds Day_1_1008
+  - first:
+      213: -5263731632640508016
+    second: Clouds Day_1_1009
+  - first:
+      213: -1676660585839591824
+    second: Clouds Day_1_1010
+  - first:
+      213: 1081403392226120792
+    second: Clouds Day_1_1011
+  - first:
+      213: -1821321818336247635
+    second: Clouds Day_1_1012
+  - first:
+      213: -8779833228714219599
+    second: Clouds Day_1_1013
+  - first:
+      213: 2807771114791631178
+    second: Clouds Day_1_1014
+  - first:
+      213: 8772307219910911627
+    second: Clouds Day_1_1015
+  - first:
+      213: -3135658907078528484
+    second: Clouds Day_1_1016
+  - first:
+      213: 1841057609001512530
+    second: Clouds Day_1_1017
+  - first:
+      213: 1754251069960439277
+    second: Clouds Day_1_1018
+  - first:
+      213: 474828204482357569
+    second: Clouds Day_1_1019
+  - first:
+      213: -6815871723850581465
+    second: Clouds Day_1_1020
+  - first:
+      213: 2498434415238153744
+    second: Clouds Day_1_1021
+  - first:
+      213: -2144032596387907061
+    second: Clouds Day_1_1022
+  - first:
+      213: 7778783119274159889
+    second: Clouds Day_1_1023
+  - first:
+      213: -2268665847800831372
+    second: Clouds Day_1_1024
+  - first:
+      213: -5168638034619901290
+    second: Clouds Day_1_1025
+  - first:
+      213: -3437781576986323930
+    second: Clouds Day_1_1026
+  - first:
+      213: -760436001441716099
+    second: Clouds Day_1_1027
+  - first:
+      213: 3574165725619428705
+    second: Clouds Day_1_1028
+  - first:
+      213: -4358256561941579156
+    second: Clouds Day_1_1029
+  - first:
+      213: 7542900505093551302
+    second: Clouds Day_1_1030
+  - first:
+      213: -7821061681418163076
+    second: Clouds Day_1_1031
+  - first:
+      213: 1545983774454833656
+    second: Clouds Day_1_1032
+  - first:
+      213: 7644842732560203253
+    second: Clouds Day_1_1033
+  - first:
+      213: -7121121975198811457
+    second: Clouds Day_1_1034
+  - first:
+      213: -8947071613953634032
+    second: Clouds Day_1_1035
+  - first:
+      213: 1641507672440213417
+    second: Clouds Day_1_1036
+  - first:
+      213: -233536161791703247
+    second: Clouds Day_1_1037
+  - first:
+      213: -4453916851270458171
+    second: Clouds Day_1_1038
+  - first:
+      213: -5797951869916276120
+    second: Clouds Day_1_1039
+  - first:
+      213: -2632844870206223604
+    second: Clouds Day_1_1040
+  - first:
+      213: -3902312235324650
+    second: Clouds Day_1_1041
+  - first:
+      213: -3461554436273717552
+    second: Clouds Day_1_1042
+  - first:
+      213: 7651366014058066724
+    second: Clouds Day_1_1043
+  - first:
+      213: -213549623156804713
+    second: Clouds Day_1_1044
+  - first:
+      213: 1915515625632279875
+    second: Clouds Day_1_1045
+  - first:
+      213: -2989983263048678395
+    second: Clouds Day_1_1046
+  - first:
+      213: -6816661736135412667
+    second: Clouds Day_1_1047
+  - first:
+      213: -1979207646361841090
+    second: Clouds Day_1_1048
+  - first:
+      213: -4275866018435622425
+    second: Clouds Day_1_1049
+  - first:
+      213: -6153915086166191551
+    second: Clouds Day_1_1050
+  - first:
+      213: -8282814636602226153
+    second: Clouds Day_1_1051
+  - first:
+      213: 7249380448571628307
+    second: Clouds Day_1_1052
+  - first:
+      213: 6830164674487206304
+    second: Clouds Day_1_1053
+  - first:
+      213: 1490386538070864227
+    second: Clouds Day_1_1054
+  - first:
+      213: 8902690289993624248
+    second: Clouds Day_1_1055
+  - first:
+      213: -2551479779818263867
+    second: Clouds Day_1_1056
+  - first:
+      213: -3925775157589429929
+    second: Clouds Day_1_1057
+  - first:
+      213: 8886588940987855374
+    second: Clouds Day_1_1058
+  - first:
+      213: 6344600882073436067
+    second: Clouds Day_1_1059
+  - first:
+      213: -9002522228161116671
+    second: Clouds Day_1_1060
+  - first:
+      213: 3156956991206933262
+    second: Clouds Day_1_1061
+  - first:
+      213: 1307763555461658200
+    second: Clouds Day_1_1062
+  - first:
+      213: -7662218175487882914
+    second: Clouds Day_1_1063
+  - first:
+      213: 2164608861727477246
+    second: Clouds Day_1_1064
+  - first:
+      213: 7405872390280453680
+    second: Clouds Day_1_1065
+  - first:
+      213: -7335263528387978596
+    second: Clouds Day_1_1066
+  - first:
+      213: -5941777047889626966
+    second: Clouds Day_1_1067
+  - first:
+      213: 6045599588236384562
+    second: Clouds Day_1_1068
+  - first:
+      213: 8398474458054680923
+    second: Clouds Day_1_1069
+  - first:
+      213: 5730579755744782705
+    second: Clouds Day_1_1070
+  - first:
+      213: -9006577524863757965
+    second: Clouds Day_1_1071
+  - first:
+      213: 3573701321879275567
+    second: Clouds Day_1_1072
+  - first:
+      213: 8674670559900187763
+    second: Clouds Day_1_1073
+  - first:
+      213: 8687409310402538690
+    second: Clouds Day_1_1074
+  - first:
+      213: 4465313393443700629
+    second: Clouds Day_1_1075
+  - first:
+      213: -2213145704616949373
+    second: Clouds Day_1_1076
+  - first:
+      213: -3720283398167784691
+    second: Clouds Day_1_1077
+  - first:
+      213: -4956109035115683783
+    second: Clouds Day_1_1078
+  - first:
+      213: 5549254515814723047
+    second: Clouds Day_1_1079
+  - first:
+      213: -1340057577206707531
+    second: Clouds Day_1_1080
+  - first:
+      213: -4140137242500937812
+    second: Clouds Day_1_1081
+  - first:
+      213: 8031839204231330317
+    second: Clouds Day_1_1082
+  - first:
+      213: 8377829799475423267
+    second: Clouds Day_1_1083
+  - first:
+      213: 4170509104213802496
+    second: Clouds Day_1_1084
+  - first:
+      213: -4161791155047265285
+    second: Clouds Day_1_1085
+  - first:
+      213: 5645595203052502121
+    second: Clouds Day_1_1086
+  - first:
+      213: 7219332079021154448
+    second: Clouds Day_1_1087
+  - first:
+      213: -6161399177250878818
+    second: Clouds Day_1_1088
+  - first:
+      213: -3157277152942941152
+    second: Clouds Day_1_1089
+  - first:
+      213: -951088164497099396
+    second: Clouds Day_1_1090
+  - first:
+      213: -2260390785401810534
+    second: Clouds Day_1_1091
+  - first:
+      213: -598203423894050166
+    second: Clouds Day_1_1092
+  - first:
+      213: 3558320922518153352
+    second: Clouds Day_1_1093
+  - first:
+      213: 5437332889420744391
+    second: Clouds Day_1_1094
+  - first:
+      213: -6002936680706271832
+    second: Clouds Day_1_1095
+  - first:
+      213: -7268024755116550512
+    second: Clouds Day_1_1096
+  - first:
+      213: 3027288309954230493
+    second: Clouds Day_1_1097
+  - first:
+      213: 7403964785344740856
+    second: Clouds Day_1_1098
+  - first:
+      213: 932211121339278960
+    second: Clouds Day_1_1099
+  - first:
+      213: 7587999899280576730
+    second: Clouds Day_1_1100
+  - first:
+      213: 708945199623910080
+    second: Clouds Day_1_1101
+  - first:
+      213: -8591448227394681391
+    second: Clouds Day_1_1102
+  - first:
+      213: -4405678052720351107
+    second: Clouds Day_1_1103
+  - first:
+      213: 4051809089928546857
+    second: Clouds Day_1_1104
+  - first:
+      213: 2233088011968155207
+    second: Clouds Day_1_1105
+  - first:
+      213: 8418917954697602817
+    second: Clouds Day_1_1106
+  - first:
+      213: -4981464601612511917
+    second: Clouds Day_1_1107
+  - first:
+      213: 7775924966375871586
+    second: Clouds Day_1_1108
+  - first:
+      213: 4074756751925197939
+    second: Clouds Day_1_1109
+  - first:
+      213: 8803101390362994267
+    second: Clouds Day_1_1110
+  - first:
+      213: -6017523459469462858
+    second: Clouds Day_1_1111
+  - first:
+      213: -5667585676883085978
+    second: Clouds Day_1_1112
+  - first:
+      213: 3410655623060337318
+    second: Clouds Day_1_1113
+  - first:
+      213: -9107460910205404268
+    second: Clouds Day_1_1114
+  - first:
+      213: 2151001506757759491
+    second: Clouds Day_1_1115
+  - first:
+      213: 2738996604500153280
+    second: Clouds Day_1_1116
+  - first:
+      213: 1114433958254096467
+    second: Clouds Day_1_1117
+  - first:
+      213: 350726772640654175
+    second: Clouds Day_1_1118
+  - first:
+      213: 8373379519029176198
+    second: Clouds Day_1_1119
+  - first:
+      213: -4147134392948361936
+    second: Clouds Day_1_1120
+  - first:
+      213: 3344957584324267737
+    second: Clouds Day_1_1121
+  - first:
+      213: -1250283955144293278
+    second: Clouds Day_1_1122
+  - first:
+      213: -4575125780058071895
+    second: Clouds Day_1_1123
+  - first:
+      213: -4342886467084706111
+    second: Clouds Day_1_1124
+  - first:
+      213: -7905562723323479117
+    second: Clouds Day_1_1125
+  - first:
+      213: 3102785277522782956
+    second: Clouds Day_1_1126
+  - first:
+      213: -3367160753319206869
+    second: Clouds Day_1_1127
+  - first:
+      213: -3754510494427688112
+    second: Clouds Day_1_1128
+  - first:
+      213: 376825956759951133
+    second: Clouds Day_1_1129
+  - first:
+      213: 6132195176040070099
+    second: Clouds Day_1_1130
+  - first:
+      213: 1089450496238384885
+    second: Clouds Day_1_1131
+  - first:
+      213: 1291685935360222099
+    second: Clouds Day_1_1132
+  - first:
+      213: 2092357117232974872
+    second: Clouds Day_1_1133
+  - first:
+      213: 2595289791691181976
+    second: Clouds Day_1_1134
+  - first:
+      213: 1853388980431044606
+    second: Clouds Day_1_1135
+  - first:
+      213: 1396238051459666999
+    second: Clouds Day_1_1136
+  - first:
+      213: -708437409467062521
+    second: Clouds Day_1_1137
+  - first:
+      213: 7647453552216615346
+    second: Clouds Day_1_1138
+  - first:
+      213: -7448466265352395445
+    second: Clouds Day_1_1139
+  - first:
+      213: -5785236687897425207
+    second: Clouds Day_1_1140
+  - first:
+      213: -7404231933353720374
+    second: Clouds Day_1_1141
+  - first:
+      213: 44313114958405373
+    second: Clouds Day_1_1142
+  - first:
+      213: -2583687621907138209
+    second: Clouds Day_1_1143
+  - first:
+      213: -1962519517670786364
+    second: Clouds Day_1_1144
+  - first:
+      213: -8465741489043124280
+    second: Clouds Day_1_1145
+  - first:
+      213: 2747187786812167880
+    second: Clouds Day_1_1146
+  - first:
+      213: -9020371680168692340
+    second: Clouds Day_1_1147
+  - first:
+      213: -7661541554932769552
+    second: Clouds Day_1_1148
+  - first:
+      213: -2925211151776736364
+    second: Clouds Day_1_1149
+  - first:
+      213: 4638498974143430342
+    second: Clouds Day_1_1150
+  - first:
+      213: -5593710150063272349
+    second: Clouds Day_1_1151
+  - first:
+      213: 3743801480569885333
+    second: Clouds Day_1_1152
+  - first:
+      213: 1266252729260892996
+    second: Clouds Day_1_1153
+  - first:
+      213: 7760900076288591186
+    second: Clouds Day_1_1154
+  - first:
+      213: -4466316064161880204
+    second: Clouds Day_1_1155
+  - first:
+      213: 8741133624684547478
+    second: Clouds Day_1_1156
+  - first:
+      213: 7210599526997067404
+    second: Clouds Day_1_1157
+  - first:
+      213: -488437655542615788
+    second: Clouds Day_1_1158
+  - first:
+      213: 6230375819678199150
+    second: Clouds Day_1_1159
+  - first:
+      213: -8521364760425580368
+    second: Clouds Day_1_1160
+  - first:
+      213: 6703444905839267363
+    second: Clouds Day_1_1161
+  - first:
+      213: -3350225795410050404
+    second: Clouds Day_1_1162
+  - first:
+      213: -6459575444056200902
+    second: Clouds Day_1_1163
+  - first:
+      213: -2024810226130275187
+    second: Clouds Day_1_1164
+  - first:
+      213: 2035861034127313377
+    second: Clouds Day_1_1165
+  - first:
+      213: -4222831239903972889
+    second: Clouds Day_1_1166
+  - first:
+      213: -1789751216247517676
+    second: Clouds Day_1_1167
+  - first:
+      213: 6758078247817611954
+    second: Clouds Day_1_1168
+  - first:
+      213: 3851948720937633114
+    second: Clouds Day_1_1169
+  - first:
+      213: 407798068758484747
+    second: Clouds Day_1_1170
+  - first:
+      213: 5003142902138899418
+    second: Clouds Day_1_1171
+  - first:
+      213: -5078205470775459083
+    second: Clouds Day_1_1172
+  - first:
+      213: 3030408669485036668
+    second: Clouds Day_1_1173
+  - first:
+      213: -1043425570990876126
+    second: Clouds Day_1_1174
+  - first:
+      213: -5106055094789417493
+    second: Clouds Day_1_1175
+  - first:
+      213: -7085308997175079050
+    second: Clouds Day_1_1176
+  - first:
+      213: -3968802799436449346
+    second: Clouds Day_1_1177
+  - first:
+      213: 4973672392746466854
+    second: Clouds Day_1_1178
+  - first:
+      213: 2411605814461126175
+    second: Clouds Day_1_1179
+  - first:
+      213: -7528244445222155828
+    second: Clouds Day_1_1180
+  - first:
+      213: 4821156576589577188
+    second: Clouds Day_1_1181
+  - first:
+      213: -460776404006486611
+    second: Clouds Day_1_1182
+  - first:
+      213: 1603422811142544296
+    second: Clouds Day_1_1183
+  - first:
+      213: 1674294932443710835
+    second: Clouds Day_1_1184
+  - first:
+      213: -4245723655520553465
+    second: Clouds Day_1_1185
+  - first:
+      213: -374151763428767077
+    second: Clouds Day_1_1186
+  - first:
+      213: 8597520697256526295
+    second: Clouds Day_1_1187
+  - first:
+      213: 5366436283106810698
+    second: Clouds Day_1_1188
+  - first:
+      213: -1780014022066520639
+    second: Clouds Day_1_1189
+  - first:
+      213: 8612709473953402461
+    second: Clouds Day_1_1190
+  - first:
+      213: 2376456096499295517
+    second: Clouds Day_1_1191
+  - first:
+      213: -5056295088427741293
+    second: Clouds Day_1_1192
+  - first:
+      213: 7989295661951457601
+    second: Clouds Day_1_1193
+  - first:
+      213: 218072390445199291
+    second: Clouds Day_1_1194
+  - first:
+      213: 2567940560150911794
+    second: Clouds Day_1_1195
+  - first:
+      213: 5873644919147886617
+    second: Clouds Day_1_1196
+  - first:
+      213: -1587876844975570556
+    second: Clouds Day_1_1197
+  - first:
+      213: 5780939816531664582
+    second: Clouds Day_1_1198
+  - first:
+      213: 2586569011573874984
+    second: Clouds Day_1_1199
+  - first:
+      213: 5467915330258417534
+    second: Clouds Day_1_1200
+  - first:
+      213: -1072793119008786
+    second: Clouds Day_1_1201
+  - first:
+      213: -8177270517639104811
+    second: Clouds Day_1_1202
+  - first:
+      213: 8590139667165527665
+    second: Clouds Day_1_1203
+  - first:
+      213: -2937848298651847770
+    second: Clouds Day_1_1204
+  - first:
+      213: 1179767408135343295
+    second: Clouds Day_1_1205
+  - first:
+      213: -514079880115877905
+    second: Clouds Day_1_1206
+  - first:
+      213: -390725977758092989
+    second: Clouds Day_1_1207
+  - first:
+      213: -513119293373690308
+    second: Clouds Day_1_1208
+  - first:
+      213: -3283802448150655353
+    second: Clouds Day_1_1209
+  - first:
+      213: 8421589510244429820
+    second: Clouds Day_1_1210
+  - first:
+      213: 1766665902362156927
+    second: Clouds Day_1_1211
+  - first:
+      213: -1951665970782743243
+    second: Clouds Day_1_1212
+  - first:
+      213: -8462515473812962149
+    second: Clouds Day_1_1213
+  - first:
+      213: -7718920579078543457
+    second: Clouds Day_1_1214
+  - first:
+      213: 2105789543151323393
+    second: Clouds Day_1_1215
+  - first:
+      213: 3097865173879646666
+    second: Clouds Day_1_1216
+  - first:
+      213: 4428608237909038819
+    second: Clouds Day_1_1217
+  - first:
+      213: -2079079492570654146
+    second: Clouds Day_1_1218
+  - first:
+      213: -8332078885998159968
+    second: Clouds Day_1_1219
+  - first:
+      213: -1296078781584891942
+    second: Clouds Day_1_1220
+  - first:
+      213: -7244682184458601032
+    second: Clouds Day_1_1221
+  - first:
+      213: -5531273809691071768
+    second: Clouds Day_1_1222
+  - first:
+      213: -3139996364993411003
+    second: Clouds Day_1_1223
+  - first:
+      213: -8981596246200463749
+    second: Clouds Day_1_1224
+  - first:
+      213: 6893456561329343823
+    second: Clouds Day_1_1225
+  - first:
+      213: -5364532718589179861
+    second: Clouds Day_1_1226
+  - first:
+      213: -1078440356188064368
+    second: Clouds Day_1_1227
+  - first:
+      213: -4988054548290873430
+    second: Clouds Day_1_1228
+  - first:
+      213: -5504972715888329156
+    second: Clouds Day_1_1229
+  - first:
+      213: -4218586407582248626
+    second: Clouds Day_1_1230
+  - first:
+      213: -6696012379385049597
+    second: Clouds Day_1_1231
+  - first:
+      213: -6157516891895067000
+    second: Clouds Day_1_1232
+  - first:
+      213: -6070952711256730666
+    second: Clouds Day_1_1233
+  - first:
+      213: -1054135168378148511
+    second: Clouds Day_1_1234
+  - first:
+      213: 6805829782199602104
+    second: Clouds Day_1_1235
+  - first:
+      213: 3979083006309142864
+    second: Clouds Day_1_1236
+  - first:
+      213: -4120598311511294424
+    second: Clouds Day_1_1237
+  - first:
+      213: -5348942734413956944
+    second: Clouds Day_1_1238
+  - first:
+      213: -8827536473623889130
+    second: Clouds Day_1_1239
+  - first:
+      213: 4144556531580287353
+    second: Clouds Day_1_1240
+  - first:
+      213: 3125269820018849405
+    second: Clouds Day_1_1241
+  - first:
+      213: 408712226266491576
+    second: Clouds Day_1_1242
+  - first:
+      213: -556504687343538717
+    second: Clouds Day_1_1243
+  - first:
+      213: -1816211322583918109
+    second: Clouds Day_1_1244
+  - first:
+      213: 5130947359569442988
+    second: Clouds Day_1_1245
+  - first:
+      213: -8490051616852744874
+    second: Clouds Day_1_1246
+  - first:
+      213: 6965457448366751343
+    second: Clouds Day_1_1247
+  - first:
+      213: -4860745840966029537
+    second: Clouds Day_1_1248
+  - first:
+      213: -2049691980937779009
+    second: Clouds Day_1_1249
+  - first:
+      213: -2079763605607240568
+    second: Clouds Day_1_1250
+  - first:
+      213: -8663110760891540862
+    second: Clouds Day_1_1251
+  - first:
+      213: -1675671391526375829
+    second: Clouds Day_1_1252
+  - first:
+      213: 6481242198289316337
+    second: Clouds Day_1_1253
+  - first:
+      213: 4441410830708318000
+    second: Clouds Day_1_1254
+  - first:
+      213: -7609952573707057802
+    second: Clouds Day_1_1255
+  - first:
+      213: 152913979292469682
+    second: Clouds Day_1_1256
+  - first:
+      213: -6464017545062420282
+    second: Clouds Day_1_1257
+  - first:
+      213: 1618860034694347959
+    second: Clouds Day_1_1258
+  - first:
+      213: 9117069545643914224
+    second: Clouds Day_1_1259
+  - first:
+      213: -650063063610801331
+    second: Clouds Day_1_1260
+  - first:
+      213: -9126033405845605552
+    second: Clouds Day_1_1261
+  - first:
+      213: 6496186444357979576
+    second: Clouds Day_1_1262
+  - first:
+      213: 1923008035314519621
+    second: Clouds Day_1_1263
+  - first:
+      213: -7027825578151847523
+    second: Clouds Day_1_1264
+  - first:
+      213: 6708623654416543219
+    second: Clouds Day_1_1265
+  - first:
+      213: -4215883790307163399
+    second: Clouds Day_1_1266
+  - first:
+      213: -6548292036497153319
+    second: Clouds Day_1_1267
+  - first:
+      213: -7860220012566516590
+    second: Clouds Day_1_1268
+  - first:
+      213: 532637813696690562
+    second: Clouds Day_1_1269
+  - first:
+      213: 5028573185390911438
+    second: Clouds Day_1_1270
+  - first:
+      213: -5763874017077661825
+    second: Clouds Day_1_1271
+  - first:
+      213: -2869743857532384949
+    second: Clouds Day_1_1272
+  - first:
+      213: -5135787004172001237
+    second: Clouds Day_1_1273
+  - first:
+      213: -6306317033170593737
+    second: Clouds Day_1_1274
+  - first:
+      213: -1650126690186882716
+    second: Clouds Day_1_1275
+  - first:
+      213: 1620325660336878304
+    second: Clouds Day_1_1276
+  - first:
+      213: 6893839886288815833
+    second: Clouds Day_1_1277
+  - first:
+      213: -1725631686813827144
+    second: Clouds Day_1_1278
+  - first:
+      213: 4973320947913317825
+    second: Clouds Day_1_1279
+  - first:
+      213: 5132968533446325195
+    second: Clouds Day_1_1280
+  - first:
+      213: -2066460399278421372
+    second: Clouds Day_1_1281
+  - first:
+      213: 8461507180921191355
+    second: Clouds Day_1_1282
+  - first:
+      213: -6589116480661722123
+    second: Clouds Day_1_1283
+  - first:
+      213: 2565472181336468151
+    second: Clouds Day_1_1284
+  - first:
+      213: -636068386081537323
+    second: Clouds Day_1_1285
+  - first:
+      213: 7220931155110610641
+    second: Clouds Day_1_1286
+  - first:
+      213: -420225069919567972
+    second: Clouds Day_1_1287
+  - first:
+      213: -4397087339838072406
+    second: Clouds Day_1_1288
+  - first:
+      213: -518207488789024682
+    second: Clouds Day_1_1289
+  - first:
+      213: 4365065429699402313
+    second: Clouds Day_1_1290
+  - first:
+      213: -3193362215709135820
+    second: Clouds Day_1_1291
+  - first:
+      213: 1453322173290919259
+    second: Clouds Day_1_1292
+  - first:
+      213: -7053267487908339146
+    second: Clouds Day_1_1293
+  - first:
+      213: -6608319272676643557
+    second: Clouds Day_1_1294
+  - first:
+      213: -687181394488892809
+    second: Clouds Day_1_1295
+  - first:
+      213: -116623456880066119
+    second: Clouds Day_1_1296
+  - first:
+      213: -3570809541348591384
+    second: Clouds Day_1_1297
+  - first:
+      213: 7090288946860108266
+    second: Clouds Day_1_1298
+  - first:
+      213: -7618515328627100115
+    second: Clouds Day_1_1299
+  - first:
+      213: -8056346422339059915
+    second: Clouds Day_1_1300
+  - first:
+      213: -1033209448830895527
+    second: Clouds Day_1_1301
+  - first:
+      213: -2913462745485875846
+    second: Clouds Day_1_1302
+  - first:
+      213: -6357642005304260007
+    second: Clouds Day_1_1303
+  - first:
+      213: 7606755442641459996
+    second: Clouds Day_1_1304
+  - first:
+      213: -2138830260953578906
+    second: Clouds Day_1_1305
+  - first:
+      213: 5836985093304376614
+    second: Clouds Day_1_1306
+  - first:
+      213: -7936557965067446429
+    second: Clouds Day_1_1307
+  - first:
+      213: 7095379412831940602
+    second: Clouds Day_1_1308
+  - first:
+      213: -341968822248169682
+    second: Clouds Day_1_1309
+  - first:
+      213: -6756049901986289791
+    second: Clouds Day_1_1310
+  - first:
+      213: -3094037612141873252
+    second: Clouds Day_1_1311
+  - first:
+      213: -4022178851012801627
+    second: Clouds Day_1_1312
+  - first:
+      213: -4822613585676835979
+    second: Clouds Day_1_1313
+  - first:
+      213: 733978454436592279
+    second: Clouds Day_1_1314
+  - first:
+      213: -1070964993395298193
+    second: Clouds Day_1_1315
+  - first:
+      213: -6090212610808894772
+    second: Clouds Day_1_1316
+  - first:
+      213: 5412770589722233943
+    second: Clouds Day_1_1317
+  - first:
+      213: -3630293543871833407
+    second: Clouds Day_1_1318
+  - first:
+      213: 1618877144165672745
+    second: Clouds Day_1_1319
+  - first:
+      213: -3120004741397332793
+    second: Clouds Day_1_1320
+  - first:
+      213: -6129070639595972917
+    second: Clouds Day_1_1321
+  - first:
+      213: -5801498124520618473
+    second: Clouds Day_1_1322
+  - first:
+      213: 8385038438883669439
+    second: Clouds Day_1_1323
+  - first:
+      213: 6889147139348412450
+    second: Clouds Day_1_1324
+  - first:
+      213: -8591259879079465750
+    second: Clouds Day_1_1325
+  - first:
+      213: 1882599237306155595
+    second: Clouds Day_1_1326
+  - first:
+      213: 777660951775392583
+    second: Clouds Day_1_1327
+  - first:
+      213: 2948853171371943516
+    second: Clouds Day_1_1328
+  - first:
+      213: 7826837344057229214
+    second: Clouds Day_1_1329
+  - first:
+      213: -6343184683899252070
+    second: Clouds Day_1_1330
+  - first:
+      213: 239465937867084060
+    second: Clouds Day_1_1331
+  - first:
+      213: -9049314510974067928
+    second: Clouds Day_1_1332
+  - first:
+      213: -7693412499865694195
+    second: Clouds Day_1_1333
+  - first:
+      213: 5996560886258968442
+    second: Clouds Day_1_1334
+  - first:
+      213: 8568628816139077372
+    second: Clouds Day_1_1335
+  - first:
+      213: 3156497567243380883
+    second: Clouds Day_1_1336
+  - first:
+      213: 652986667258763138
+    second: Clouds Day_1_1337
+  - first:
+      213: 7089969828806489251
+    second: Clouds Day_1_1338
+  - first:
+      213: -5784400834604899844
+    second: Clouds Day_1_1339
+  - first:
+      213: 4718248339247956549
+    second: Clouds Day_1_1340
+  - first:
+      213: -4106924268301256137
+    second: Clouds Day_1_1341
+  - first:
+      213: -6691624955196393347
+    second: Clouds Day_1_1342
+  - first:
+      213: 994300200319998659
+    second: Clouds Day_1_1343
+  - first:
+      213: -6020442959308577279
+    second: Clouds Day_1_1344
+  - first:
+      213: -677023806879678132
+    second: Clouds Day_1_1345
+  - first:
+      213: 1571023072888032412
+    second: Clouds Day_1_1346
+  - first:
+      213: -2952391043686199978
+    second: Clouds Day_1_1347
+  - first:
+      213: -4701407038901946890
+    second: Clouds Day_1_1348
+  - first:
+      213: 8166725229167907447
+    second: Clouds Day_1_1349
+  - first:
+      213: 736727076863175930
+    second: Clouds Day_1_1350
+  - first:
+      213: -8008935211904200487
+    second: Clouds Day_1_1351
+  - first:
+      213: -374994361646124013
+    second: Clouds Day_1_1352
+  - first:
+      213: 8999760359820337925
+    second: Clouds Day_1_1353
+  - first:
+      213: -312263585147996441
+    second: Clouds Day_1_1354
+  - first:
+      213: 4669254227570531336
+    second: Clouds Day_1_1355
+  - first:
+      213: 4484933327871232651
+    second: Clouds Day_1_1356
+  - first:
+      213: 6901095423618653108
+    second: Clouds Day_1_1357
+  - first:
+      213: -4967988586282798966
+    second: Clouds Day_1_1358
+  - first:
+      213: 4578404386817203909
+    second: Clouds Day_1_1359
+  - first:
+      213: 6118497576088340663
+    second: Clouds Day_1_1360
+  - first:
+      213: 1886268576171445191
+    second: Clouds Day_1_1361
+  - first:
+      213: 5194349404599210216
+    second: Clouds Day_1_1362
+  - first:
+      213: 7839302762385774743
+    second: Clouds Day_1_1363
+  - first:
+      213: 3968014535063388625
+    second: Clouds Day_1_1364
+  - first:
+      213: 6078124441461536077
+    second: Clouds Day_1_1365
+  - first:
+      213: 5476698187917558901
+    second: Clouds Day_1_1366
+  - first:
+      213: 4569981417743302301
+    second: Clouds Day_1_1367
+  - first:
+      213: 1706593199753577329
+    second: Clouds Day_1_1368
+  - first:
+      213: -5780797106000287859
+    second: Clouds Day_1_1369
+  - first:
+      213: -8311863276956431432
+    second: Clouds Day_1_1370
+  - first:
+      213: 8019306754058069238
+    second: Clouds Day_1_1371
+  - first:
+      213: -2217381585927156023
+    second: Clouds Day_1_1372
+  - first:
+      213: -8825254798436131448
+    second: Clouds Day_1_1373
+  - first:
+      213: 5800918605938411691
+    second: Clouds Day_1_1374
+  - first:
+      213: 8635527150482286704
+    second: Clouds Day_1_1375
+  - first:
+      213: -5491910815627208454
+    second: Clouds Day_1_1376
+  - first:
+      213: -7209633959792497362
+    second: Clouds Day_1_1377
+  - first:
+      213: -4324663853269315756
+    second: Clouds Day_1_1378
+  - first:
+      213: -8553523349651775634
+    second: Clouds Day_1_1379
+  - first:
+      213: 3071195500438917725
+    second: Clouds Day_1_1380
+  - first:
+      213: 4201497278792572482
+    second: Clouds Day_1_1381
+  - first:
+      213: 4712719566262634026
+    second: Clouds Day_1_1382
+  - first:
+      213: -7982729316528465090
+    second: Clouds Day_1_1383
+  - first:
+      213: 3822435801537600334
+    second: Clouds Day_1_1384
+  - first:
+      213: -1340328557459540638
+    second: Clouds Day_1_1385
+  - first:
+      213: 8970594355593756024
+    second: Clouds Day_1_1386
+  - first:
+      213: -3611684644756867071
+    second: Clouds Day_1_1387
+  - first:
+      213: 7549623309874422920
+    second: Clouds Day_1_1388
+  - first:
+      213: 7991758027057221317
+    second: Clouds Day_1_1389
+  - first:
+      213: -1248085886921313435
+    second: Clouds Day_1_1390
+  - first:
+      213: 4383899098306576623
+    second: Clouds Day_1_1391
+  - first:
+      213: 6457394515096352991
+    second: Clouds Day_1_1392
+  - first:
+      213: 8762852467895435884
+    second: Clouds Day_1_1393
+  - first:
+      213: 6152434687188751283
+    second: Clouds Day_1_1394
+  - first:
+      213: -1317343383074729477
+    second: Clouds Day_1_1395
+  - first:
+      213: -8527324645959276175
+    second: Clouds Day_1_1396
+  - first:
+      213: 1721824061996896191
+    second: Clouds Day_1_1397
+  - first:
+      213: 4656704695320869562
+    second: Clouds Day_1_1398
+  - first:
+      213: 1627251977172105055
+    second: Clouds Day_1_1399
+  - first:
+      213: 1080543518520954147
+    second: Clouds Day_1_1400
+  - first:
+      213: 6403389573889402458
+    second: Clouds Day_1_1401
+  - first:
+      213: -9219508655173491653
+    second: Clouds Day_1_1402
+  - first:
+      213: -2151100900404962490
+    second: Clouds Day_1_1403
+  - first:
+      213: 8490368612604962981
+    second: Clouds Day_1_1404
+  - first:
+      213: -996446299765445224
+    second: Clouds Day_1_1405
+  - first:
+      213: -6164859595647031718
+    second: Clouds Day_1_1406
+  - first:
+      213: 4196489565850159280
+    second: Clouds Day_1_1407
+  - first:
+      213: -3030682085279664509
+    second: Clouds Day_1_1408
+  - first:
+      213: 7594143377607786087
+    second: Clouds Day_1_1409
+  - first:
+      213: -1190108033259588721
+    second: Clouds Day_1_1410
+  - first:
+      213: 2568468256154988071
+    second: Clouds Day_1_1411
+  - first:
+      213: 3981152209111858043
+    second: Clouds Day_1_1412
+  - first:
+      213: 7198210139988279037
+    second: Clouds Day_1_1413
+  - first:
+      213: 7344223120718294104
+    second: Clouds Day_1_1414
+  - first:
+      213: 3398858821766638543
+    second: Clouds Day_1_1415
+  - first:
+      213: 8784937743313966316
+    second: Clouds Day_1_1416
+  - first:
+      213: -1955592631572355021
+    second: Clouds Day_1_1417
+  - first:
+      213: -9068029820577597548
+    second: Clouds Day_1_1418
+  - first:
+      213: 2344238875414672316
+    second: Clouds Day_1_1419
+  - first:
+      213: -9161067730189236848
+    second: Clouds Day_1_1420
+  - first:
+      213: -2900918115132419329
+    second: Clouds Day_1_1421
+  - first:
+      213: 807648914901235640
+    second: Clouds Day_1_1422
+  - first:
+      213: -2637536645671425377
+    second: Clouds Day_1_1423
+  - first:
+      213: 6341540454873951839
+    second: Clouds Day_1_1424
+  - first:
+      213: -3644968471106455319
+    second: Clouds Day_1_1425
+  - first:
+      213: -8493667312649724264
+    second: Clouds Day_1_1426
+  - first:
+      213: -7411838565159740598
+    second: Clouds Day_1_1427
+  - first:
+      213: 8844001010675052460
+    second: Clouds Day_1_1428
+  - first:
+      213: 6956620558884568266
+    second: Clouds Day_1_1429
+  - first:
+      213: -4784564376425899256
+    second: Clouds Day_1_1430
+  - first:
+      213: -3516589587696147413
+    second: Clouds Day_1_1431
+  - first:
+      213: -1012871184659962241
+    second: Clouds Day_1_1432
+  - first:
+      213: 2829092129852170277
+    second: Clouds Day_1_1433
+  - first:
+      213: -8347663666848121162
+    second: Clouds Day_1_1434
+  - first:
+      213: 2065701226059704846
+    second: Clouds Day_1_1435
+  - first:
+      213: -1147618333694824043
+    second: Clouds Day_1_1436
+  - first:
+      213: -6421479038858923975
+    second: Clouds Day_1_1437
+  - first:
+      213: 1954983267831322950
+    second: Clouds Day_1_1438
+  - first:
+      213: 4368679970067137173
+    second: Clouds Day_1_1439
+  - first:
+      213: 6240483906809728487
+    second: Clouds Day_1_1440
+  - first:
+      213: -6796799428416820815
+    second: Clouds Day_1_1441
+  - first:
+      213: 3746018128531159261
+    second: Clouds Day_1_1442
+  - first:
+      213: 7703674449165768274
+    second: Clouds Day_1_1443
+  - first:
+      213: 1880651136194621419
+    second: Clouds Day_1_1444
+  - first:
+      213: 1984303758397717306
+    second: Clouds Day_1_1445
+  - first:
+      213: -8717707717053412035
+    second: Clouds Day_1_1446
+  - first:
+      213: -7620880301066870679
+    second: Clouds Day_1_1447
+  - first:
+      213: 7112753717672030358
+    second: Clouds Day_1_1448
+  - first:
+      213: -7697943662188138130
+    second: Clouds Day_1_1449
+  - first:
+      213: -5256503202409092071
+    second: Clouds Day_1_1450
+  - first:
+      213: 1037092040591323857
+    second: Clouds Day_1_1451
+  - first:
+      213: 4525152845823955757
+    second: Clouds Day_1_1452
+  - first:
+      213: -4782125701533889367
+    second: Clouds Day_1_1453
+  - first:
+      213: -2606032418514762164
+    second: Clouds Day_1_1454
+  - first:
+      213: -1958266480796062715
+    second: Clouds Day_1_1455
+  - first:
+      213: -7269480645147040458
+    second: Clouds Day_1_1456
+  - first:
+      213: 2055479631231033911
+    second: Clouds Day_1_1457
+  - first:
+      213: -5733768892186631315
+    second: Clouds Day_1_1458
+  - first:
+      213: -3203295293261555754
+    second: Clouds Day_1_1459
+  - first:
+      213: -4968281459180460229
+    second: Clouds Day_1_1460
+  - first:
+      213: 1954781314787656382
+    second: Clouds Day_1_1461
+  - first:
+      213: -4669443159513365646
+    second: Clouds Day_1_1462
+  - first:
+      213: -145169356362343330
+    second: Clouds Day_1_1463
+  - first:
+      213: -3153177416136287187
+    second: Clouds Day_1_1464
+  - first:
+      213: -907439000588446556
+    second: Clouds Day_1_1465
+  - first:
+      213: 9031710941976424395
+    second: Clouds Day_1_1466
+  - first:
+      213: -6901106309850272569
+    second: Clouds Day_1_1467
+  - first:
+      213: -1343307345221309548
+    second: Clouds Day_1_1468
+  - first:
+      213: -2985741377314350152
+    second: Clouds Day_1_1469
+  - first:
+      213: 261261055056314173
+    second: Clouds Day_1_1470
+  - first:
+      213: -9344446480927396
+    second: Clouds Day_1_1471
+  - first:
+      213: 5497388127119872319
+    second: Clouds Day_1_1472
+  - first:
+      213: -8591089307024395781
+    second: Clouds Day_1_1473
+  - first:
+      213: -2086698297137961788
+    second: Clouds Day_1_1474
+  - first:
+      213: -6222568040322533328
+    second: Clouds Day_1_1475
+  - first:
+      213: 6407454969550130650
+    second: Clouds Day_1_1476
+  - first:
+      213: 6256346722188791453
+    second: Clouds Day_1_1477
+  - first:
+      213: -8040046090449572244
+    second: Clouds Day_1_1478
+  - first:
+      213: -1422603013108513593
+    second: Clouds Day_1_1479
+  - first:
+      213: -7343546145308839374
+    second: Clouds Day_1_1480
+  - first:
+      213: 4399267069580469919
+    second: Clouds Day_1_1481
+  - first:
+      213: -3739348161314505582
+    second: Clouds Day_1_1482
+  - first:
+      213: -3546314861201046853
+    second: Clouds Day_1_1483
+  - first:
+      213: -3302800050327965401
+    second: Clouds Day_1_1484
+  - first:
+      213: 591300482378110381
+    second: Clouds Day_1_1485
+  - first:
+      213: 3252279149998640519
+    second: Clouds Day_1_1486
+  - first:
+      213: -7577209852332027687
+    second: Clouds Day_1_1487
+  - first:
+      213: 201083807366951940
+    second: Clouds Day_1_1488
+  - first:
+      213: -5241668484576535980
+    second: Clouds Day_1_1489
+  - first:
+      213: -7311591653322533393
+    second: Clouds Day_1_1490
+  - first:
+      213: -3461729090660503196
+    second: Clouds Day_1_1491
+  - first:
+      213: 6354385320729225055
+    second: Clouds Day_1_1492
+  - first:
+      213: -5340086695390031352
+    second: Clouds Day_1_1493
+  - first:
+      213: 5873567080235116289
+    second: Clouds Day_1_1494
+  - first:
+      213: 7626379971143995941
+    second: Clouds Day_1_1495
+  - first:
+      213: 1974462525294780850
+    second: Clouds Day_1_1496
+  - first:
+      213: -210818945666320984
+    second: Clouds Day_1_1497
+  - first:
+      213: -8309609679435483128
+    second: Clouds Day_1_1498
+  - first:
+      213: -6047050310359644651
+    second: Clouds Day_1_1499
+  - first:
+      213: -6854062082103973628
+    second: Clouds Day_1_1500
+  - first:
+      213: -4132842846878772474
+    second: Clouds Day_1_1501
+  - first:
+      213: -7616643098578435021
+    second: Clouds Day_1_1502
+  - first:
+      213: 6777683428513906175
+    second: Clouds Day_1_1503
+  - first:
+      213: -6419938418005434457
+    second: Clouds Day_1_1504
+  - first:
+      213: -7809329708783403335
+    second: Clouds Day_1_1505
+  - first:
+      213: -845448891404532399
+    second: Clouds Day_1_1506
+  - first:
+      213: -293728961417882190
+    second: Clouds Day_1_1507
+  - first:
+      213: -8587097400895871357
+    second: Clouds Day_1_1508
+  - first:
+      213: 7250873229420308703
+    second: Clouds Day_1_1509
+  - first:
+      213: -4848577573198764240
+    second: Clouds Day_1_1510
+  - first:
+      213: -2388492252133714917
+    second: Clouds Day_1_1511
+  - first:
+      213: 5131865489131394709
+    second: Clouds Day_1_1512
+  - first:
+      213: -1302391975020733011
+    second: Clouds Day_1_1513
+  - first:
+      213: -7162604689015259447
+    second: Clouds Day_1_1514
+  - first:
+      213: 7959055041879677363
+    second: Clouds Day_1_1515
+  - first:
+      213: -645555086037613991
+    second: Clouds Day_1_1516
+  - first:
+      213: -4297401123924519963
+    second: Clouds Day_1_1517
+  - first:
+      213: -4368852876058561108
+    second: Clouds Day_1_1518
+  - first:
+      213: 3294749313181111917
+    second: Clouds Day_1_1519
+  - first:
+      213: 3403620584198331142
+    second: Clouds Day_1_1520
+  - first:
+      213: 8223121250424760761
+    second: Clouds Day_1_1521
+  - first:
+      213: -4250858440201203442
+    second: Clouds Day_1_1522
+  - first:
+      213: 4611769785759983151
+    second: Clouds Day_1_1523
+  - first:
+      213: -4436175867234675458
+    second: Clouds Day_1_1524
+  - first:
+      213: -5762909116258554499
+    second: Clouds Day_1_1525
+  - first:
+      213: 7875577295981878243
+    second: Clouds Day_1_1526
+  - first:
+      213: 1198063181032451620
+    second: Clouds Day_1_1527
+  - first:
+      213: 3750971417351650293
+    second: Clouds Day_1_1528
+  - first:
+      213: 6784615299179340925
+    second: Clouds Day_1_1529
+  - first:
+      213: 425906937188061867
+    second: Clouds Day_1_1530
+  - first:
+      213: -6192811378088215987
+    second: Clouds Day_1_1531
+  - first:
+      213: 6993928434193217085
+    second: Clouds Day_1_1532
+  - first:
+      213: 6354283530813025742
+    second: Clouds Day_1_1533
+  - first:
+      213: 5857976225232151817
+    second: Clouds Day_1_1534
+  - first:
+      213: -5234157634968142859
+    second: Clouds Day_1_1535
+  - first:
+      213: 1417058049743338107
+    second: Clouds Day_1_1536
+  - first:
+      213: 4968525066189822099
+    second: Clouds Day_1_1537
+  - first:
+      213: -6824323357993460421
+    second: Clouds Day_1_1538
+  - first:
+      213: -8926499590880512428
+    second: Clouds Day_1_1539
+  - first:
+      213: 7957517612697184032
+    second: Clouds Day_1_1540
+  - first:
+      213: 8209524966528505843
+    second: Clouds Day_1_1541
+  - first:
+      213: -6679207815490836326
+    second: Clouds Day_1_1542
+  - first:
+      213: 1093951357645196914
+    second: Clouds Day_1_1543
+  - first:
+      213: -6133004823963617659
+    second: Clouds Day_1_1544
+  - first:
+      213: -3919506374671893012
+    second: Clouds Day_1_1545
+  - first:
+      213: 1993291120981179271
+    second: Clouds Day_1_1546
+  - first:
+      213: -383308961458448740
+    second: Clouds Day_1_1547
+  - first:
+      213: -3448896262724808998
+    second: Clouds Day_1_1548
+  - first:
+      213: 1776677487970572004
+    second: Clouds Day_1_1549
+  - first:
+      213: -3312929316383417770
+    second: Clouds Day_1_1550
+  - first:
+      213: -7050891238479116735
+    second: Clouds Day_1_1551
+  - first:
+      213: 4194812037079418420
+    second: Clouds Day_1_1552
+  - first:
+      213: 5070926230375054035
+    second: Clouds Day_1_1553
+  - first:
+      213: 3939593781597812722
+    second: Clouds Day_1_1554
+  - first:
+      213: 5074105221501029062
+    second: Clouds Day_1_1555
+  - first:
+      213: 5944258345182819927
+    second: Clouds Day_1_1556
+  - first:
+      213: -4019794344199462447
+    second: Clouds Day_1_1557
+  - first:
+      213: 4434562594403334927
+    second: Clouds Day_1_1558
+  - first:
+      213: 3972262771110614790
+    second: Clouds Day_1_1559
+  - first:
+      213: 6514637583212898492
+    second: Clouds Day_1_1560
+  - first:
+      213: -4792203165722854783
+    second: Clouds Day_1_1561
+  - first:
+      213: -577533515158491906
+    second: Clouds Day_1_1562
+  - first:
+      213: -4801126131526533348
+    second: Clouds Day_1_1563
+  - first:
+      213: 8879672398833111655
+    second: Clouds Day_1_1564
+  - first:
+      213: 1234374788878759104
+    second: Clouds Day_1_1565
+  - first:
+      213: -4619256685954473055
+    second: Clouds Day_1_1566
+  - first:
+      213: -5727735666724789856
+    second: Clouds Day_1_1567
+  - first:
+      213: -9184865505191053521
+    second: Clouds Day_1_1568
+  - first:
+      213: -4097627866291887961
+    second: Clouds Day_1_1569
+  - first:
+      213: -5086816703009630264
+    second: Clouds Day_1_1570
+  - first:
+      213: -6439473646601587843
+    second: Clouds Day_1_1571
+  - first:
+      213: -6173537457642653965
+    second: Clouds Day_1_1572
+  - first:
+      213: 332900244961987039
+    second: Clouds Day_1_1573
+  - first:
+      213: -7228910153121088529
+    second: Clouds Day_1_1574
+  - first:
+      213: 6660904719190052193
+    second: Clouds Day_1_1575
+  - first:
+      213: -5487044750631303251
+    second: Clouds Day_1_1576
+  - first:
+      213: -3799509490324895130
+    second: Clouds Day_1_1577
+  - first:
+      213: 7875118216541761753
+    second: Clouds Day_1_1578
+  - first:
+      213: -8663535471175748181
+    second: Clouds Day_1_1579
+  - first:
+      213: -1495769959661659063
+    second: Clouds Day_1_1580
+  - first:
+      213: 5431318082671786248
+    second: Clouds Day_1_1581
+  - first:
+      213: 1506266840501311244
+    second: Clouds Day_1_1582
+  - first:
+      213: -653943736868324845
+    second: Clouds Day_1_1583
+  - first:
+      213: 5607774562321251967
+    second: Clouds Day_1_1584
+  - first:
+      213: -2532074818244268407
+    second: Clouds Day_1_1585
+  - first:
+      213: -3251159238845185662
+    second: Clouds Day_1_1586
+  - first:
+      213: -7615979959991293769
+    second: Clouds Day_1_1587
+  - first:
+      213: 5880998857620822481
+    second: Clouds Day_1_1588
+  - first:
+      213: -9049720946819376901
+    second: Clouds Day_1_1589
+  - first:
+      213: -8061681789294048107
+    second: Clouds Day_1_1590
+  - first:
+      213: 349094119689588139
+    second: Clouds Day_1_1591
+  - first:
+      213: -2404786484841547810
+    second: Clouds Day_1_1592
+  - first:
+      213: -2037056981936625067
+    second: Clouds Day_1_1593
+  - first:
+      213: 9058510398483067952
+    second: Clouds Day_1_1594
+  - first:
+      213: 211781396775699675
+    second: Clouds Day_1_1595
+  - first:
+      213: 395104045391195041
+    second: Clouds Day_1_1596
+  - first:
+      213: -3461245422520722664
+    second: Clouds Day_1_1597
+  - first:
+      213: -4970145468271904714
+    second: Clouds Day_1_1598
+  - first:
+      213: 5532387065619297884
+    second: Clouds Day_1_1599
+  - first:
+      213: -1166846726732276566
+    second: Clouds Day_1_1600
+  - first:
+      213: -2159234173965974508
+    second: Clouds Day_1_1601
+  - first:
+      213: -3194762449923447147
+    second: Clouds Day_1_1602
+  - first:
+      213: 478522387849951125
+    second: Clouds Day_1_1603
+  - first:
+      213: -4682481549076090143
+    second: Clouds Day_1_1604
+  - first:
+      213: 1065105248376344909
+    second: Clouds Day_1_1605
+  - first:
+      213: 3799618888679810479
+    second: Clouds Day_1_1606
+  - first:
+      213: 522755269305968908
+    second: Clouds Day_1_1607
+  - first:
+      213: -6152813342965261575
+    second: Clouds Day_1_1608
+  - first:
+      213: 6074482199858655342
+    second: Clouds Day_1_1609
+  - first:
+      213: -6858984015922995489
+    second: Clouds Day_1_1610
+  - first:
+      213: -5418922616867000022
+    second: Clouds Day_1_1611
+  - first:
+      213: -6868527592824875549
+    second: Clouds Day_1_1612
+  - first:
+      213: -4873309557075251960
+    second: Clouds Day_1_1613
+  - first:
+      213: 4744756835564031277
+    second: Clouds Day_1_1614
+  - first:
+      213: -2904100311479924841
+    second: Clouds Day_1_1615
+  - first:
+      213: -2615479161256110146
+    second: Clouds Day_1_1616
+  - first:
+      213: -8201559597133563624
+    second: Clouds Day_1_1617
+  - first:
+      213: -6575537536123427299
+    second: Clouds Day_1_1618
+  - first:
+      213: 6567050766560324938
+    second: Clouds Day_1_1619
+  - first:
+      213: -3381033545544393389
+    second: Clouds Day_1_1620
+  - first:
+      213: -7484665013094910138
+    second: Clouds Day_1_1621
+  - first:
+      213: -6666525910802676070
+    second: Clouds Day_1_1622
+  - first:
+      213: 7269086711089449060
+    second: Clouds Day_1_1623
+  - first:
+      213: -5917809272809966570
+    second: Clouds Day_1_1624
+  - first:
+      213: 2196188030508524417
+    second: Clouds Day_1_1625
+  - first:
+      213: -616220684017035499
+    second: Clouds Day_1_1626
+  - first:
+      213: -1256829056738719874
+    second: Clouds Day_1_1627
+  - first:
+      213: 984288559285214624
+    second: Clouds Day_1_1628
+  - first:
+      213: 1554933695639578322
+    second: Clouds Day_1_1629
+  - first:
+      213: -8559181323677280543
+    second: Clouds Day_1_1630
+  - first:
+      213: 6048004044307597219
+    second: Clouds Day_1_1631
+  - first:
+      213: 4686287757966019027
+    second: Clouds Day_1_1632
+  - first:
+      213: 9145683365709329633
+    second: Clouds Day_1_1633
+  - first:
+      213: -5771139329618889201
+    second: Clouds Day_1_1634
+  - first:
+      213: -3836862725003021249
+    second: Clouds Day_1_1635
+  - first:
+      213: -6990770729679935249
+    second: Clouds Day_1_1636
+  - first:
+      213: 7729204170610786084
+    second: Clouds Day_1_1637
+  - first:
+      213: -4766772409748636311
+    second: Clouds Day_1_1638
+  - first:
+      213: 8732753147247276709
+    second: Clouds Day_1_1639
+  - first:
+      213: -20810370148186188
+    second: Clouds Day_1_1640
+  - first:
+      213: 6712512225771299224
+    second: Clouds Day_1_1641
+  - first:
+      213: -5289138967940544800
+    second: Clouds Day_1_1642
+  - first:
+      213: -5701912406894490119
+    second: Clouds Day_1_1643
+  - first:
+      213: -6303733438246007735
+    second: Clouds Day_1_1644
+  - first:
+      213: 6787409319805618
+    second: Clouds Day_1_1645
+  - first:
+      213: -8710646194107250459
+    second: Clouds Day_1_1646
+  - first:
+      213: -6441698092672747930
+    second: Clouds Day_1_1647
+  - first:
+      213: -7910729693400561491
+    second: Clouds Day_1_1648
+  - first:
+      213: 159866709104944910
+    second: Clouds Day_1_1649
+  - first:
+      213: 6089247531868051003
+    second: Clouds Day_1_1650
+  - first:
+      213: 2027311005031751319
+    second: Clouds Day_1_1651
+  - first:
+      213: 1930600640488035072
+    second: Clouds Day_1_1652
+  - first:
+      213: 7882295820491221815
+    second: Clouds Day_1_1653
+  - first:
+      213: -7099902600876521408
+    second: Clouds Day_1_1654
+  - first:
+      213: -1707930965710905751
+    second: Clouds Day_1_1655
+  - first:
+      213: 3163605441826489326
+    second: Clouds Day_1_1656
+  - first:
+      213: -9111341169796880229
+    second: Clouds Day_1_1657
+  - first:
+      213: -4095801700014931831
+    second: Clouds Day_1_1658
+  - first:
+      213: 7109301110315130221
+    second: Clouds Day_1_1659
+  - first:
+      213: 3744266938904442852
+    second: Clouds Day_1_1660
+  - first:
+      213: -4549757404211375067
+    second: Clouds Day_1_1661
+  - first:
+      213: 3629626317786507881
+    second: Clouds Day_1_1662
+  - first:
+      213: 3447433953677612619
+    second: Clouds Day_1_1663
+  - first:
+      213: 8453639380466647666
+    second: Clouds Day_1_1664
+  - first:
+      213: 6392891066463178725
+    second: Clouds Day_1_1665
+  - first:
+      213: -5845537118550402330
+    second: Clouds Day_1_1666
+  - first:
+      213: 2971919325132656350
+    second: Clouds Day_1_1667
+  - first:
+      213: -7235476721226435057
+    second: Clouds Day_1_1668
+  - first:
+      213: -6342227087426863422
+    second: Clouds Day_1_1669
+  - first:
+      213: 5682620584424055228
+    second: Clouds Day_1_1670
+  - first:
+      213: 8860815457070077347
+    second: Clouds Day_1_1671
+  - first:
+      213: -3607127230221743336
+    second: Clouds Day_1_1672
+  - first:
+      213: 5538314436375710906
+    second: Clouds Day_1_1673
+  - first:
+      213: 3960475860450874233
+    second: Clouds Day_1_1674
+  - first:
+      213: -442781831852450121
+    second: Clouds Day_1_1675
+  - first:
+      213: 5526149400857209105
+    second: Clouds Day_1_1676
+  - first:
+      213: 4934064397488665310
+    second: Clouds Day_1_1677
+  - first:
+      213: 3278387212790979715
+    second: Clouds Day_1_1678
+  - first:
+      213: 3248844679934926199
+    second: Clouds Day_1_1679
+  - first:
+      213: -3815521668060310291
+    second: Clouds Day_1_1680
+  - first:
+      213: 6235035109211889014
+    second: Clouds Day_1_1681
+  - first:
+      213: -2791484213215970356
+    second: Clouds Day_1_1682
+  - first:
+      213: 5901347000791436102
+    second: Clouds Day_1_1683
+  - first:
+      213: -253979505337895253
+    second: Clouds Day_1_1684
+  - first:
+      213: 641460980283336148
+    second: Clouds Day_1_1685
+  - first:
+      213: 5166540910678545382
+    second: Clouds Day_1_1686
+  - first:
+      213: 5180274106086462908
+    second: Clouds Day_1_1687
+  - first:
+      213: -6581535282331549001
+    second: Clouds Day_1_1688
+  - first:
+      213: -8695852294200630796
+    second: Clouds Day_1_1689
+  - first:
+      213: 864470172012786180
+    second: Clouds Day_1_1690
+  - first:
+      213: 9153659802691812126
+    second: Clouds Day_1_1691
+  - first:
+      213: 3274662700212490579
+    second: Clouds Day_1_1692
+  - first:
+      213: -6276434928095013270
+    second: Clouds Day_1_1693
+  - first:
+      213: 7715455957077438156
+    second: Clouds Day_1_1694
+  - first:
+      213: 6709149134962493938
+    second: Clouds Day_1_1695
+  - first:
+      213: 4848854519767517694
+    second: Clouds Day_1_1696
+  - first:
+      213: -7109246544836129738
+    second: Clouds Day_1_1697
+  - first:
+      213: -1093166354263855037
+    second: Clouds Day_1_1698
+  - first:
+      213: 5255716836293969199
+    second: Clouds Day_1_1699
+  - first:
+      213: -7031900471802335777
+    second: Clouds Day_1_1700
+  - first:
+      213: 421444421770707690
+    second: Clouds Day_1_1701
+  - first:
+      213: -3641007257104140961
+    second: Clouds Day_1_1702
+  - first:
+      213: -65599474524706836
+    second: Clouds Day_1_1703
+  - first:
+      213: -6785363456364215709
+    second: Clouds Day_1_1704
+  - first:
+      213: -1952155988135505538
+    second: Clouds Day_1_1705
+  - first:
+      213: -4146916690912209894
+    second: Clouds Day_1_1706
+  - first:
+      213: -8737147963426126329
+    second: Clouds Day_1_1707
+  - first:
+      213: -1914294739250994324
+    second: Clouds Day_1_1708
+  - first:
+      213: 4744064241956759703
+    second: Clouds Day_1_1709
+  - first:
+      213: -7533935029079144884
+    second: Clouds Day_1_1710
+  - first:
+      213: 4326416992429066369
+    second: Clouds Day_1_1711
+  - first:
+      213: 4597762160553097825
+    second: Clouds Day_1_1712
+  - first:
+      213: 8502490409913336506
+    second: Clouds Day_1_1713
+  - first:
+      213: 5573110149653316079
+    second: Clouds Day_1_1714
+  - first:
+      213: -1690909416788746314
+    second: Clouds Day_1_1715
+  - first:
+      213: 813156803724415868
+    second: Clouds Day_1_1716
+  - first:
+      213: -406470150639564561
+    second: Clouds Day_1_1717
+  - first:
+      213: -8718097748865231542
+    second: Clouds Day_1_1718
+  - first:
+      213: 6638897685969909104
+    second: Clouds Day_1_1719
+  - first:
+      213: -516182852706112241
+    second: Clouds Day_1_1720
+  - first:
+      213: 6926285953730856204
+    second: Clouds Day_1_1721
+  - first:
+      213: 1599365022345116063
+    second: Clouds Day_1_1722
+  - first:
+      213: -6291468757850815802
+    second: Clouds Day_1_1723
+  - first:
+      213: -1848511281173323436
+    second: Clouds Day_1_1724
+  - first:
+      213: -8703269585143056017
+    second: Clouds Day_1_1725
+  - first:
+      213: -3107440967068108455
+    second: Clouds Day_1_1726
+  - first:
+      213: -6924983033334488072
+    second: Clouds Day_1_1727
+  - first:
+      213: -1772134942886090794
+    second: Clouds Day_1_1728
+  - first:
+      213: 4519970999536063248
+    second: Clouds Day_1_1729
+  - first:
+      213: -135253548070075544
+    second: Clouds Day_1_1730
+  - first:
+      213: 2161275943839065817
+    second: Clouds Day_1_1731
+  - first:
+      213: -887387798311490679
+    second: Clouds Day_1_1732
+  - first:
+      213: 1183088972205339891
+    second: Clouds Day_1_1733
+  - first:
+      213: 57224327594387348
+    second: Clouds Day_1_1734
+  - first:
+      213: 5350175928807047535
+    second: Clouds Day_1_1735
+  - first:
+      213: 5626492539507249935
+    second: Clouds Day_1_1736
+  - first:
+      213: 2109384387965441609
+    second: Clouds Day_1_1737
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clouds Day_1_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368802bb5a6a9b80800000000000000
+      internalID: -8387274413962656196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62997c52f1dd8090800000000000000
+      internalID: -8030531721667964308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d833dc732097abf50800000000000000
+      internalID: 6897958829704426381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a759287ec84a2f0800000000000000
+      internalID: -962489494394275210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3455ebe90b8b760800000000000000
+      internalID: 7473917777465918441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01208a05d1ae060800000000000000
+      internalID: 6983426404444672223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c717d6954562ab50800000000000000
+      internalID: 6602951353236395977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33498440492172070800000000000000
+      internalID: 8081448483275969587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c147de2d3d9b980800000000000000
+      internalID: -8522547916941550553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e51706965ceeee0800000000000000
+      internalID: -1229828591845286351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6996e1adb6b260c0800000000000000
+      internalID: -4583900545128425109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227fb063bd892e090800000000000000
+      internalID: -8006669120239306974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4607f7c9b767d0800000000000000
+      internalID: -2925165164459832664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ba0b8c18018f00800000000000000
+      internalID: 1117183101249436026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8546e030851f90800000000000000
+      internalID: -6983534699657983101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299cb7f4e21eb3fd0800000000000000
+      internalID: -2361045990607435374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367024db8c2eb850800000000000000
+      internalID: 6394597499983656500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17cf2978b26c7ea0800000000000000
+      internalID: -5873711269551290593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d1aedb2f570700800000000000000
+      internalID: 506478125125849969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9cd508b8e50ace0800000000000000
+      internalID: -1396011931237758527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d199a3673d36a0800000000000000
+      internalID: -6467952588647967986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade38b5aa249bec70800000000000000
+      internalID: 9001451191119920858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a434f91edf9ca4a0800000000000000
+      internalID: -6580709179228146528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c140081bbf694e0800000000000000
+      internalID: -1975114646779847523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc0d83ba1882b640800000000000000
+      internalID: 5094283776772345041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2790544291c68230800000000000000
+      internalID: 3640810182731142956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04af5191d3ed8a40800000000000000
+      internalID: 5372200419749504013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf275d8fb8312e0800000000000000
+      internalID: -2156225895731103045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9452bb20dd424c0800000000000000
+      internalID: -4313079539314636327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a0dbf53b3711c0800000000000000
+      internalID: -4533089396881054858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021a39143ce8fdbd0800000000000000
+      internalID: -2603205090326896352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aa0d446b70586a0800000000000000
+      internalID: -6447738812091028957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8b13d2cfc50860800000000000000
+      internalID: 7495625590500461695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5481d6a8bf0e50800000000000000
+      internalID: 6777838990835080381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef14e77eda145370800000000000000
+      internalID: 8310296755201908704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 436
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a185f708119ac0800000000000000
+      internalID: -3850269783962310770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa4d74f94d195010800000000000000
+      internalID: 1178004981005765291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04ab94c0dc89a10800000000000000
+      internalID: 1916507094106390712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7531edd85698560800000000000000
+      internalID: 7316490729630685174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83373bf0c7b0fff80800000000000000
+      internalID: -8070719379757370568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651cc3fee60376d30800000000000000
+      internalID: 4424558411933073750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4611ce6c5498aa0800000000000000
+      internalID: -6158314294786038596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440af6bff2a28a2b0800000000000000
+      internalID: -5573158153300762556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2d9b0df36ca000800000000000000
+      internalID: 48523634466958547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a5bb3d0909ec120800000000000000
+      internalID: 2436043400155978271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799493550300d08b0800000000000000
+      internalID: -5184487388445324905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289ce8b7e4ee8f50800000000000000
+      internalID: 6885692564187158560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fd1fccf353ed220800000000000000
+      internalID: 2512504190256930583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e3994a2c7fd280800000000000000
+      internalID: -9016351407907543984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_49
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208fa81c839107a0800000000000000
+      internalID: -6412682164480016337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 372
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e771fbb1ec51a20800000000000000
+      internalID: 3032556542669323875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985793dccf2c32660800000000000000
+      internalID: 7359940607084164489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b3351913b0da60800000000000000
+      internalID: 7696848683487443055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf231e009239d70800000000000000
+      internalID: 9048621160072411998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139a94561f9d6610800000000000000
+      internalID: 1616122759553389336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786afd3676eb2e9a0800000000000000
+      internalID: -6205187985296611705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba0fd849e1ece00800000000000000
+      internalID: 1066823785118739411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab832a7683e0c00800000000000000
+      internalID: 868693795883498108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7c4b2aaf303a360800000000000000
+      internalID: 7179586605965166514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c43bad56f7c0a7d0800000000000000
+      internalID: -2909105498333956919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f86774e2aedf10800000000000000
+      internalID: 2296451962145142453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9673d66a1ad670800000000000000
+      internalID: 8564186670335171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54b8bb758429550800000000000000
+      internalID: 6166070381469451775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec19c4cc6be7850f0800000000000000
+      internalID: -1128012383079591474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450afaca6a7593b80800000000000000
+      internalID: -8414598055391682476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cacd2041984a430800000000000000
+      internalID: 3793307505193167956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_66
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 308
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31740880b418de10800000000000000
+      internalID: 2222549164536131901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2ac4b6fa5699e40800000000000000
+      internalID: 5663669810488976115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ba8127deae2be0800000000000000
+      internalID: -1500069386863855795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3054609b5c05000800000000000000
+      internalID: 22735396601660356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4a8f240b8722d0800000000000000
+      internalID: -3303518951559247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06400a82a6adb6ce0800000000000000
+      internalID: -1410793908767554464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11479a23525f81d40800000000000000
+      internalID: 5555459680474067985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37180f48c9ae2c850800000000000000
+      internalID: 6395932378785677683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745f2ecf2e261fc40800000000000000
+      internalID: 5544321343314654535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92410fe71675fad20800000000000000
+      internalID: 3291945928884229161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54eb1232ad031690800000000000000
+      internalID: -7632741953186306977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a026b9fa3a735c620800000000000000
+      internalID: 2793700320018653706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc4b31143d054cf0800000000000000
+      internalID: -268794085480117050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e897e7f17d3cb80800000000000000
+      internalID: -8375614351713137037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_80
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf3e8c276793610800000000000000
+      internalID: 1601441377875655640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_81
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 244
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca20107aee75dc10800000000000000
+      internalID: 2077706348468906700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99c3647ace589200800000000000000
+      internalID: 187003608164977051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a682f636d0388a0800000000000000
+      internalID: -6304180332670719334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c6b590a1cdca50800000000000000
+      internalID: 6543098729089908740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99033280c51db400800000000000000
+      internalID: 341453063312312731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904bdb7bf1d7c1b70800000000000000
+      internalID: 8871102941193155593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfcb219bd009190800000000000000
+      internalID: -7957845453029180192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32974f38a4f21cdf0800000000000000
+      internalID: -161796114520704733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96dea9901db290e0800000000000000
+      internalID: -2264539783618439524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833beb5e7ebcb320800000000000000
+      internalID: 2575142536866378635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c29d3eef7b9b050800000000000000
+      internalID: 5816882699097943185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b4ca0e86ceee20800000000000000
+      internalID: 3381858683570139961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c0e03ee46735a0800000000000000
+      internalID: -6541648959547326365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0dda5b4e6561eb0800000000000000
+      internalID: -4749513216715009801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc487119880a7e0800000000000000
+      internalID: -1756253697928279249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_96
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d1883ff557d020800000000000000
+      internalID: 2366454683859539601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_97
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 180
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f2d14353c6fcc0800000000000000
+      internalID: -3677537283347385741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2ce7cf375d23c0800000000000000
+      internalID: -4382750930912924388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd2fe0b4a851860800000000000000
+      internalID: 7500052809433407247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024899749bd5a0f0800000000000000
+      internalID: -1106236702707924466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeeb612af2b99a80800000000000000
+      internalID: -8459533637666476312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5ee822271f6990800000000000000
+      internalID: -7390663028008657934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af2158d64472270800000000000000
+      internalID: 8225618481590237755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb588e7813060870800000000000000
+      internalID: 8648603538148580336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffe0a1f8eb78090800000000000000
+      internalID: -8032241888565198856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb236b5f12cc0df0800000000000000
+      internalID: -212581642460255239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859e0aa7e1d444a0800000000000000
+      internalID: -6609927560152312443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be68ef0d6145558e0800000000000000
+      internalID: -1705364426917509397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d4a70dbcfbcd990800000000000000
+      internalID: -7359796808933290732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effcf3812aa293c80800000000000000
+      internalID: -8342589959047229442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ee599e604f63d0800000000000000
+      internalID: -3211277165528160137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 116
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a18db3582885f10800000000000000
+      internalID: 2258698721872583267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb800a64657f600800000000000000
+      internalID: 501964744807725923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328e91d473fef3610800000000000000
+      internalID: 1603263013162969123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbbea87766216d0800000000000000
+      internalID: -3021239736394334262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b17fb5deefda60800000000000000
+      internalID: 7701136489634181695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5e902358153990800000000000000
+      internalID: -7406987266832310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c1a761bdff4970800000000000000
+      internalID: 8741484340139115797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_119
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542e65f4655f9490800000000000000
+      internalID: -7737371742696496041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_120
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ccc48f506e69950800000000000000
+      internalID: 6455600029197192340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654bbf957f1679c0800000000000000
+      internalID: -3929919034782694040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_122
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8866efee30569a90800000000000000
+      internalID: -7307565114119001973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d4c58070b89f40800000000000000
+      internalID: 5735528122783420877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_124
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c5f9266a5aba8a0800000000000000
+      internalID: -6292753920282371046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_125
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6c0286cbd5ecf0800000000000000
+      internalID: -223530960853111146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds Day_1_126
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 52
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752167e93b72b4ba0800000000000000
+      internalID: -6103741217559408041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

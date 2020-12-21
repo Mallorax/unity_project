@@ -1,0 +1,5852 @@
+fileFormatVersion: 2
+guid: 4a94cde3865f1364d9f467f51cf3af14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7052141450541171668
+    second: Mountain MIddle_2_0
+  - first:
+      213: 5517195943752204925
+    second: Mountain MIddle_2_1
+  - first:
+      213: 934732413379478503
+    second: Mountain MIddle_2_2
+  - first:
+      213: -8600570520460165421
+    second: Mountain MIddle_2_3
+  - first:
+      213: 2955677328197256714
+    second: Mountain MIddle_2_4
+  - first:
+      213: 5495184026708465834
+    second: Mountain MIddle_2_5
+  - first:
+      213: 2069318791242929269
+    second: Mountain MIddle_2_6
+  - first:
+      213: -8861314546193229313
+    second: Mountain MIddle_2_7
+  - first:
+      213: -4058966430600022623
+    second: Mountain MIddle_2_8
+  - first:
+      213: -6331479911439269057
+    second: Mountain MIddle_2_9
+  - first:
+      213: 5341061505095977115
+    second: Mountain MIddle_2_10
+  - first:
+      213: 2646977032469896144
+    second: Mountain MIddle_2_11
+  - first:
+      213: 6004654926386800294
+    second: Mountain MIddle_2_12
+  - first:
+      213: -776982505984102833
+    second: Mountain MIddle_2_13
+  - first:
+      213: 4484879623845690073
+    second: Mountain MIddle_2_14
+  - first:
+      213: 1956845888279606471
+    second: Mountain MIddle_2_15
+  - first:
+      213: -6120577849730126438
+    second: Mountain MIddle_2_16
+  - first:
+      213: -5806717826080965643
+    second: Mountain MIddle_2_17
+  - first:
+      213: 4555086275575604743
+    second: Mountain MIddle_2_18
+  - first:
+      213: 8285813812399181406
+    second: Mountain MIddle_2_19
+  - first:
+      213: -6451103579825466037
+    second: Mountain MIddle_2_20
+  - first:
+      213: -4349323033035857448
+    second: Mountain MIddle_2_21
+  - first:
+      213: 8976577191040298819
+    second: Mountain MIddle_2_22
+  - first:
+      213: -3755454443206804076
+    second: Mountain MIddle_2_23
+  - first:
+      213: -8130331694520701865
+    second: Mountain MIddle_2_24
+  - first:
+      213: 8892615150530829464
+    second: Mountain MIddle_2_25
+  - first:
+      213: -5002175046394221791
+    second: Mountain MIddle_2_26
+  - first:
+      213: -7946833250713411368
+    second: Mountain MIddle_2_27
+  - first:
+      213: 3830775343278970144
+    second: Mountain MIddle_2_28
+  - first:
+      213: 8032172154713259278
+    second: Mountain MIddle_2_29
+  - first:
+      213: 46300259206743774
+    second: Mountain MIddle_2_30
+  - first:
+      213: 8656855515335449778
+    second: Mountain MIddle_2_31
+  - first:
+      213: 4801167283282772021
+    second: Mountain MIddle_2_32
+  - first:
+      213: 8430264713068910531
+    second: Mountain MIddle_2_33
+  - first:
+      213: -7892198996756672285
+    second: Mountain MIddle_2_34
+  - first:
+      213: -946301061833431436
+    second: Mountain MIddle_2_35
+  - first:
+      213: 5157170304181119032
+    second: Mountain MIddle_2_36
+  - first:
+      213: -611658916281785644
+    second: Mountain MIddle_2_37
+  - first:
+      213: 2491685636804864616
+    second: Mountain MIddle_2_38
+  - first:
+      213: 2666146833121016068
+    second: Mountain MIddle_2_39
+  - first:
+      213: -4224941883778507790
+    second: Mountain MIddle_2_40
+  - first:
+      213: 1325253254121678809
+    second: Mountain MIddle_2_41
+  - first:
+      213: 1635383541440294349
+    second: Mountain MIddle_2_42
+  - first:
+      213: -4770129825019880288
+    second: Mountain MIddle_2_43
+  - first:
+      213: -1358138611260334346
+    second: Mountain MIddle_2_44
+  - first:
+      213: -7550274437884431945
+    second: Mountain MIddle_2_45
+  - first:
+      213: 5485084310710967167
+    second: Mountain MIddle_2_46
+  - first:
+      213: -8730828059808378230
+    second: Mountain MIddle_2_47
+  - first:
+      213: -4199839546204768775
+    second: Mountain MIddle_2_48
+  - first:
+      213: -4971618430116206354
+    second: Mountain MIddle_2_49
+  - first:
+      213: 5986255910348473911
+    second: Mountain MIddle_2_50
+  - first:
+      213: -6194064479082217870
+    second: Mountain MIddle_2_51
+  - first:
+      213: -3414534648033734663
+    second: Mountain MIddle_2_52
+  - first:
+      213: -1491037840840695938
+    second: Mountain MIddle_2_53
+  - first:
+      213: -1696459589206181119
+    second: Mountain MIddle_2_54
+  - first:
+      213: 7631067677207736223
+    second: Mountain MIddle_2_55
+  - first:
+      213: 3275545341406799426
+    second: Mountain MIddle_2_56
+  - first:
+      213: 6877571669551018693
+    second: Mountain MIddle_2_57
+  - first:
+      213: 4739118303045028169
+    second: Mountain MIddle_2_58
+  - first:
+      213: 1473755502147217383
+    second: Mountain MIddle_2_59
+  - first:
+      213: -7294144805211423580
+    second: Mountain MIddle_2_60
+  - first:
+      213: -4233946556693370281
+    second: Mountain MIddle_2_61
+  - first:
+      213: -4623632939259591667
+    second: Mountain MIddle_2_62
+  - first:
+      213: -13818782780766257
+    second: Mountain MIddle_2_63
+  - first:
+      213: 4873753421474802845
+    second: Mountain MIddle_2_64
+  - first:
+      213: -6351200101631981119
+    second: Mountain MIddle_2_65
+  - first:
+      213: -2400643289154182116
+    second: Mountain MIddle_2_66
+  - first:
+      213: -8162305460280790150
+    second: Mountain MIddle_2_67
+  - first:
+      213: -3622006851113727973
+    second: Mountain MIddle_2_68
+  - first:
+      213: -5276802873697370355
+    second: Mountain MIddle_2_69
+  - first:
+      213: -7208460779787699148
+    second: Mountain MIddle_2_70
+  - first:
+      213: 3172849970105569496
+    second: Mountain MIddle_2_71
+  - first:
+      213: -806140283173207655
+    second: Mountain MIddle_2_72
+  - first:
+      213: 6743007728730594877
+    second: Mountain MIddle_2_73
+  - first:
+      213: 8113513694664476295
+    second: Mountain MIddle_2_74
+  - first:
+      213: -8170973559177382335
+    second: Mountain MIddle_2_75
+  - first:
+      213: -5032812347422066689
+    second: Mountain MIddle_2_76
+  - first:
+      213: 1812870876592903441
+    second: Mountain MIddle_2_77
+  - first:
+      213: -2710513276914184018
+    second: Mountain MIddle_2_78
+  - first:
+      213: -2967147528533943573
+    second: Mountain MIddle_2_79
+  - first:
+      213: 3100189618480588693
+    second: Mountain MIddle_2_80
+  - first:
+      213: -1819756712594945533
+    second: Mountain MIddle_2_81
+  - first:
+      213: 501214423577772588
+    second: Mountain MIddle_2_82
+  - first:
+      213: 6858324785083918712
+    second: Mountain MIddle_2_83
+  - first:
+      213: 5588915020460564998
+    second: Mountain MIddle_2_84
+  - first:
+      213: 2215641189493113374
+    second: Mountain MIddle_2_85
+  - first:
+      213: 4581960444828055472
+    second: Mountain MIddle_2_86
+  - first:
+      213: -351072220133797892
+    second: Mountain MIddle_2_87
+  - first:
+      213: -6167885398115320726
+    second: Mountain MIddle_2_88
+  - first:
+      213: -2147545355273256874
+    second: Mountain MIddle_2_89
+  - first:
+      213: -6529533563713463650
+    second: Mountain MIddle_2_90
+  - first:
+      213: 3733588413535159039
+    second: Mountain MIddle_2_91
+  - first:
+      213: -5153279488203197501
+    second: Mountain MIddle_2_92
+  - first:
+      213: -1408297963167772977
+    second: Mountain MIddle_2_93
+  - first:
+      213: -6816818858603053157
+    second: Mountain MIddle_2_94
+  - first:
+      213: 3090978582146855914
+    second: Mountain MIddle_2_95
+  - first:
+      213: -935672798833387679
+    second: Mountain MIddle_2_96
+  - first:
+      213: 3759721198057838508
+    second: Mountain MIddle_2_97
+  - first:
+      213: 6279703139592106413
+    second: Mountain MIddle_2_98
+  - first:
+      213: -2921643518707738988
+    second: Mountain MIddle_2_99
+  - first:
+      213: 1329875831449788698
+    second: Mountain MIddle_2_100
+  - first:
+      213: 3566674121594209847
+    second: Mountain MIddle_2_101
+  - first:
+      213: 4486988867922736397
+    second: Mountain MIddle_2_102
+  - first:
+      213: -6938124386906188077
+    second: Mountain MIddle_2_103
+  - first:
+      213: 8361644299464065060
+    second: Mountain MIddle_2_104
+  - first:
+      213: 2641625331956399329
+    second: Mountain MIddle_2_105
+  - first:
+      213: 3217310735319021704
+    second: Mountain MIddle_2_106
+  - first:
+      213: 1970878608667736089
+    second: Mountain MIddle_2_107
+  - first:
+      213: -4519636121682597546
+    second: Mountain MIddle_2_108
+  - first:
+      213: -7704580670992965451
+    second: Mountain MIddle_2_109
+  - first:
+      213: 4836244545412906425
+    second: Mountain MIddle_2_110
+  - first:
+      213: -512034251573885723
+    second: Mountain MIddle_2_111
+  - first:
+      213: 957304780798399936
+    second: Mountain MIddle_2_112
+  - first:
+      213: 3047674438395927331
+    second: Mountain MIddle_2_113
+  - first:
+      213: 5172696087811267698
+    second: Mountain MIddle_2_114
+  - first:
+      213: -9088108429532292521
+    second: Mountain MIddle_2_115
+  - first:
+      213: -5284807307575424484
+    second: Mountain MIddle_2_116
+  - first:
+      213: -2514601338032021489
+    second: Mountain MIddle_2_117
+  - first:
+      213: -2503562183309861089
+    second: Mountain MIddle_2_118
+  - first:
+      213: -1526716229652450898
+    second: Mountain MIddle_2_119
+  - first:
+      213: 6776266595796973025
+    second: Mountain MIddle_2_120
+  - first:
+      213: 2592528058038362132
+    second: Mountain MIddle_2_121
+  - first:
+      213: -2776203875941244598
+    second: Mountain MIddle_2_122
+  - first:
+      213: -6629344014919772678
+    second: Mountain MIddle_2_123
+  - first:
+      213: 2318912895863457690
+    second: Mountain MIddle_2_124
+  - first:
+      213: -761780018842164435
+    second: Mountain MIddle_2_125
+  - first:
+      213: 5703981185399145041
+    second: Mountain MIddle_2_126
+  - first:
+      213: -4861959825363894427
+    second: Mountain MIddle_2_127
+  - first:
+      213: -7515899730708626303
+    second: Mountain MIddle_2_128
+  - first:
+      213: 6555082586005921786
+    second: Mountain MIddle_2_129
+  - first:
+      213: 3034898795726659377
+    second: Mountain MIddle_2_130
+  - first:
+      213: 3282747953382633987
+    second: Mountain MIddle_2_131
+  - first:
+      213: 150762234845667654
+    second: Mountain MIddle_2_132
+  - first:
+      213: -7299876176720011413
+    second: Mountain MIddle_2_133
+  - first:
+      213: 8936786827450702639
+    second: Mountain MIddle_2_134
+  - first:
+      213: -4846554842816531432
+    second: Mountain MIddle_2_135
+  - first:
+      213: -844380156197540433
+    second: Mountain MIddle_2_136
+  - first:
+      213: -1737669452440240262
+    second: Mountain MIddle_2_137
+  - first:
+      213: 3329128017978543095
+    second: Mountain MIddle_2_138
+  - first:
+      213: -7431349172416365957
+    second: Mountain MIddle_2_139
+  - first:
+      213: 8529064226940865945
+    second: Mountain MIddle_2_140
+  - first:
+      213: -6596359739504488137
+    second: Mountain MIddle_2_141
+  - first:
+      213: 2130602115209377406
+    second: Mountain MIddle_2_142
+  - first:
+      213: -967594504424718772
+    second: Mountain MIddle_2_143
+  - first:
+      213: 2114751702232009644
+    second: Mountain MIddle_2_144
+  - first:
+      213: -4441117455706833004
+    second: Mountain MIddle_2_145
+  - first:
+      213: -4711010381625536471
+    second: Mountain MIddle_2_146
+  - first:
+      213: -1091265926604955894
+    second: Mountain MIddle_2_147
+  - first:
+      213: -6680933234096553238
+    second: Mountain MIddle_2_148
+  - first:
+      213: -7246147157404635490
+    second: Mountain MIddle_2_149
+  - first:
+      213: -7435502819201200850
+    second: Mountain MIddle_2_150
+  - first:
+      213: 6884272342551633133
+    second: Mountain MIddle_2_151
+  - first:
+      213: -1029520563755765213
+    second: Mountain MIddle_2_152
+  - first:
+      213: -4406395525698408358
+    second: Mountain MIddle_2_153
+  - first:
+      213: -3525124175323353170
+    second: Mountain MIddle_2_154
+  - first:
+      213: 8139046531411890107
+    second: Mountain MIddle_2_155
+  - first:
+      213: 650158332558899361
+    second: Mountain MIddle_2_156
+  - first:
+      213: 1131519965459827843
+    second: Mountain MIddle_2_157
+  - first:
+      213: -1144853706593574732
+    second: Mountain MIddle_2_158
+  - first:
+      213: 4385049335780945942
+    second: Mountain MIddle_2_159
+  - first:
+      213: -7277623591584193050
+    second: Mountain MIddle_2_160
+  - first:
+      213: -2065216797421150136
+    second: Mountain MIddle_2_161
+  - first:
+      213: 6069620220037585107
+    second: Mountain MIddle_2_162
+  - first:
+      213: 3453680870165600144
+    second: Mountain MIddle_2_163
+  - first:
+      213: -6556927908385395608
+    second: Mountain MIddle_2_164
+  - first:
+      213: 2444413033359055308
+    second: Mountain MIddle_2_165
+  - first:
+      213: 4338768742944996030
+    second: Mountain MIddle_2_166
+  - first:
+      213: 454380118449809907
+    second: Mountain MIddle_2_167
+  - first:
+      213: 3379924102909106988
+    second: Mountain MIddle_2_168
+  - first:
+      213: -423540616577700776
+    second: Mountain MIddle_2_169
+  - first:
+      213: 7763957208764839757
+    second: Mountain MIddle_2_170
+  - first:
+      213: -3346903693474992503
+    second: Mountain MIddle_2_171
+  - first:
+      213: 354449773387599609
+    second: Mountain MIddle_2_172
+  - first:
+      213: 6961108403238983273
+    second: Mountain MIddle_2_173
+  - first:
+      213: 2917304825298911937
+    second: Mountain MIddle_2_174
+  - first:
+      213: 3034697274343338707
+    second: Mountain MIddle_2_175
+  - first:
+      213: 9200806992374431229
+    second: Mountain MIddle_2_176
+  - first:
+      213: -5127142687152027182
+    second: Mountain MIddle_2_177
+  - first:
+      213: 3665917319068843519
+    second: Mountain MIddle_2_178
+  - first:
+      213: -4081927039660822351
+    second: Mountain MIddle_2_179
+  - first:
+      213: 2371451452586751078
+    second: Mountain MIddle_2_180
+  - first:
+      213: 9175248451396551104
+    second: Mountain MIddle_2_181
+  - first:
+      213: -7185679327593273465
+    second: Mountain MIddle_2_182
+  - first:
+      213: -7983213131695210679
+    second: Mountain MIddle_2_183
+  - first:
+      213: 8447197271489166469
+    second: Mountain MIddle_2_184
+  - first:
+      213: 7241644930336668720
+    second: Mountain MIddle_2_185
+  - first:
+      213: -6928861760331275950
+    second: Mountain MIddle_2_186
+  - first:
+      213: -794003932818177219
+    second: Mountain MIddle_2_187
+  - first:
+      213: 2669572633767316248
+    second: Mountain MIddle_2_188
+  - first:
+      213: -5145976118856583473
+    second: Mountain MIddle_2_189
+  - first:
+      213: -8955596115637004482
+    second: Mountain MIddle_2_190
+  - first:
+      213: 8373720968926003447
+    second: Mountain MIddle_2_191
+  - first:
+      213: -2852692549882557368
+    second: Mountain MIddle_2_192
+  - first:
+      213: 1038234684451826035
+    second: Mountain MIddle_2_193
+  - first:
+      213: 8243744632244945099
+    second: Mountain MIddle_2_194
+  - first:
+      213: 7049842890287125765
+    second: Mountain MIddle_2_195
+  - first:
+      213: 952767351597282231
+    second: Mountain MIddle_2_196
+  - first:
+      213: 6631962361725232613
+    second: Mountain MIddle_2_197
+  - first:
+      213: -2643744637217886540
+    second: Mountain MIddle_2_198
+  - first:
+      213: 5880979499464933621
+    second: Mountain MIddle_2_199
+  - first:
+      213: -3150665675746538829
+    second: Mountain MIddle_2_200
+  - first:
+      213: -6903210219082089410
+    second: Mountain MIddle_2_201
+  - first:
+      213: 1206277111766185401
+    second: Mountain MIddle_2_202
+  - first:
+      213: 6810467056753222343
+    second: Mountain MIddle_2_203
+  - first:
+      213: 2429396855760525765
+    second: Mountain MIddle_2_204
+  - first:
+      213: 8571120124919543712
+    second: Mountain MIddle_2_205
+  - first:
+      213: -233075988723377198
+    second: Mountain MIddle_2_206
+  - first:
+      213: -10925264534907466
+    second: Mountain MIddle_2_207
+  - first:
+      213: -6362609705525392878
+    second: Mountain MIddle_2_208
+  - first:
+      213: -7589511822873877266
+    second: Mountain MIddle_2_209
+  - first:
+      213: 4124728455551234947
+    second: Mountain MIddle_2_210
+  - first:
+      213: 5672456072168872502
+    second: Mountain MIddle_2_211
+  - first:
+      213: 4728799181165512728
+    second: Mountain MIddle_2_212
+  - first:
+      213: 6474051074933625794
+    second: Mountain MIddle_2_213
+  - first:
+      213: 8836236530531211085
+    second: Mountain MIddle_2_214
+  - first:
+      213: 2823113557803213356
+    second: Mountain MIddle_2_215
+  - first:
+      213: 8849605095138786172
+    second: Mountain MIddle_2_216
+  - first:
+      213: -3387406234761780972
+    second: Mountain MIddle_2_217
+  - first:
+      213: -8540121064797572491
+    second: Mountain MIddle_2_218
+  - first:
+      213: -7753016655306981987
+    second: Mountain MIddle_2_219
+  - first:
+      213: 4964797587223657138
+    second: Mountain MIddle_2_220
+  - first:
+      213: 4378314860012764675
+    second: Mountain MIddle_2_221
+  - first:
+      213: -7373176027191301698
+    second: Mountain MIddle_2_222
+  - first:
+      213: 89987161537709271
+    second: Mountain MIddle_2_223
+  - first:
+      213: 8124301802121657320
+    second: Mountain MIddle_2_224
+  - first:
+      213: 8564941141244184666
+    second: Mountain MIddle_2_225
+  - first:
+      213: 8290034361092220275
+    second: Mountain MIddle_2_226
+  - first:
+      213: 3152160924598606090
+    second: Mountain MIddle_2_227
+  - first:
+      213: 7376251561601934558
+    second: Mountain MIddle_2_228
+  - first:
+      213: 1222926245008727741
+    second: Mountain MIddle_2_229
+  - first:
+      213: -4713609323275351435
+    second: Mountain MIddle_2_230
+  - first:
+      213: 311923955839568291
+    second: Mountain MIddle_2_231
+  - first:
+      213: 5831705648775157121
+    second: Mountain MIddle_2_232
+  - first:
+      213: 2650937916343598956
+    second: Mountain MIddle_2_233
+  - first:
+      213: -8991033321415800705
+    second: Mountain MIddle_2_234
+  - first:
+      213: 2606376921096715124
+    second: Mountain MIddle_2_235
+  - first:
+      213: -7361641333180383793
+    second: Mountain MIddle_2_236
+  - first:
+      213: 5649115164351865354
+    second: Mountain MIddle_2_237
+  - first:
+      213: 5604538913028859505
+    second: Mountain MIddle_2_238
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mountain MIddle_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d38051194d3ed160800000000000000
+      internalID: 7052141450541171668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72839fba74019c40800000000000000
+      internalID: 5517195943752204925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e307837d26d8fc00800000000000000
+      internalID: 934732413379478503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de764eeda2a4a880800000000000000
+      internalID: -8600570520460165421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a068fd1cedca40920800000000000000
+      internalID: 2955677328197256714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8db5fe1c0d24c40800000000000000
+      internalID: 5495184026708465834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57453171a72b7bc10800000000000000
+      internalID: 2069318791242929269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff996279e59460580800000000000000
+      internalID: -8861314546193229313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b9d46987aba7c0800000000000000
+      internalID: -4058966430600022623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330420f0901228a0800000000000000
+      internalID: -6331479911439269057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9842c604234f1a40800000000000000
+      internalID: 5341061505095977115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5cf43693fbb420800000000000000
+      internalID: 2646977032469896144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6a51e67d1d45350800000000000000
+      internalID: 6004654926386800294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eef16078a9735f0800000000000000
+      internalID: -776982505984102833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab5b7814e7d3e30800000000000000
+      internalID: 4484879623845690073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f613b7fc182b10800000000000000
+      internalID: 1956845888279606471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d26b6bfd65f0ba0800000000000000
+      internalID: -6120577849730126438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbf38907e46a6fa0800000000000000
+      internalID: -5806717826080965643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e0f075dae63f30800000000000000
+      internalID: 4555086275575604743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e041323cf1df270800000000000000
+      internalID: 8285813812399181406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45904b39731976a0800000000000000
+      internalID: -6451103579825466037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_21
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12972ceb914a3c0800000000000000
+      internalID: -4349323033035857448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa4d23565339c70800000000000000
+      internalID: 8976577191040298819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dfe76c412f1ebc0800000000000000
+      internalID: -3755454443206804076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6ef176624b2f80800000000000000
+      internalID: -8130331694520701865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c95a34d5ae86b70800000000000000
+      internalID: 8892615150530829464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b69574c44b49ab0800000000000000
+      internalID: -5002175046394221791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e6f9334d27b190800000000000000
+      internalID: -7946833250713411368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_28
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d77ed0e5a92530800000000000000
+      internalID: 3830775343278970144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_29
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2000
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db778b402087f60800000000000000
+      internalID: 8032172154713259278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c60727dd74a000800000000000000
+      internalID: 46300259206743774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5377a934532870800000000000000
+      internalID: 8656855515335449778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300c4bd43c21a240800000000000000
+      internalID: 4801167283282772021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79bf057115ef470800000000000000
+      internalID: 8430264713068910531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0df9db3d6497290800000000000000
+      internalID: -7892198996756672285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e7dea2301ed2f0800000000000000
+      internalID: -946301061833431436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1872
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a8ea5113f19740800000000000000
+      internalID: 5157170304181119032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e253d473f287f0800000000000000
+      internalID: -611658916281785644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a62b992ee349220800000000000000
+      internalID: 2491685636804864616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409f53b3b6e000520800000000000000
+      internalID: 2666146833121016068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb56bccdbdfd55c0800000000000000
+      internalID: -4224941883778507790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76a5920de346210800000000000000
+      internalID: 1325253254121678809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda1139aac02b610800000000000000
+      internalID: 1635383541440294349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac913782381dcdb0800000000000000
+      internalID: -4770129825019880288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed518f02ce62de0800000000000000
+      internalID: -1358138611260334346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1bf2dd669083790800000000000000
+      internalID: -7550274437884431945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bdefe8e1fee1c40800000000000000
+      internalID: 5485084310710967167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82db14332ed5d680800000000000000
+      internalID: -8730828059808378230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b3d63f2c27b5c0800000000000000
+      internalID: -4199839546204768775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8632ae063410bb0800000000000000
+      internalID: -4971618430116206354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73647eea804731350800000000000000
+      internalID: 5986255910348473911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e70708c234a0aa0800000000000000
+      internalID: -6194064479082217870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff8fae14d22d90d0800000000000000
+      internalID: -3414534648033734663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f560ecbf4ce4be0800000000000000
+      internalID: -1491037840840695938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7f89edf6f478e0800000000000000
+      internalID: -1696459589206181119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9faeec0f9ff6e960800000000000000
+      internalID: 7631067677207736223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1616
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246ec382223157d20800000000000000
+      internalID: 3275545341406799426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f0e89efa027f50800000000000000
+      internalID: 6877571669551018693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490d89dcfab4c140800000000000000
+      internalID: 4739118303045028169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7234722d4d37410800000000000000
+      internalID: 1473755502147217383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbc1912fdf5ca90800000000000000
+      internalID: -7294144805211423580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aad420a000e35c0800000000000000
+      internalID: -4233946556693370281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0403abb65e85dfb0800000000000000
+      internalID: -4623632939259591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_63
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7cf19e3e7eecff0800000000000000
+      internalID: -13818782780766257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_64
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca9d12aec03a340800000000000000
+      internalID: 4873753421474802845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_65
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90dcc58210cd7a0800000000000000
+      internalID: -6351200101631981119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_66
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142a8dc5a33faed0800000000000000
+      internalID: -2400643289154182116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_67
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1488
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737bbbfd6aa9be80800000000000000
+      internalID: -8162305460280790150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c55985fb0cbdc0800000000000000
+      internalID: -3622006851113727973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff18b7eb705c6b0800000000000000
+      internalID: -5276802873697370355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3b63ec1766fb90800000000000000
+      internalID: -7208460779787699148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d050c1cc3a380c20800000000000000
+      internalID: 3172849970105569496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991045efea300d4f0800000000000000
+      internalID: -806140283173207655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e53b4adc9f39d50800000000000000
+      internalID: 6743007728730594877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864eb2d7bdf89070800000000000000
+      internalID: 8113513694664476295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467f10f6deda9e80800000000000000
+      internalID: -8170973559177382335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff735b2c5dbd72ab0800000000000000
+      internalID: -5032812347422066689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11598fe057c982910800000000000000
+      internalID: 1812870876592903441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0dc8a1982526ad0800000000000000
+      internalID: -2710513276914184018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5e8d1b0392d6d0800000000000000
+      internalID: -2967147528533943573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597a3e15806160b20800000000000000
+      internalID: 3100189618480588693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a452059eceeb6e0800000000000000
+      internalID: -1819756712594945533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22c7a9dcdba4f600800000000000000
+      internalID: 501214423577772588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792f291e0aad2f50800000000000000
+      internalID: 6858324785083918712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a56a8990df8d40800000000000000
+      internalID: 5588915020460564998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_85
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1206714ce98fbe10800000000000000
+      internalID: 2215641189493113374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_86
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7fdd09fb4669f30800000000000000
+      internalID: 4581960444828055472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_87
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffca640dadb02bf0800000000000000
+      internalID: -351072220133797892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_88
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7406c8e4476aa0800000000000000
+      internalID: -6167885398115320726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_89
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c5e7a0e26232e0800000000000000
+      internalID: -2147545355273256874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_90
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a5ed991df6265a0800000000000000
+      internalID: -6529533563713463650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_91
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1232
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2074671ee50d330800000000000000
+      internalID: 3733588413535159039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37755db9fdb78b0800000000000000
+      internalID: -5153279488203197501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8a77c678b47ce0800000000000000
+      internalID: -1408297963167772977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff7ca7d5bc561a0800000000000000
+      internalID: -6816818858603053157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3343dc4ac55ea20800000000000000
+      internalID: 3090978582146855914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_96
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1675a8ffb82d303f0800000000000000
+      internalID: -935672798833387679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca75eb082863d2430800000000000000
+      internalID: 3759721198057838508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_98
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1fa42fbbcf52750800000000000000
+      internalID: 6279703139592106413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_99
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965a1303bc3477d0800000000000000
+      internalID: -2921643518707738988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_100
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1121f0d50ba47210800000000000000
+      internalID: 1329875831449788698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736833f673f5f7130800000000000000
+      internalID: 3566674121594209847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_102
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05baaf2a9cf44e30800000000000000
+      internalID: 4486988867922736397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_103
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65bfe31a4d6bf90800000000000000
+      internalID: -6938124386906188077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_104
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c9bf30378a0470800000000000000
+      internalID: 8361644299464065060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_105
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3fe45e30f8a420800000000000000
+      internalID: 2641625331956399329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888bdb6511f26ac20800000000000000
+      internalID: 3217310735319021704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187e0507a7f95b10800000000000000
+      internalID: 1970878608667736089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a515b4e60741c0800000000000000
+      internalID: -4519636121682597546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_109
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0af1a43b4d31590800000000000000
+      internalID: -7704580670992965451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb1406acacd1340800000000000000
+      internalID: 4836244545412906425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_111
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40b12af83e4e8f0800000000000000
+      internalID: -512034251573885723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_112
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5954940a7094d00800000000000000
+      internalID: 957304780798399936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_113
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b90a321c38b4a20800000000000000
+      internalID: 3047674438395927331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_114
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1b0d8fab19c740800000000000000
+      internalID: 5172696087811267698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_115
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9e71c88d80e180800000000000000
+      internalID: -9088108429532292521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_116
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a049df0c798a6b0800000000000000
+      internalID: -5284807307575424484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_117
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0021eee7675a1dd0800000000000000
+      internalID: -2514601338032021489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fd6be657f814dd0800000000000000
+      internalID: -2503562183309861089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_119
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 976
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1fdb29da300dae0800000000000000
+      internalID: -1526716229652450898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f2d111922a0e50800000000000000
+      internalID: 6776266595796973025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102c9178828af320800000000000000
+      internalID: 2592528058038362132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a576a841f879d0800000000000000
+      internalID: -2776203875941244598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af558d00eb6dff3a0800000000000000
+      internalID: -6629344014919772678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97830f1efe6e2020800000000000000
+      internalID: 2318912895863457690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_125
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232ce3eb1d9d65f0800000000000000
+      internalID: -761780018842164435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_126
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524a39caac982f40800000000000000
+      internalID: 5703981185399145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_127
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff6f07c49d68cb0800000000000000
+      internalID: -4861959825363894427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_128
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18488af040922b790800000000000000
+      internalID: -7515899730708626303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_129
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5b34b1e458fa50800000000000000
+      internalID: 6555082586005921786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_130
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5c8800602e1a20800000000000000
+      internalID: 3034898795726659377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_131
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023380fed9ae8d20800000000000000
+      internalID: 3282747953382633987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_132
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641258d247d971200800000000000000
+      internalID: 150762234845667654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_133
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 848
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f544e2b41a1ba90800000000000000
+      internalID: -7299876176720011413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd69b3548d50c70800000000000000
+      internalID: 8936786827450702639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_135
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b8717c049dbcb0800000000000000
+      internalID: -4846554842816531432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade47eb8b82844f0800000000000000
+      internalID: -844380156197540433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_137
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f704ee6de82e7e0800000000000000
+      internalID: -1737669452440240262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb496b3b40733e20800000000000000
+      internalID: 3329128017978543095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_139
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aba38fc4b8ed890800000000000000
+      internalID: -7431349172416365957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_140
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d4d49b9b25d5670800000000000000
+      internalID: 8529064226940865945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_141
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731952414c50574a0800000000000000
+      internalID: -6596359739504488137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_142
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7630cad55b619d10800000000000000
+      internalID: 2130602115209377406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_143
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef42dbce96292f0800000000000000
+      internalID: -967594504424718772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_144
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab01bff77b195d10800000000000000
+      internalID: 2114751702232009644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_145
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbece343bfd52c0800000000000000
+      internalID: -4441117455706833004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_146
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920580694012f9eb0800000000000000
+      internalID: -4711010381625536471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_147
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f5939eb6b0bd0f0800000000000000
+      internalID: -1091265926604955894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_148
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c295ee9e8843a0800000000000000
+      internalID: -6680933234096553238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_149
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 720
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea0b45d83807b90800000000000000
+      internalID: -7246147157404635490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc817b499cfc890800000000000000
+      internalID: -7435502819201200850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec16da9839d98f50800000000000000
+      internalID: 6884272342551633133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b06c708866b1f0800000000000000
+      internalID: -1029520563755765213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5030ee8d9659d2c0800000000000000
+      internalID: -4406395525698408358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_154
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa5bc4d3e341fc0800000000000000
+      internalID: -3525124175323353170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_155
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4e23a2b3b3f070800000000000000
+      internalID: 8139046531411890107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_156
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8feeb0f83d50900800000000000000
+      internalID: 650158332558899361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_157
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cce7dd967f3bf00800000000000000
+      internalID: 1131519965459827843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_158
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b063ba9e99ac10f0800000000000000
+      internalID: -1144853706593574732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_159
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61039cd4323dadc30800000000000000
+      internalID: 4385049335780945942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_160
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52f96e6efa00b90800000000000000
+      internalID: -7277623591584193050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_161
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ea85c340e653e0800000000000000
+      internalID: -2065216797421150136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_162
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85ed09e6f9b3450800000000000000
+      internalID: 6069620220037585107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_163
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09758c9f370fdef20800000000000000
+      internalID: 3453680870165600144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_164
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce7d2becc1105a0800000000000000
+      internalID: -6556927908385395608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_165
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 592
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc993b9e3bc4ce120800000000000000
+      internalID: 2444413033359055308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafdc51f27663c30800000000000000
+      internalID: 4338768742944996030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f963317f484e4600800000000000000
+      internalID: 454380118449809907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9da16017e7ee20800000000000000
+      internalID: 3379924102909106988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_169
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cafe0ad084f1af0800000000000000
+      internalID: -423540616577700776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f2c732fd1fbb60800000000000000
+      internalID: 7763957208764839757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eeafcc2d86d81d0800000000000000
+      internalID: -3346903693474992503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_172
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4c71e0324be400800000000000000
+      internalID: 354449773387599609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_173
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966db021633da9060800000000000000
+      internalID: 6961108403238983273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_174
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2897538495c7820800000000000000
+      internalID: 2917304825298911937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_175
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b41ea7196d1a20800000000000000
+      internalID: 3034697274343338707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_176
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd786b2635dfaf70800000000000000
+      internalID: 9200806992374431229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_177
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9cf8b04eab8d8b0800000000000000
+      internalID: -5127142687152027182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_178
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdfc0bf064ffd230800000000000000
+      internalID: 3665917319068843519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_179
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b074f10cf41a57c0800000000000000
+      internalID: -4081927039660822351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_180
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647489188619e020800000000000000
+      internalID: 2371451452586751078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_181
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c17f9ad7055f70800000000000000
+      internalID: 9175248451396551104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_182
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876fe019b6574c90800000000000000
+      internalID: -7185679327593273465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_183
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 464
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb21f14fde53190800000000000000
+      internalID: -7983213131695210679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_184
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb2cac9297a3570800000000000000
+      internalID: 8447197271489166469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_185
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb93e32bd7f7460800000000000000
+      internalID: 7241644930336668720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251aaad80fcb7df90800000000000000
+      internalID: -6928861760331275950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_187
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330c1241a12bf4f0800000000000000
+      internalID: -794003932818177219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0ec99a2a3c0520800000000000000
+      internalID: 2669572633767316248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_189
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f8e40cf1d598b0800000000000000
+      internalID: -5145976118856583473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37969718c457b380800000000000000
+      internalID: -8955596115637004482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_191
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f00319fade653470800000000000000
+      internalID: 8373720968926003447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_192
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cc8d67d333968d0800000000000000
+      internalID: -2852692549882557368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_193
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379ad38d1fc886e00800000000000000
+      internalID: 1038234684451826035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_194
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04ef7d01aa76270800000000000000
+      internalID: 8243744632244945099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_195
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50590edc1c216d160800000000000000
+      internalID: 7049842890287125765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_196
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3bb89bbd8e83d00800000000000000
+      internalID: 952767351597282231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_197
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a46e51a6790c50800000000000000
+      internalID: 6631962361725232613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_198
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea8c572488f4bd0800000000000000
+      internalID: -2643744637217886540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_199
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f046fc22bf6d9150800000000000000
+      internalID: 5880979499464933621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_200
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8c17c2469644d0800000000000000
+      internalID: -3150665675746538829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_201
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf3c961eed230a0800000000000000
+      internalID: -6903210219082089410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f18b54ae8db010800000000000000
+      internalID: 1206277111766185401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a64864b3a38e50800000000000000
+      internalID: 6810467056753222343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99e0e9193f6b120800000000000000
+      internalID: 2429396855760525765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_205
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f705875cb2f670800000000000000
+      internalID: 8571120124919543712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_206
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db58768f92f3ccf0800000000000000
+      internalID: -233075988723377198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_207
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d150a78f29dff0800000000000000
+      internalID: -10925264534907466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_208
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac4b1fe2873b7a0800000000000000
+      internalID: -6362609705525392878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_209
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a9f24533aca690800000000000000
+      internalID: -7589511822873877266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_210
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b3143daafd3930800000000000000
+      internalID: 4124728455551234947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_211
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a12a16ebc98be40800000000000000
+      internalID: 5672456072168872502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_212
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818478f0dc110a140800000000000000
+      internalID: 4728799181165512728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_213
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39723d62378d950800000000000000
+      internalID: 6474051074933625794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_214
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4794a1ee4e90aa70800000000000000
+      internalID: 8836236530531211085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_215
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222375c2d6bd2720800000000000000
+      internalID: 2823113557803213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_216
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bfb3262fc10da70800000000000000
+      internalID: 8849605095138786172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_217
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a41b0af38df0d0800000000000000
+      internalID: -3387406234761780972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_218
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f8e993256b7980800000000000000
+      internalID: -8540121064797572491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_219
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 208
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7db2ed60c76490800000000000000
+      internalID: -7753016655306981987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2babe28d91186e440800000000000000
+      internalID: 4964797587223657138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30effd9fa26e2cc30800000000000000
+      internalID: 4378314860012764675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_222
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb926d0d7773da990800000000000000
+      internalID: -7373176027191301698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_223
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40dcdb8d2bf3100800000000000000
+      internalID: 89987161537709271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf683d1715fb070800000000000000
+      internalID: 8124301802121657320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580df5c698ccd670800000000000000
+      internalID: 8564941141244184666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_226
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3752fa4345e1c0370800000000000000
+      internalID: 8290034361092220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_227
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091199f8a9bebb20800000000000000
+      internalID: 3152160924598606090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_228
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed42437d6b5bd5660800000000000000
+      internalID: 7376251561601934558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_229
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5f34c0f4b8f010800000000000000
+      internalID: 1222926245008727741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_230
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a04345b45e59eb0800000000000000
+      internalID: -4713609323275351435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_231
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a980c86f2d245400800000000000000
+      internalID: 311923955839568291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_232
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185d1edc3616ee050800000000000000
+      internalID: 5831705648775157121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_233
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f36495df50ac420800000000000000
+      internalID: 2650937916343598956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_234
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788f49a4de693380800000000000000
+      internalID: -8991033321415800705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_235
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bfeb42006bb2420800000000000000
+      internalID: 2606376921096715124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_236
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd33fb063236d990800000000000000
+      internalID: -7361641333180383793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_237
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02277acf40b56e40800000000000000
+      internalID: 5649115164351865354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain MIddle_2_238
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17660f0827257cd40800000000000000
+      internalID: 5604538913028859505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
