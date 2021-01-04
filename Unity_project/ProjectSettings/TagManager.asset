@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -80,4 +80,10 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 3026960299
+    locked: 0
+  - name: Entities
+    uniqueID: 3681945283
+    locked: 0
+  - name: Hat
+    uniqueID: 2914781771
     locked: 0
