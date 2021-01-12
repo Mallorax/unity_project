@@ -1062,6 +1062,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 180394123}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &193918676 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2526144601549307104, guid: 02103684577afac43b62824e06d6fedc,
+    type: 3}
+  m_PrefabInstance: {fileID: 4842613356905238690}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &197509316
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49451,6 +49457,7 @@ GameObject:
   - component: {fileID: 1789763012}
   - component: {fileID: 1789763016}
   - component: {fileID: 1789763017}
+  - component: {fileID: 1789763018}
   m_Layer: 9
   m_Name: slug
   m_TagString: Enemy
@@ -49581,7 +49588,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5f6d99558833a247bc6a3d739f212d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 15
   damageForce: 5
   moveSpeed: 3
   isMovingRight: 0
@@ -49604,6 +49610,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1789763018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789763011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2191a826d7d6142b77671bc0b161b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxhp: 15
 --- !u!1001 &1819952064
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81154,6 +81173,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2526144601549307104, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.525
+      objectReference: {fileID: 0}
+    - target: {fileID: 2526144601549307104, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27
+      objectReference: {fileID: 0}
     - target: {fileID: 4737903230298786414, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: m_SortingLayerID
@@ -81197,7 +81226,7 @@ PrefabInstance:
     - target: {fileID: 4842613356280166674, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: m_Mass
-      value: 4.317558
+      value: 4.7588325
       objectReference: {fileID: 0}
     - target: {fileID: 4842613356280166675, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
@@ -81259,6 +81288,16 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Weapon
       objectReference: {fileID: 0}
+    - target: {fileID: 4844358266204342398, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4844358266204342398, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.84
+      objectReference: {fileID: 0}
     - target: {fileID: 7253812752256990860, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: hp
@@ -81274,6 +81313,26 @@ PrefabInstance:
       propertyPath: playerHPText
       value: 
       objectReference: {fileID: 674410522}
+    - target: {fileID: 7253812752256990860, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 193918676}
+    - target: {fileID: 7253812752256990860, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: enemyLayer.m_Bits
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7253812752256990860, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: attackRange
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7253812752256990860, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: damageForce
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02103684577afac43b62824e06d6fedc, type: 3}
 --- !u!1001 &5245165222365840453

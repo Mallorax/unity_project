@@ -17,15 +17,23 @@ public class PlayerControler : MonoBehaviour
     [SerializeField]
     private LayerMask ground;
     [SerializeField]
-    private float jumpForce;
+    private float jumpForce = 30;
     [SerializeField]
-    private float characterSpeed;
+    private float characterSpeed = 10;
     [SerializeField]
-    private int hp;
+    private int hp = 5;
     [SerializeField]
     private Text playerHPText;
     [SerializeField]
-    private float damageForce = 10;
+    private float damageForce = 5;
+
+
+    public Transform attackPoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayer;
+    public float attackRate = 2f;
+
+    private float nextAttackTime = 0;
 
 
 
@@ -94,13 +102,37 @@ public class PlayerControler : MonoBehaviour
         }
     }
 
+
+    private void Attack()
+    {    
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+        foreach(Collider2D enemy in hitEnemies)
+        {
+            Debug.Log("We hit" + enemy.name);
+            enemy.GetComponent<Enemy>().TakeDamage(damageForce);
+        }
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if(attackPoint == null)
+        {
+            return;
+        }
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+    }
+
     private void VelocityStateChange()
     {
-
         if (Input.GetButtonDown("Fire1"))
         {
-            anim.SetTrigger("attack");
+            if  (Time.time >= nextAttackTime)
+            {
+                anim.SetTrigger("attack");
+                nextAttackTime = Time.time + 1f / attackRate;
+            }
         }
+        
         else if (Input.GetButtonDown("Fire3"))
         {
             anim.SetTrigger("rest");

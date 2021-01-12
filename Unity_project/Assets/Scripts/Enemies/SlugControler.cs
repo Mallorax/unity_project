@@ -8,28 +8,27 @@ public class SlugControler : MonoBehaviour
     private Rigidbody2D rb;
 
     [SerializeField]
-    private int hp = 15;
-    [SerializeField]
     private int damageForce = 5;
     [SerializeField]
     private float moveSpeed = 0.5f;
     public bool isMovingRight = false;
+
+    
            
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        
     }
+
+
 
 
     // Update is called once per frame
     void Update()
     {
-        if(hp <= 0)
-        {
-            Destroy(this);
-        }
         if (isMovingRight)
         {
             transform.Translate(1 * Time.deltaTime * moveSpeed, 0, 0);
@@ -42,11 +41,11 @@ public class SlugControler : MonoBehaviour
         }
     }
 
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Weapon"))
         {
-            hp -= 5;
             if (collision.gameObject.transform.position.x > transform.position.x)
             {
                 rb.velocity = new Vector2(-damageForce, rb.velocity.y);
