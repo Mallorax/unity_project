@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    [SerializeField]
     private float currentHp;
     [SerializeField]
     private float maxhp = 15;
@@ -32,7 +33,8 @@ public class Enemy : MonoBehaviour
     void Die()
     {
         GetComponent<Collider2D>().enabled = false;
-        this.enabled = false;
+        GetComponent<SpriteRenderer>().enabled = false;
+        Destroy(this);
     }
 
 }
