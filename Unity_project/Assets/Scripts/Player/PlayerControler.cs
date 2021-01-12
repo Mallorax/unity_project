@@ -10,7 +10,7 @@ public class PlayerControler : MonoBehaviour
     private Collider2D coll;
 
     //States
-    private enum State { idle, run, jump, rest };
+    private enum State { idle, run, jump, rest, hurt};
     private State state = State.idle;
 
     //Inspector Variables
@@ -24,8 +24,9 @@ public class PlayerControler : MonoBehaviour
     private int hp;
     [SerializeField]
     private Text playerHPText;
+    [SerializeField]
+    private float damageForce = 10;
 
-    private int direction;
 
 
     // Start is called before the first frame update
@@ -38,7 +39,10 @@ public class PlayerControler : MonoBehaviour
     void Update()
     {
         playerHPText.text = hp.ToString();
-        CharacterMovement();
+        if(state != State.hurt)
+        {
+            CharacterMovement();
+        }
         VelocityStateChange();
         anim.SetInteger("state", (int)state);
     }
@@ -47,11 +51,22 @@ public class PlayerControler : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            if (state == State.jump)
+            if (state != State.hurt)
             {
-                Destroy(collision.gameObject);
+
+                state = State.hurt;
+                hp--;
+                //Interaction on damage
+                if (collision.gameObject.transform.position.x > transform.position.x)
+                {
+                    rb.velocity = new Vector2(-damageForce, rb.velocity.y);
+                }
+                else
+                {
+                    rb.velocity = new Vector2(damageForce, rb.velocity.y);
+                }           
             }
-            hp--;
+            
         }
     }
 
@@ -61,7 +76,6 @@ public class PlayerControler : MonoBehaviour
         //Movement
         if (hDirection < 0)
         {
-            direction = -1;
             rb.velocity = new Vector2(-characterSpeed, rb.velocity.y);
             Vector2 tmp = transform.localScale;
             tmp.x = 1;
@@ -69,7 +83,6 @@ public class PlayerControler : MonoBehaviour
         }
         else if (hDirection > 0)
         {
-            direction = 1;
             rb.velocity = new Vector2(characterSpeed, rb.velocity.y);
             Vector2 tmp = transform.localScale;
             tmp.x = -1;
@@ -95,6 +108,13 @@ public class PlayerControler : MonoBehaviour
         else if (!coll.IsTouchingLayers(ground))
         {
             state = State.jump;
+        }
+        else if(state == State.hurt)
+        {
+            if (Mathf.Abs(rb.velocity.x) < 1 && coll.IsTouchingLayers(ground))
+            {
+                state = State.idle;
+            }
         }
         else if (Mathf.Abs(rb.velocity.x) > 1 && coll.IsTouchingLayers(ground))
         {
