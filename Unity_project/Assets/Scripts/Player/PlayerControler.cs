@@ -28,12 +28,16 @@ public class PlayerControler : MonoBehaviour
     private float damageForce = 5;
 
 
+
+
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayer;
     public float attackRate = 2f;
+    
 
     private float nextAttackTime = 0;
+    private AudioManager audioManager;
 
 
 
@@ -41,6 +45,11 @@ public class PlayerControler : MonoBehaviour
     void Start()
     {
         coll = GetComponent<Collider2D>();
+        if(audioManager == null)
+        {
+            Debug.LogError("Audio Manager is null");
+        }
+        audioManager = AudioManager.instance;
     }
 
     // Update is called once per frame
@@ -53,6 +62,16 @@ public class PlayerControler : MonoBehaviour
         }
         VelocityStateChange();
         anim.SetInteger("state", (int)state);
+    }
+
+    public void SwordSwing()
+    {
+        audioManager.PlaySound("Swing");
+    }
+
+    public void Footstep()
+    {
+        audioManager.PlaySound("Step");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

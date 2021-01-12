@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 1422953005667246690}
   - component: {fileID: 1422953005667246702}
   - component: {fileID: 1782499947522996864}
-  m_Layer: 0
+  - component: {fileID: 8277885873574545451}
+  m_Layer: 9
   m_Name: slug
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -119,7 +120,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1422953005667246693}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 1
@@ -144,7 +145,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5f6d99558833a247bc6a3d739f212d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hp: 15
   damageForce: 5
   moveSpeed: 3
   isMovingRight: 0
@@ -167,3 +167,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8277885873574545451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422953005667246693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2191a826d7d6142b77671bc0b161b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHp: 0
+  maxhp: 15
