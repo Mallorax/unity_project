@@ -91,3 +91,6 @@ TagManager:
   - name: Hat
     uniqueID: 2914781771
     locked: 0
+  - name: Front
+    uniqueID: 1661550723
+    locked: 0
