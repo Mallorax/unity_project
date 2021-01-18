@@ -9,6 +9,7 @@ TagManager:
   - Turn
   - TurnLeft
   - TurnRight
+  - Boss
   layers:
   - Default
   - TransparentFX
