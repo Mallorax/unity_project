@@ -26,7 +26,8 @@ public class PlayerControler : MonoBehaviour
     private Text playerHPText;
     [SerializeField]
     private float damageForce = 5;
-
+    [SerializeField]
+    private AudioManager audioManager;
 
 
 
@@ -37,7 +38,7 @@ public class PlayerControler : MonoBehaviour
     
 
     private float nextAttackTime = 0;
-    private AudioManager audioManager;
+
 
 
 
@@ -49,7 +50,6 @@ public class PlayerControler : MonoBehaviour
         {
             Debug.LogError("Audio Manager is null");
         }
-        audioManager = AudioManager.instance;
     }
 
     // Update is called once per frame

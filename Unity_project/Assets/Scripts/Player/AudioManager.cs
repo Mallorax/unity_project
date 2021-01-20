@@ -37,18 +37,10 @@ public class AudioManager : MonoBehaviour
 {
     [SerializeField]
     private Sound[] sounds;
-    public static AudioManager instance;
 
     private void Awake()
     {
-        if (instance != null)
-        {
-            Debug.Log("More than 1 audio manager in the scene");
-        }
-        else
-        {
-            instance = this;
-        }
+
     }
 
     // Start is called before the first frame update

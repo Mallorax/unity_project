@@ -24,34 +24,12 @@ public class BossRun : StateMachineBehaviour
     // OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
     override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        Vector2 target = new Vector2(player.position.x, rb.position.y);
-        Vector2 newPos = Vector2.MoveTowards(rb.position, target, speed * Time.fixedDeltaTime);
-        Collider2D[] colider = Physics2D.OverlapCircleAll(rb.position, attackRange, layerMask);
-        float distanceToPlayer = Vector2.Distance(player.position, rb.position);
-        //TODO: Something's wrong with if statements boss doesnt act properly
-        if (!animator.GetBool("idle") && distanceToPlayer > boss.attackRange)
-        {
-            rb.MovePosition(newPos);
-            animator.SetBool("idle", false);
-        }
-        else
-        {
-            animator.SetBool("idle", true);
-        }
-        boss.LookAtPlayer();
-        if (colider.Length > 0 && Time.time >= boss.nextAttackTime)
-        {     
-            
-            animator.SetTrigger("Attack");
-            boss.nextAttackTime = Time.time + 1f / boss.attackRate;
-            Debug.Log("Attack");
-        }
+
     }
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-        animator.ResetTrigger("Attack");
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

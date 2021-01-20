@@ -13,8 +13,18 @@ public class Boss : MonoBehaviour
     private float distanceToPlayer;
     public bool isFlipped = true;
     public float attackRange;
-    public float nextAttackTime = 0;
+    private float nextAttackTime = 0;
     public float attackRate = 1;
+    public float movementSpeed = 7f;
+
+    public float speed = 2.5f;
+    public LayerMask layerMask;
+    [SerializeField]
+    private AudioManager audioManager;
+
+    private enum State { idle, run}
+    private State state = State.idle;
+
 
     // Start is called before the first frame update
     void Start()
@@ -26,21 +36,51 @@ public class Boss : MonoBehaviour
         tmp.x = -2;
         boss.localScale = tmp;
 
+        
+
     }
 
     // Update is called once per frame
     void Update()
     {
         distanceToPlayer = Vector2.Distance(player.position, boss.position);
-        if(distanceToPlayer <= 20 && player.position.y < boss.position.y + 1)
+        Vector2 target = new Vector2(player.position.x, rb.position.y);
+        Vector2 newPos = Vector2.MoveTowards(rb.position, target, movementSpeed * Time.fixedDeltaTime);
+        Collider2D[] colider = Physics2D.OverlapCircleAll(rb.position, attackRange, layerMask);
+        LookAtPlayer();
+        //TODO Boss should stop moving when player is in the air
+        if (colider.Length == 0 && distanceToPlayer < 20)
         {
-            anim.SetBool("idle", false);
-            LookAtPlayer();
+            rb.MovePosition(newPos);
+            state = State.run;
         }
-        else
+        else if (distanceToPlayer > 20 | colider.Length > 0 | player.position.y > rb.position.y + 0.5)
         {
-            anim.SetBool("idle", true);
+            state = State.idle;
         }
+        anim.SetInteger("state", (int)state);
+        if (colider.Length > 0 && Time.time >= nextAttackTime)
+        {
+            anim.SetTrigger("attack");           
+            nextAttackTime = Time.time + 1f / attackRate;
+            Debug.Log("attack");
+        }
+        
+    }
+
+    public void PlaySwingSound()
+    {
+        audioManager.PlaySound("attack");
+    }
+
+    public void PlayHitSound()
+    {
+        audioManager.PlaySound("hit");
+    }
+
+    public void PlayStepSound()
+    {
+        audioManager.PlaySound("run");
     }
 
 
