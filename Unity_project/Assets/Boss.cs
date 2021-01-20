@@ -6,17 +6,22 @@ public class Boss : MonoBehaviour
 {
 
     public Animator anim;
+    public Rigidbody2D rb;
 
     private Transform player;
     private Transform boss;
     private float distanceToPlayer;
     public bool isFlipped = true;
+    public float attackRange;
+    public float nextAttackTime = 0;
+    public float attackRate = 1;
 
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         boss = GameObject.FindGameObjectWithTag("Boss").transform;
+        rb = GetComponent<Rigidbody2D> ();
         Vector2 tmp = transform.localScale;
         tmp.x = -2;
         boss.localScale = tmp;
@@ -27,15 +32,19 @@ public class Boss : MonoBehaviour
     void Update()
     {
         distanceToPlayer = Vector2.Distance(player.position, boss.position);
-        if(distanceToPlayer <= 20)
+        if(distanceToPlayer <= 20 && player.position.y < boss.position.y + 1)
         {
-            anim.SetBool("isSeeingPlayer", true);
+            anim.SetBool("idle", false);
+            LookAtPlayer();
         }
         else
         {
-            anim.SetBool("isSeeingPlayer", false);
+            anim.SetBool("idle", true);
         }
     }
+
+
+
 
     public void LookAtPlayer()
     {
