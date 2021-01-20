@@ -10,6 +10,7 @@ TagManager:
   - TurnLeft
   - TurnRight
   - Boss
+  - MusicTriger
   layers:
   - Default
   - TransparentFX
