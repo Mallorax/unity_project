@@ -81344,6 +81344,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1950861166 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6938921065400535228, guid: 02103684577afac43b62824e06d6fedc,
+    type: 3}
+  m_PrefabInstance: {fileID: 6938921065378598809}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33981ef2c5630d47950f82bd7aa912c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1956474447 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 991837108888355800, guid: cfc61d8b757b9634684f95e575213613,
@@ -83316,6 +83328,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6938921065400535217, guid: 02103684577afac43b62824e06d6fedc,
+        type: 3}
+      propertyPath: audioManager
+      value: 
+      objectReference: {fileID: 1950861166}
     - target: {fileID: 6938921065400535217, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: playerHPText

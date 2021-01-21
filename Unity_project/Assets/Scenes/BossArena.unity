@@ -236,12 +236,12 @@ PrefabInstance:
     - target: {fileID: 6938921064604200687, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.1542797
+      value: 3.7081184
       objectReference: {fileID: 0}
     - target: {fileID: 6938921064604200687, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.642228
+      value: 1.6117531
       objectReference: {fileID: 0}
     - target: {fileID: 6938921064604200687, guid: 02103684577afac43b62824e06d6fedc,
         type: 3}
@@ -311,6 +311,18 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6938921064302612561, guid: 02103684577afac43b62824e06d6fedc, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 02103684577afac43b62824e06d6fedc, type: 3}
+--- !u!114 &21542302 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6938921065400535217, guid: 02103684577afac43b62824e06d6fedc,
+    type: 3}
+  m_PrefabInstance: {fileID: 21542301}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a4b56f68f0853c41a1b740b8d1c0f9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &41385738
 GameObject:
   m_ObjectHideFlags: 0
@@ -7506,6 +7518,11 @@ PrefabInstance:
       propertyPath: audioManager
       value: 
       objectReference: {fileID: 789882745}
+    - target: {fileID: 399640972453649218, guid: 13422b713c9330f42b3ea6f345357c96,
+        type: 3}
+      propertyPath: playerControler
+      value: 
+      objectReference: {fileID: 21542302}
     - target: {fileID: 399640972453649218, guid: 13422b713c9330f42b3ea6f345357c96,
         type: 3}
       propertyPath: layerMask.m_Bits

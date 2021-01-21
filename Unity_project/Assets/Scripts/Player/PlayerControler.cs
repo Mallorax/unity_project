@@ -97,6 +97,20 @@ public class PlayerControler : MonoBehaviour
         }
     }
 
+    public void damagePlayer(int attackForce, Transform obj)
+    {
+        state = State.hurt;
+        hp -= attackForce;
+        if (obj.position.x > transform.position.x)
+        {
+            rb.velocity = new Vector2(-damageForce, rb.velocity.y);
+        }
+        else
+        {
+            rb.velocity = new Vector2(damageForce, rb.velocity.y);
+        }
+    }
+
     private void CharacterMovement()
     {
         float hDirection = Input.GetAxis("Horizontal");

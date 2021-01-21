@@ -21,6 +21,9 @@ public class Boss : MonoBehaviour
     public LayerMask layerMask;
     [SerializeField]
     private AudioManager audioManager;
+    [SerializeField]
+    private PlayerControler playerControler;
+    public int attackDamage = 1;
 
     private enum State { idle, run}
     private State state = State.idle;
@@ -66,6 +69,20 @@ public class Boss : MonoBehaviour
             Debug.Log("attack");
         }
         
+    }
+
+    public void inflictDamage()
+    {
+
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(rb.position, attackRange, layerMask);
+        if (hitEnemies.Length != 0)
+        {
+            foreach (Collider2D player in hitEnemies)
+            {
+                Debug.Log("We hit" + player.name);
+                player.GetComponent<PlayerControler>().damagePlayer(attackDamage, boss);
+            }
+        }
     }
 
     public void PlaySwingSound()
