@@ -23,6 +23,10 @@ public class Boss : MonoBehaviour
     private AudioManager audioManager;
     [SerializeField]
     private PlayerControler playerControler;
+    [SerializeField]
+    private HealthBarScript healthbar;
+    [SerializeField]
+    private Enemy bossHp;
     public int attackDamage = 1;
 
     private enum State { idle, run}
@@ -38,14 +42,17 @@ public class Boss : MonoBehaviour
         Vector2 tmp = transform.localScale;
         tmp.x = -2;
         boss.localScale = tmp;
-
-        
-
+        healthbar.SetMaxHealth((int)bossHp.maxhp);      
     }
 
     // Update is called once per frame
     void Update()
     {
+        healthbar.SetHealth((int)bossHp.currentHp);
+        if(bossHp.currentHp <= 0)
+        {
+            Destroy(this.gameObject);
+        }
         distanceToPlayer = Vector2.Distance(player.position, boss.position);
         Vector2 target = new Vector2(player.position.x, rb.position.y);
         Vector2 newPos = Vector2.MoveTowards(rb.position, target, movementSpeed * Time.fixedDeltaTime);

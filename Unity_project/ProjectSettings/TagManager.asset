@@ -11,6 +11,7 @@ TagManager:
   - TurnRight
   - Boss
   - MusicTriger
+  - SceneTransition
   layers:
   - Default
   - TransparentFX

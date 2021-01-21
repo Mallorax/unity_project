@@ -5,9 +5,9 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     [SerializeField]
-    private float currentHp;
+    public float currentHp;
     [SerializeField]
-    private float maxhp = 15;
+    public float maxhp = 15;
 
     // Start is called before the first frame update
     void Start()
@@ -34,7 +34,6 @@ public class Enemy : MonoBehaviour
     {
         GetComponent<Collider2D>().enabled = false;
         GetComponent<SpriteRenderer>().enabled = false;
-        Destroy(this.gameObject);
     }
 
 }

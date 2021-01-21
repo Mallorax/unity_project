@@ -2,14 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayBossTrack : MonoBehaviour
+public class SceneTransition : MonoBehaviour
 {
-    private AudioSource audio;
+    [SerializeField]
+    private LevelLoader levelLoader;
 
     // Start is called before the first frame update
     void Start()
     {
-        audio = GetComponent<AudioSource>();
+        
     }
 
     // Update is called once per frame
@@ -20,12 +21,10 @@ public class PlayBossTrack : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Music on!! " + gameObject.tag);
-        if (gameObject.CompareTag("MusicTriger"))
-        {            
-            audio.Play();
-            GetComponent<BoxCollider2D>().enabled = false;
-
+        Debug.Log("Transitioning... " + gameObject.tag);
+        if (gameObject.CompareTag("SceneTransition"))
+        {
+            levelLoader.LoadNextLevel();
         }
     }
 }

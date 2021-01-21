@@ -23,11 +23,11 @@ public class PlayerControler : MonoBehaviour
     [SerializeField]
     private int hp = 5;
     [SerializeField]
-    private Text playerHPText;
-    [SerializeField]
     private float damageForce = 5;
     [SerializeField]
     private AudioManager audioManager;
+    [SerializeField]
+    private HealthBarScript health;
 
 
 
@@ -50,18 +50,19 @@ public class PlayerControler : MonoBehaviour
         {
             Debug.LogError("Audio Manager is null");
         }
+        health.SetMaxHealth(hp);
     }
 
     // Update is called once per frame
     void Update()
     {
-        playerHPText.text = hp.ToString();
         if(state != State.hurt)
         {
             CharacterMovement();
         }
         VelocityStateChange();
         anim.SetInteger("state", (int)state);
+        health.SetHealth(hp);
     }
 
     public void SwordSwing()
