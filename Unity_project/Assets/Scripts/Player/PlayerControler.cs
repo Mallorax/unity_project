@@ -61,8 +61,17 @@ public class PlayerControler : MonoBehaviour
             CharacterMovement();
         }
         VelocityStateChange();
-        anim.SetInteger("state", (int)state);
         health.SetHealth(hp);
+        DeathCheck();
+        anim.SetInteger("state", (int)state);       
+    }
+
+    private void DeathCheck()
+    {
+        if(hp <= 0)
+        {
+            FindObjectOfType<GameManager>().GameOver();
+        }
     }
 
     public void SwordSwing()

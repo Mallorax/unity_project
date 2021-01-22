@@ -12,6 +12,7 @@ TagManager:
   - Boss
   - MusicTriger
   - SceneTransition
+  - PlayerUI
   layers:
   - Default
   - TransparentFX

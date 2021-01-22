@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
@@ -24,7 +25,7 @@ public class SceneTransition : MonoBehaviour
         Debug.Log("Transitioning... " + gameObject.tag);
         if (gameObject.CompareTag("SceneTransition"))
         {
-            levelLoader.LoadNextLevel();
+            levelLoader.LoadLevel(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }

@@ -8,12 +8,12 @@ public class LevelLoader : MonoBehaviour
     public Animator transition;
     public float transitionTime;
 
-    public void LoadNextLevel()
+    public void LoadLevel(int level)
     {
-        StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
+        StartCoroutine(LoadLvl(level));
     }
 
-    IEnumerator LoadLevel(int levelIndex)
+    IEnumerator LoadLvl(int levelIndex)
     {
         transition.SetTrigger("start");
         yield return new WaitForSeconds(transitionTime);
